@@ -8,7 +8,7 @@ The original data is derived from MOD produced by hikip922 for Call to Arms:
 
 Air & Land Warfare Mission Pack *NEW MISSION* "Blizzard of Fire!" （ https://steamcommunity.com/sharedfiles/filedetails/?id=1433544352 ）
 
-This library is used for cloud checking, checking and backup.
+This library is used for cloud checking and backup.
 
 这个库用于云端检查校验和备份。
 
