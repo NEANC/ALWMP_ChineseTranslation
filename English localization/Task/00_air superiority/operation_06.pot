@@ -1,0 +1,165 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (single/00_air superiority/operation_06)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_air superiority/operation_06/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/place"
+msgid "U.S. Attack on GRM remnants."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/name"
+msgid "*NEW* Lead Rain"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/name_big"
+msgid "Operation 6"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/story"
+msgid "The GRM are desperatly holding onto what little they have left. With fears Russia is planning to join the fight on the GRMs side, the US Army launches an attack in an attempt to eliminate any remaining GRM forces. You take control of a A-10 Warthog and support the troops from the air, provide ground support for the attack and get our troops home!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin6"
+msgid "Once a zone is marked in blue our troops have control of the area and are moving to the next location. Support the troops and secure all locations, Good luck Warthog one!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk1"
+msgid "Thats all of them, the area is under our control! Thanks for the air support Warthog 1, couldn't have done it without you!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin4"
+msgid "Your hud will be constantly updated with information about the assault. For a quick reminder, I'll go over all the indicators."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk5"
+msgid "Anytime command, Anytime."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin7"
+msgid "Thanks for the refresh command, I'm at location and providing ground support now!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/e1_cap_talk"
+msgid "Enemy village secured and under our control!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin2"
+msgid "Copy that Warthog 1 your cleared for takeoff!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o3_cap_talk"
+msgid "The outermost building fortification is secured!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o2_cap_talk"
+msgid "Our troops now control the outermost gas station!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m_cap_talk2"
+msgid "Warthog one copys, performing strafing runs on new enemy targets!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o4_cap_talk"
+msgid "The eastmost outpost is under US control!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk2"
+msgid "Anytime soldier, Warthog 1 is heading back to base."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin3"
+msgid "Our attack on what remains of the GRM is in progress. With fears of Russia joining the fight we need to end the GRM now!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/failstate"
+msgid "You crashed your A-10, the troops really needed that air support!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m2_cap_talk"
+msgid "The enemy's center fortification has been captured!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin5"
+msgid "A yellow marker shows where our troops are attacking, and a red marker indicates targets marked for destruction by our troops."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o_full_cap"
+msgid "Good work the outskirts are secured, new attack locations are now displayed on your hud."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_cap_desc"
+msgid "Destroy the remaining enemy forces and capture the oil field!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/outskirts_cap_desc"
+msgid "Capture the enemy outskirts."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m_cap_talk"
+msgid "Thanks for the support Warthog one, We're making a push for the final enemy defenses now!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin2_5"
+msgid "Systems check complete, commencing takeoff!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o1_cap_talk"
+msgid "We've captured the westmost outpost!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m1_cap_talk"
+msgid "Enemy city block secured, moving onto new targets!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin1"
+msgid "Tower this is Warthog 1 approching runway now, requesting takeoff clearence"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/mid_cap_desc"
+msgid "Capture the second line of enemy defenses."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m3_cap_talk"
+msgid "Another enemy fortification is in allied hands!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/e2_cap_talk"
+msgid "The enemy oil field is secured, our troops are finishing off the straglers!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk3"
+msgid "Warthog 1, the runway is cleared your go to land."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk4"
+msgid "Good work out there Warthog 1, our troops couldn't have done it without your support!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/victory_desc"
+msgid "Thanks to your close air support the assault was a resounding success. Now pack up and get ready to move! We have information of russian aircraft approching this base!"
+msgstr ""

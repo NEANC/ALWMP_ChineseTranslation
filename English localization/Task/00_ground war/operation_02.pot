@@ -1,0 +1,485 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (valley defense)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_ground war/operation_02/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/place"
+msgid "UAF Convoy returning from a top secret mission."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/name"
+msgid "Valley Defense"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/name_big"
+msgid "Operation 2"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/story"
+msgid "After a succesful raid on a rebel fortification, containing information that could give the UAF an edge in the conflict. Rebel forces ambush and surround the returning convoy. Two UAF humvees are instantly destroyed by an IED, and the rest of the troops are forced to secure the position and hold out for reinforcements. The commander was killed in the explosion, so its up to you the squad leader to take control and call in reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ac130_talk4"
+msgid "We're now bingo on fuel heading back to base."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/begin_6"
+msgid "You can use MP to take control of units or call in support. More support will arrive as the battle progresses! Good luck squad leader."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/mc_desc"
+msgid "Take command of all gun emplacements!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/sc_talk2"
+msgid "Copy that squad leader, hang in there!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ending_choice_text"
+msgid "Choose your ending by selecting one of the options on the right!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/victory_uaf"
+msgid "You were rescued by the UAF convoy!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_ending_talk6"
+msgid "Yes Sir, we've had about enough of this. Lets get out of here!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/begin_1"
+msgid "AMBUSH! Cover the cars!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/hmv_s_title"
+msgid "Humvee Ground Support"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/debug2"
+msgid "inv player"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_ending_talk2"
+msgid "Copy that, Blackhawks arriving to secure the perimiter."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/m60_talk2"
+msgid "Understood sir, M60 is now fully operational."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_ending_talk3"
+msgid "Theres our ride cover their landing!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/e_usa_desc"
+msgid "A US airborne unit arrives and evacs all remaining soldiers!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ac130_talk3"
+msgid "We're making one more pass before having to refuel!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_ending_talk4"
+msgid "Alright, Rangers secure the area! GO! GO! GO!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/apcd_title"
+msgid "Apc Dropoff"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_talk4_hint"
+msgid "All ground based reinforcements have been cutoff and the enemy is heading for you in mass. Good luck squad leader!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/v_control_talk2"
+msgid "Understood squad leader I'm putting all vehicles under your direct command, don't let us down!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/rm60_title"
+msgid "Repair M60"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/bmp_talk2"
+msgid "Multiple BMPs incoming, take cover!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_cutscene_talk1"
+msgid "Apache 1 & 2 are down! We've lost all ground reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ranger_talk2"
+msgid "Copy that, moving into drop zone now!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/e_usa_title"
+msgid "USA Ending"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_convoy3"
+msgid "You were surrounded for miles, you must have really pissed them off!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk4"
+msgid "Squad leader we have a friendly convoy on the way. They've almost broken through the enemy lines and will arrive soon. ETA 7 minutes."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/hmv_s_talk1"
+msgid "Requesting light armored car support, lay down some covering fire!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_ending_timer"
+msgid "US Airforce Arrives in:"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_convoy5"
+msgid "We're lucky to be alive, they just kept on coming. Now lets get out of here before more of them get here."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_ending_talk5"
+msgid "Glad to see your still in one piece squad leader. Ready to get out of here?"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk1"
+msgid "Gunner target 11 O'clock left, load AP."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_ending_talk7"
+msgid "Enemy pinned down, bring in the rangers!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/timer_text"
+msgid "Rescue in:"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/e_uaf_title"
+msgid "UAF Ending"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ac130_talk1"
+msgid "AC130 lined up for attack run, circling area now!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/e_uaf_desc"
+msgid "A UAF convoy arrives and secures the area!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ranger_talk3"
+msgid "GO! GO! GO! Rangers lead the way!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/armor_warning"
+msgid "Incoming HE launcher technicals, take them out before they can fire!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ba_title"
+msgid "Danger Close Bombing Run"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_cutscene_talk2"
+msgid "We need to pull back we won't survive thi.....(Radio Static)......"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/defend"
+msgid "Hold the line until help arrives!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk1"
+msgid "Copy that more troops are being dispached via APC eta 15 seconds."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/heavy_reinforcement3"
+msgid "The AC130's firing ark changes while it circles the area. Its view is marked with attack markers, take this into account when planning your next move."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/debug1"
+msgid "convoy spawn"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_convoy1"
+msgid "Incoming friendlys watch your fire!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/mc_talk"
+msgid "Understood sir, stationary support units are now under your command!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/begin_5"
+msgid "Present time..."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk3"
+msgid "Understood."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/artillery_title"
+msgid "US Artillery Barage"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/begin_2"
+msgid "Command we have two cars down! Multiple hostiles approching from all sides, requesting Immediate assistance!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/m60_talk1"
+msgid "Engineers get the gun on the m60 working again, we won't survive long without it."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk1"
+msgid "The stranded UAF units should be right up ahead!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk5"
+msgid "Understood sir, we'll make sure we're still here when they arrive!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/sc_desc"
+msgid "Take command of remaining ground troops!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ba_talk1"
+msgid "Requesting air support, friendlys marked by IR. This is a danger close fire mission! Repeat danger close!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ed_title"
+msgid "Extra Defenses"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_ending_talk1"
+msgid "Friendly units spotted, providing cover fire."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/artillery_talk2"
+msgid "Copy that bringing the rain, keep your heads down!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/failstate_talk"
+msgid "They... They killed the squad leader! We can't win this on our own, We surrender!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/begin_3"
+msgid "Recon shows your completely surrounded it may take some time to break through their lines, hang in there!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/sc_talk1"
+msgid "I am now taking command of all surviving infantry."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk3"
+msgid "Copy that, Relaying information to stranded UAF troops."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/e_noshow_desc"
+msgid "Noone arrives to save you, fight alone against the remaining forces (Hard)!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ed_talk1"
+msgid "We are going to need stronger defenses to survive this onslaught. Secure the cars and get another machine gun up and running!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/hmv_s_desc"
+msgid "Call in nearby LACS to provide covering fire!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ranger_talk1"
+msgid "We really need those rangers down here now!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/mc_title"
+msgid "Gun emplacement control."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ba_desc"
+msgid "Friendly planes provide danger close rocketpod support."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ac130_title"
+msgid "AC130"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/player_alive"
+msgid "Keep the squad leader alive at all costs!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/heavy_reinforcement"
+msgid "Airstrikes and U.S. Artillery are now able to be called in! Keep the enemy pinned down!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/begin_4"
+msgid "Copy that command, Digging in."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/player_died"
+msgid "The squad leader has been killed, all remaining troops have surrendered! The rebels rounded up the survivors and they were executed!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/e_noshow_title"
+msgid "Noshow Ending"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ba_talk2"
+msgid "Copy that rocketpods armed and ready, Take cover!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ac130_desc"
+msgid "An AC130 is in range, call it in for some danger close air support!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ed_desc"
+msgid "Have your troops build extra defenses to protect your units and vehicles."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_ending_timer"
+msgid "UAF Convoy Arrives in:"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_convoy4"
+msgid "Glad to see you convoy leader, what took you so long?"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/begin_0"
+msgid "4 Hours Ago..."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/apcd_desc"
+msgid "Call in 2 apcs to dropoff troops and provide covering fire!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/sc_title"
+msgid "Soldier Control"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/rm60_desc"
+msgid "Repair the gun on the m60 for increased firepower!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/hmv_s_talk2"
+msgid "Command copys sending LACs to provide covering fire!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/bmp_talk"
+msgid "Incoming BMP!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/artillery_talk1"
+msgid "Requesting artillery fire at grid 492.0 targets marked, danger close!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/artillery_desc"
+msgid "U.S. M109 artillery pieces support your defense with a danger close artillery barage!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk2"
+msgid "We're taking to many casualties we need more men!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_convoy2"
+msgid "We've spotted the survivors providing covering fire and securing the area."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ed_talk2"
+msgid "Sir, area has now been secured with additional cover."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ac130_talk2"
+msgid "AC130 now making second pass!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/heavy_reinforcement2"
+msgid "A U.S. AC130 is now in fire support range! Say the word and they'll take out everything in a six kilometer area!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk2"
+msgid "Command this is convoy leader about to break through enemy blockade. Tell the pinned down squad to hold on a little longer."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/v_control_title"
+msgid "Vehicle Control"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/v_control_desc"
+msgid "Convince command that you need control of all vehicles to survive this onslaught."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/v_control_talk1"
+msgid "Command I'm requesting all vehicles be placed under my direct command. We arn't going to survive this with anything less."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk3"
+msgid "GO! GO! GO! Clear the cars get to the fortifications!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk4"
+msgid "Reinforcements have arrived squad leader, tell us where you need us!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_timer"
+msgid "Last Stand in:"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk2"
+msgid "Command inform the squad to hold on and keep their heads down we're almost there!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk4"
+msgid "Squad leader I've just recieved word that the U.S. Airborne have broken through the enemy positions and are almost at your position! Keep your heads down and hold on!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk5"
+msgid "Understood command, will do!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/us_ending_end_screen"
+msgid "You have survived the onslaught and were evaced by U.S. Rangers."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_talk3"
+msgid "We can't send anymore ground vehicles to assist you. We do have some rangers on the line ready to drop in. Call them in for assistance!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_cutscene_talk3"
+msgid "Apache 1 come in! Apache 1.... Damn it they're all gone! Inform the troops, noone is coming... They're alone."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_talk1"
+msgid "I've just been informed that all strike teams sent to your location were lost. We can't afford to send any more men."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_talk2"
+msgid "Recon shows that the enemy is moving some of its blockading units to attack your location ETA 11 minutes. If you take all of them out they may back down and pull back."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ranger_title"
+msgid "Rangers"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/rangers_desc"
+msgid "This is your last option for extra soldiers since the ground reinforcements have been cut off. Good luck squad leader!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/ranger_talk4"
+msgid "Just tell us where you need us!"
+msgstr ""

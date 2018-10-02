@@ -1,0 +1,201 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (operation_02)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_air superiority/operation_02/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/place"
+msgid "U.S. Attack on GRM main base."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/name"
+msgid "Assault Disaster"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/name_big"
+msgid "Operation 2"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/story"
+msgid "You take control of a M1A2 Abrams in a massive us assault on a heavily fortified GRM base. After getting extremely close, the GRM attack with a last resort experimental nuclear weapon. Completly eliminating almost the entire assault force. 6 hours later a team of US navy seals is sent in to locate any survivors and finish what the assault started, taking out the main base!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/aa_destroyed"
+msgid "Command we have eliminated all AA guns, We need air support!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/ambush!"
+msgid "AMBUSH! Gunners target those trucks!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/apaches_approching_again"
+msgid "Three apaches are moving in to cover your evac!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/begin"
+msgid "We are approching the GRM base only a few kilometers out."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/begin2"
+msgid "Command we are encountering heavy resistance requesting air support!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/begin3"
+msgid "Copy that command, moving in to take out anti aircraft guns."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/command contact"
+msgid "Command do you copy? We secured the grm base and need extraction."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/command_copy"
+msgid "Command copys all, good work soilder. Make sure all anti air guns are out of action and we will send in exfill."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/defend_heli"
+msgid "Defend the helipad until extration arrives!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/destroy_aa"
+msgid "Take out all the anti aircraft guns so we can bring in air support!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/destroy_aa_again"
+msgid "Destroy all AA in the GRM base to allow exfill."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/destroy_jamming"
+msgid "Damage the bases power and jamming tower to contact command!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/destroyed_the_aa_again"
+msgid "Command we destroyed all AA in the area requesting extraction."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/disable_direct_control"
+msgid "Disable forced third person view."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/disable_hint"
+msgid "Disables the forced third person view in the begining attack."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/disable_tpc"
+msgid "If you want to disable the forced third person in this next sequence hit the button to the right of the screen."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/enemy is almost here_again"
+msgid "We need to setup a defense the enemy will be here any second!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/enemy is almost here_again"
+msgid "We need to setup a defense the enemy will be here any second!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/fail_to_evac"
+msgid "You lost all your units!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/find_survivors"
+msgid "If anyone is left they should be right up ahead."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/get away"
+msgid "Get us out of here! We have to find the task force!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/here_they_come"
+msgid "Here they come! Hold your ground!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/hold_base"
+msgid "Copy that, We are sending in a evac it will be there in 6 minutes, hold you position until it arrives!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/incoming bomber"
+msgid "We have reports of a GRM bomber incoming with an experimental weapon! GET DOWN!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/later"
+msgid "Later that day....."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/loss of connection"
+msgid "Copy that, Apaches and A-10s are on th...."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/move up"
+msgid "Then we have to move up and take that base. After all the losses in the assault its probably lightly guarded."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/radio_static"
+msgid "(....Radio Static....)"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/reinforcement_timer"
+msgid "Evac arrives in:"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/response_to_loss_connection"
+msgid "Command come in! Did not copy last message!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/seal_intro"
+msgid "We lost contact with the strike force 4 hours ago. Now we have lost contact with command. This isnt looking good."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/signal_jammed"
+msgid "It looks like something is interfering with our radio signal. Likely coming from the grm main base!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/survived"
+msgid "You have succesfully taken out the grm base and rescued the remaining survivors!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/survivor_talking"
+msgid "The grm used some kind of massive explosive on our strike force, we're all thats left. From what we know, the GRM are jamming our radio signal from their base ahead."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/survivors"
+msgid "Survivors over there, they are under fire! Move up and cover them!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/take_main_base"
+msgid "Take the GRM main base!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/take_out_enemy_aa"
+msgid "Negative on that soilder there is heavy AA in the area, we already have multiple blackhawks down."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/tank_destroyed"
+msgid "Your tank was destroyed!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/what happened"
+msgid "What happened here? Are you all thats left?"
+msgstr ""

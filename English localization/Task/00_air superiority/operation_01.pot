@@ -1,0 +1,213 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (operation_01)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_air superiority/operation_01/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/place"
+msgid "U.S. Highway Checkpoint"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/name"
+msgid "A Long Night"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/name_big"
+msgid "Operation 1"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/story"
+msgid "Next to a major highway a U.S. checkpoint is guarding the border of a top secret military base. Just a few miles from the base a Blackhawk is hit with an RPG and crashes, the survivors must survive until another blackhawk is ready to airlift them back to base!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/end2"
+msgid "Enemys in the forest! Keep them pinned down!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/heli_timer"
+msgid "Refuel Complete In:"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/heli_get_troops_desc"
+msgid "Have your blackhawk get extra troops."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/blackhawk_troops_talk2"
+msgid "Blackhawk returning with a squad of marines. We need to refuel then we're ready to go out again!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/end1"
+msgid "Incoming friendly convoy!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/ems_response"
+msgid "Command local ems are responding to the scene they'll get caught in the crossfire, Tell them to call of all responding units!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/end3"
+msgid "GO GO GO Cover the cars!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin10"
+msgid "GO GO GO cover their evac!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/base_lost"
+msgid "You lost control of the base!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin9"
+msgid "Copy that command, We won't keep you waiting!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/crash_failstate"
+msgid "All blackhawk survivors were killed!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/heli_attack_title"
+msgid "Blackhawk Strafing Run"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/heli_get_troops"
+msgid "Blackhawk Troops"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/convoy_in"
+msgid "Reinforcements Arrive In:"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin11"
+msgid "Hurry up and get in, We don't have much time!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/base_secured"
+msgid "You held the base until reinforcements arrived"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin2"
+msgid "Lets get some info on where the downed helicopter crashed."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin3"
+msgid "Alright convoy leader your cleared to enter the base."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin14"
+msgid "Copy that, your cleared to land."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/heli_refuel"
+msgid "Blackhawk is now refueling ETA 30 seconds."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin13"
+msgid "Blackhawk 1 is approching checkpoint landing pad now."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin7"
+msgid "Command we can't hold out much longer, Where is our evac!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/ems_response2"
+msgid "Understood informing local authorities to avoid the area."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin6"
+msgid "We're refueling an allied blackhawk now, Once its done your job is to cover the survivors and regroup back here. We need to be prepared for a GRM attack any time now!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/attack_start_timer"
+msgid "Enemy Forces Attack In:"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin16"
+msgid "Here they come, Watch your fire this is a major highway!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin4"
+msgid "There they are, Let us off here."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/heli_attack_desc"
+msgid "Have your blackhawk do a strafing run."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin1"
+msgid "The checkpoint is just up ahead to the left."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/objective"
+msgid "Keep the enemy out of the base!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/heli_refueled"
+msgid "The blackhawk is refueled and ready for your command!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin5"
+msgid "Your just in time, one of our Blackhawks was hit with an RPG just north of here!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/enemys_in_base"
+msgid "The base is getting overrun! Take out the enemys in the base!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin8"
+msgid "The evac is almost finished refueling, ETA 2 minutes. Get ready to get in the blackhawk as soon as it touches down. We can't wait long, A full scale assault is expected any minute now!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/debug1"
+msgid "convoy_spawn"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/blackhawk_troops_talk1"
+msgid "We're flying to the nearest base to pickup more troops ETA 60 seconds!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin12"
+msgid "All survivors are onboard, taking off and heading back to base."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/civ_watch_fire"
+msgid "Careful theres civilans caught in the crossfire!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/begin15"
+msgid "We have recon on enemy positions, expect a full scale assault in 60 seconds!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/end4"
+msgid "Area secured, check the area for wounded and regroup at the checkpoint!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/incoming bmps"
+msgid "Incoming BMP!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_01/tanks_approching"
+msgid "Recon shows tanks approching your position, Get ready!"
+msgstr ""

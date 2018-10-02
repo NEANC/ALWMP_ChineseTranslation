@@ -1,0 +1,245 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (operation_03)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_air superiority/operation_03/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/place"
+msgid "Blackhawk down in GRM territory."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/name"
+msgid "Broken Arrow"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/name_big"
+msgid "Operation 3"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/story"
+msgid "You and your squad are blackhawk down in GRM controled territory. Its your job to take command of the remaining troops and call in reinforcements. Command says a convoy is on the way, but can you hold out that long? The longer you hold out the better the reinforcements! You have 2 minigun emplacements one on the side of the crashed blackhawk and one covering the road. You also have 2 mortors to take out the enemy before they are in range."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/apache_description"
+msgid "Three Apaches fly in to take out enemys."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/apache_reinforce"
+msgid  "Copy that, Apaches moving in to support ground units!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/apaches"
+msgid "Apache strafing run."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/ba"
+msgid "Call broken arrow!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/ba_description"
+msgid "Every air asset in the vicinity is rerouted to your position to prevent the position from being overrun!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/ba_talk_1"
+msgid "Command we are broken arrow! I repeat we are broken arrow! Need air support now or position will be overrun!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/ba_talk_2"
+msgid "Copy that, a-10 support incoming danger close! Hang in there soilder!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/begining_1"
+msgid "Command come in, we are Blackhawk down in hostile territory! Please respond!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/begining_2"
+msgid "Command copys all, we have a convoy heading to your position. They're 15 minutes out hang in there!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/begining_3"
+msgid "We have multiple air assets heading to your position. Use your radio to call them in! More are on the way hang in there!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/begining_4"
+msgid "Copy that, we've secured the perimiter and are awaiting the convoys arrival."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/begining_5"
+msgid "Incoming hostiles, all sides!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/begining_hint"
+msgid "Use your reinforcement points to call in support or take control of units. More support will arrive the longer you hold out!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/bh_ac"
+msgid "Blackhawk air cover."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/bh_ac_talk"
+msgid "Blackhawk copys, providing support for stranded ground units."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/bh_sr_description"
+msgid "Sends a blackhawk down the middle of the map for fire support!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/bh_sr_description"
+msgid "Sends a blackhawk down the middle of the map for fire support!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/bh_sr_description"
+msgid "Sends a blackhawk down the middle of the map for fire support!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/bh_sr_talk"
+msgid  "Request recived performing strafing run on hostile ground units."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/bl_ac_description"
+msgid "A blackhawk circles the area multiple times to provide better air cover."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/blackhawk strafing run"
+msgid "Blackhawk strafing run."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/command_marines"
+msgid "Marines are headed to your position via blackhawk."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/command_rangers"
+msgid "Rangers headed to your position now!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/control_ground_units"
+msgid "Command copys, you now have clearance to command remaining ground units."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/convoy_arrive"
+msgid "Our boys are here! Cover the convoy!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/convoy_arrive2"
+msgid "This is convoy leader, providing support for ground units."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/convoy_arrive3"
+msgid "Good to see your alive commander, I hope we didn't get here to late."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/convoy_arrive4"
+msgid "You got here right in time convoy leader, thanks for the assist. Lets get out of here!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/debug1"
+msgid "Spawn convoy"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/debug2" "Inv player"
+msgid "Inv player"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/defend"
+msgid "Hold your position until the convoy arrives!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/gunner_talk"
+msgid "Understood sir, miniguns are now under your command."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/heavy_reinforce"
+msgid  "Heavy reinforcements can now be called in! You have also been granted extra reinforcement points!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/marine_talk"
+msgid "Lets go marines, Oorah!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/marines_description"
+msgid "Four marines drop in from a blackhawk to support."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/mg_c"
+msgid "Minigun Control."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/mg_c"
+msgid "Minigun Control."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/mg_c_description"
+msgid "Convince the pilots you are skilled enough to take manual control of the ground miniguns."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/mortar_control_description"
+msgid "Take control of the two mortars providing artillery support."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/mortar_control_talk"
+msgid "Understood sir, the mortars are now awaiting your orders."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/player_alive"
+msgid "The player soilder must stay alive at any cost!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/player_control_ground_units_response"
+msgid "Yes sir!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/player_died"
+msgid "The player soilder was killed in action!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/ranger_talk"
+msgid "GO GO GO, Rangers lead the way!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/rangers"
+msgid "Ranger reinforce."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/rangers_description"
+msgid "Deploy a squad of 4 ranger paratroopers to reinforce your ground troops."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/s_control"
+msgid "Survivor Control."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/s_control_description"
+msgid "Take control of the infantry crash survivors."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/survived!"
+msgid "You have succesfully survived the onslaught and have been evacuated!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_03/timer_text"
+msgid "Convoy arrives in:"
+msgstr ""

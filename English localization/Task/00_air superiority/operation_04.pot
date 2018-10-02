@@ -1,0 +1,137 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (operation_04)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_air superiority/operation_04/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/place"
+msgid "U.S. Convoy Patrol"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/name"
+msgid "Convoy Ambush"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/name_big"
+msgid "Operation 4"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/story"
+msgid "A US convoy is ambushed by GRM inflicting 5 casualties and destroying a humvee. Air assets from around the area are scrambled as the GRM commence an all out attack on the remaining us troops. Take control of a airlifted squad of marines and hold until ground reinfocements can reach your position."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/ambush"
+msgid "AMBUSH!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/begin1"
+msgid "Those A-10s had a field day out here, theres smoke everywhere."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/begin2"
+msgid "Looks like the road is blocked, we're going to have to detour through that village."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/begin3"
+msgid "Drive slow and watch your corners the A-10s didn't get everyone."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/a-10"
+msgid "This is Warthog 1, Providing ground support."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/flares"
+msgid "A-10s are dropping flares to show the direction the enemy will attack from! Deploy red smoke to signal your location to our aircraft!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/win"
+msgid "Reinforcements have arrived!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/reinforcements have arrived!"
+msgid "Finally our reinforcements! Don't let up, push them back!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/player units"
+msgid "We are putting a squad of US Marines under your control, Use them wisely."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/attack heli"
+msgid "Incoming Apaches!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/name_big"
+msgid "US Convoy Ambush"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/apache"
+msgid "Apaches are leaving to refuel and rearm."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/place"
+msgid "U.S. Convoy Patrol"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/incomming waves"
+msgid "Here they come! Stand your ground!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/a-102"
+msgid "Several a-10s are almost at your position. They are out of atgms and are performing strafing runs. Keep your heads down!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/command response"
+msgid "Copy that 3 blackhawks inbound ETA 60 seconds."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/incoming grm"
+msgid "We are detecting a large GRM force heading towards your position from the Northwest! Prepare defensive positions! Airborne assets have been rerouted to your position."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/reinforcements request"
+msgid "Command we are under fire and need backup! One humvee is down we have 5 Casualties!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/they have tanks!"
+msgid "Look out enemy tanks incoming!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_04/friendly location"
+msgid "Copy that command, deploying red smoke to indicate friendlys!"
+msgstr ""

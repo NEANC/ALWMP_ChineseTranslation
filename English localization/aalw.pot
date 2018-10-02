@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (aalw)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/ammo/a10_bullet"
+msgid "GAU-8 Avenger"
+msgstr ""
+
+msgctxt "desc/stuff/a10_bullet"
+msgid "30mm AP"
+msgstr ""
+
+msgctxt "desc/ammo/a10_atgm_missile"
+msgid "AGM-65 Maverick"
+msgstr ""
+
+msgctxt "desc/stuff/a10_atgm_missile"
+msgid "ATGM"
+msgstr ""
+
+msgctxt "desc/ammo/su25k_bullet"
+msgid "GSh-30-2"
+msgstr ""
+
+msgctxt "desc/stuff/su25k_bullet"
+msgid "30mm AP"
+msgstr ""
+
+msgctxt "desc/ammo/su25k_atgm_missile"
+msgid "KH-23M"
+msgstr ""
+
+msgctxt "desc/stuff/su25k_atgm_missile"
+msgid "ATGM"
+msgstr ""

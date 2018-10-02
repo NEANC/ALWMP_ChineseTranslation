@@ -1,0 +1,285 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (single/00_air superiority/operation_05)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_air superiority/operation_05/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/place"
+msgid "U.S. Assault on Secret GRM Fortress."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/name"
+msgid "*NEW* Lakebed Showdown"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/name_big"
+msgid "Operation 5"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/story"
+msgid "After a massive assault UAF forces discovered a large GRM fortress in a dried lakebed. Its now up to US forces to push through the GRM lines and take the fortress!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/squad1_talk"
+msgid "Infantry ready for battle, tell us where you need us."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/rescue_desc"
+msgid "Rescue the blackhawk survivors."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone3_desc"
+msgid "Eliminate the second line of defense."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/squad2_desc"
+msgid "A squad of battle hardened marines."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/stryker1_title"
+msgid "Stryker MK19 with Marines"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/humvee_m2hb_desc"
+msgid "A Humvee equiped with a M2HB heavy machine gun."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/victory2"
+msgid "Command copys all, sending in airborne forces to keep the area secured, great work commander!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/m1a2_talk"
+msgid "Abrams armed and ready to take down anything in our way!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone2_desc"
+msgid "Eliminate the enemy at the first dried lakebed."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/humvee_tow_title"
+msgid "Humvee Tow"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/squad1_desc"
+msgid "Regular infantry squad ready for combat."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/humvee_tow_talk"
+msgid "Humvee TOW ready to provide anti tank."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/squad4_desc"
+msgid "Elite Navy Seals trained for the hardest combat missions, ready to assist your struggle."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/talk_humvee_m2hb"
+msgid "Humvee M2HB ready for combat!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/lav_talk"
+msgid "LAV loaded with marines and ready for combat."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/humvee_m2hb_title"
+msgid "Humvee M2HB"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/bradley_talk"
+msgid "M2 Bradley loaded with battle ready Rangers prepared for combat!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/begin3"
+msgid "This will not be an easy task the enemy has turned a dried lakebed into a fortress, They are heavily dug in and air support is out of the question."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone1_desc"
+msgid "Eliminate the enemy road block."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/squad3"
+msgid "Rangers"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/rangers_desc"
+msgid "Highly trained Rangers ready for battle."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/begin2"
+msgid "You will need to eliminate the enemy roadblocks and riverbed fortifications."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/m2_bradley_desc"
+msgid "M2 Bradley equiped with a bushmaster autocannon and a TOW anti tank ATGM, Loaded with well equiped Rangers."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/m1a2_desc"
+msgid "An M1A2 Abrams equiped with a 120mm smoothbore cannon, and heavy composite armor capable of taking a beating from anything you can throw at it!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/seal_talk"
+msgid "Seals armed and ready, give us a target!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone2_talk2"
+msgid "Copy that, engineers, LAVs, and Stryker gun carriers are now in the area."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/squad_engineer_title"
+msgid "Engineer Squad"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/engineer_talk"
+msgid "Engineers ready and willing to repair any vehicles!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/humvee_tow_desc"
+msgid "A Humvee equiped with a TOW ATGM launcher."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone4_talk2"
+msgid "Understood good work, rerouting friendly M1A2s to support the final seige."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/squad2_title"
+msgid "Marines"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone5_desc"
+msgid "Finish the enemy off at their base!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/stryker_gun_title"
+msgid "M1128 Stryker MGS"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/begin1"
+msgid "Our allies in the UAF have obtained information indicating this is the GRMs last major fortification."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/lav1_title"
+msgid "LAV-25 with Marines"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/begin6"
+msgid "As you progress you will aquire better reinforcements. Capture all staging areas to win, good luck!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/stryker1_desc"
+msgid "A stryker filled with marines and equiped with a MK19 grenade launcher."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone3_talk2"
+msgid "Good work, Rangers and Bradleys are ready to support your forces!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/begin4"
+msgid "Recon shows the enemy base has multiple armored vehicles and an attack helicopter on standby. You should be prepared for any of these vehicles to attack your defenses!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/stryker1_talk"
+msgid "Stryker APC filled with marines eager for battle, just give us a location!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/squad1_title"
+msgid "Regular Infantry"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/m1a2_abrams_title"
+msgid "M1A2 Abrams with Rangers"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/rescue_talk"
+msgid "Thanks for the assist, we thought we were done for!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone1_talk2"
+msgid "Understood, Marines and Strykers are now at your disposal."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone2_talk1"
+msgid "GRM forces at the first lakebed have been eliminated!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone4_talk1"
+msgid "The last line of defenses for the enemy base have been destroyed. We also liberated some survivors from a downed blackhawk!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone4_desc"
+msgid "Eliminate the base's final line of defense."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/squad4"
+msgid "Navy Seals"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/begin5"
+msgid "Our forces secured a staging point suffering heavy casualties. As you aquire aditional staging points more reinforcements will become avalible."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone1_talk1"
+msgid "We've secured the first enemy roadblock!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/zone3_talk1"
+msgid "The third line of enemy defenses has fallen, we took heavy casualties and need heavier reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/stryker_gun_talk"
+msgid "Stryker gun carrier loaded with AP and ready for combat!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/marine_talk"
+msgid "Marines ready to push the enemy back, just give us a location!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/ranger_talk"
+msgid "Rangers in combat zone and prepared for battle!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/engineer_desc"
+msgid "Engineers with the skills to repair enemy or friendly vehicles."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/victory1"
+msgid "The lakebed fortress is fully under US control, send in the troops!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/win_message"
+msgid "You succesfully secured the GRM lakebed fortress, this is a huge win for us! We expect the remaining GRM forces to surrender in a matter of days, the war is over! Or is it?"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/lav_desc"
+msgid "An LAV-25 equiped with a bushmaster autocannon and loaded with battle hardened marines."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/stryker_gun_desc"
+msgid "A Stryker gun carrier with a 105mm smoothbore cannon equiped for anti tank and anti vehicle combat."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/m2_bradley_title"
+msgid "M2 Bradley with Rangers"
+msgstr ""

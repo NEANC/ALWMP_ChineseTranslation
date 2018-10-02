@@ -1,0 +1,101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (city siege)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_ground war/operation_01/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/place"
+msgid "UAF Army attempts to get information vital to the war."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/name"
+msgid "City Siege"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/name_big"
+msgid "Operation 1"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/story"
+msgid "After weeks of fighting block to block, the UAF army has cornered the Rebel high command at their hq. Only one block of highly motivated and elite troops remain. You need to escort a pilot to a helicopter at the hq carrying vital information! This intel is extremly important for the UAF to win the war!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/lose"
+msgid "You got our pilot killed, Now we can't take the helicopter!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/lose_talk"
+msgid "You got our pilot killed, Now we have no chance of taking that helicopter!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/begin1"
+msgid "We need to escort the pilot to the enemy helicopter. It contains vital information about enemy troop movement and attacks!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/end1"
+msgid "Package secured taking off and heading to back to base!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/heli_objective"
+msgid "Get the pilot in the helicopter, Don't let the pilot die!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/begin4"
+msgid "Airborne ready for your orders sir!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/begin3"
+msgid "You will be taking command of our airborne forces! Use them wisley we're very thin on manpower!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/begin2"
+msgid "The rebels won't make this easy, You need to push through their lines! Keep the pilot alive at all costs!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/win"
+msgid "You secured the helicopter!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/almost there"
+msgid "We're almost there, Get that pilot in the helicopter safely!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/end2"
+msgid "Good work this should help our cause greatly. Now we can begin to push the enemy back!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/apache"
+msgid "Friendly Apache incoming keep your heads down!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/last m60"
+msgid "This is our last tank in the area, Use it wisley!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/pilot_begin"
+msgid "The pilot is here keep him safe at all costs, we need that helicopter!"
+msgstr ""
