@@ -12,10 +12,10 @@ This library is used for cloud checking, checking and backup.
 
 这个库用于云端检查校验和备份。
 
-Source English Localization By.hikip922（ https://steamcommunity.com/id/hikip922 ）
+Source English localization By.hikip922（ https://steamcommunity.com/id/hikip922 ）
 
 英文本地化来源 hikip922（ https://steamcommunity.com/id/hikip922 ）
 
 # Follow a license CC-BY-SA 4.0
 
-# 遵循许可证 CC-BY-SA 4.0
+遵循许可证 CC-BY-SA 4.0
