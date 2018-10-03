@@ -1,0 +1,165 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (single/00_air superiority/operation_06)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_air superiority/operation_06/date"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/place"
+msgid "美军对GRM残部发起攻击。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/name"
+msgid "铅雨"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/name_big"
+msgid "任务6"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/story"
+msgid "GRM急切地想抓住他们剩下的东西。出于对俄罗斯可能加入GRM阵营的担忧，美国陆军发动了攻击，试图消灭任何剩余的GRM部队。你控制着A-10 雷电II攻击机，为地面部队提供空中支援，让我们的部队回家!
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/outro_completed"
+msgid "任务完成!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/outro_failed"
+msgid "任务失败!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin6"
+msgid "一旦一个地区被标上蓝色，我们的部队就可以控制该区域，并向下一个地点移动。支援部队，确保所有地点安全，祝你好运!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk1"
+msgid "这就是全部，这个区域在我们的控制之下!感谢疣猪1号提供的空中支援，没有你不可能做到!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin4"
+msgid "你的HUD会不断更新攻击信息。作为一个快速提醒，这将介绍所有的指示器。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk5"
+msgid "随时命令，随时。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin7"
+msgid "谢谢你的更新命令，我现在所在位置和提供地面支持!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/e1_cap_talk"
+msgid "村庄安全，已被控制!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin2"
+msgid "收到，疣猪1号，允许起飞。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o3_cap_talk"
+msgid "最外围的防御工事已经安全。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o2_cap_talk"
+msgid "现在我们的军队控制了最外层的加油站!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m_cap_talk2"
+msgid "疣猪1号，注意，发现新的敌军，进行火力压制吧！"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o4_cap_talk"
+msgid "最东部的前哨基地，现在在我们的控制之下!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk2"
+msgid "疣猪1号正在返回基地。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin3"
+msgid "我们对GRM残部进攻正在进行中。由于担心俄罗斯加入战斗，我们现在需要结束这场战争！"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/failstate"
+msgid "你的A-10 雷电II攻击机坠毁了，地面部队真的需要空中支援！"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m2_cap_talk"
+msgid "敌人的中心防御工事已经被占领！"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin5"
+msgid "黄色的标记表示我们的部队正在攻击的地方，红色的标记表示我们的部队要摧毁的目标。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o_full_cap"
+msgid "很好的工作，郊区安全，新的攻击地点现在显示在你的HUD上。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_cap_desc"
+msgid "消灭剩余敌军，占领油田!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/outskirts_cap_desc"
+msgid "占领郊区。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m_cap_talk"
+msgid "疣猪1号，感谢你的支持，我们现在正在向敌方最后的防御工事推进!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin2_5"
+msgid "系统检查完毕，可以起飞!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/o1_cap_talk"
+msgid "我们占领了最西边的前哨基地!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m1_cap_talk"
+msgid "城市街区安全，前往新的目标！"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/begin1"
+msgid "塔台，这是疣猪1号，正在接近跑道，请求起飞许可。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/mid_cap_desc"
+msgid "已占领第二防线。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/m3_cap_talk"
+msgid "另一个防御工事被盟军占领!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/e2_cap_talk"
+msgid "油田安全了，我们的部队正在消灭敌方残部!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk3"
+msgid "疣猪1号，跑道畅通，着陆许可。"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk4"
+msgid "干得好，疣猪1号，没有你的支持，地面部队不可能做到的!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_06/victory_desc"
+msgid "多亏了你的空中支援，这次攻击取得了巨大的成功。收拾好，准备行动!雷达发现有俄罗斯飞机正在接近基地!"
+msgstr ""
