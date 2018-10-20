@@ -1,6 +1,6 @@
 # Air Land Warfare Mission Pack of Chinese Localization
 
-空地作战任务包的中文本地化
+## 空地作战任务包的中文本地化
 
 The original data is derived from MOD produced by hikip922 for Call to Arms:
 
@@ -16,6 +16,6 @@ Source English localization By.hikip922（ https://steamcommunity.com/id/hikip92
 
 英文本地化来源 hikip922（ https://steamcommunity.com/id/hikip922 ）
 
-# Follow a license CC-BY-SA 4.0
+# Follow a License MIT License
 
-遵循许可证 CC-BY-SA 4.0
+## 遵循许可证 MIT License
