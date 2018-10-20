@@ -1,0 +1,53 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (aalw_police)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/entity/pd_car"
+msgid "Police Car"
+msgstr ""
+
+msgctxt "desc/entity/pd_car_lights"
+msgid "Police Car"
+msgstr ""
+
+msgctxt "desc/entity/swat_van"
+msgid "SWAT Van"
+msgstr ""
+
+msgctxt "desc/entity/swat_matv_m240"
+msgid "SWAT M240"
+msgstr ""
+
+msgctxt "desc/entity/swat_matv_m2hb"
+msgid "SWAT M2HB"
+msgstr ""
+
+msgctxt "desc/entity/swat_matv_mk19"
+msgid "SWAT MK19"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/police/police_officer"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/police/swat_officer"
+msgid "SWAT Officer"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/police/swat_officer2"
+msgid "SWAT Officer"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/police/swat_officer3"
+msgid "SWAT Officer"
+msgstr ""
