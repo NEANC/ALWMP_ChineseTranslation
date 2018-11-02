@@ -6,7 +6,7 @@ The original data is derived from MOD produced by hikip922 for Call to Arms:
 
 原始数据来源于hikip922为Call to Arms所制作的MOD：
 
-Air & Land Warfare Mission Pack *NEW MISSION* "Blizzard of Fire!" （ https://steamcommunity.com/sharedfiles/filedetails/?id=1433544352 ）
+Air & Land Warfare Mission Pack *NEW* "ENDGAME" *Mission*（ https://steamcommunity.com/sharedfiles/filedetails/?id=1433544352 ）
 
 This library is used for cloud checking and backup.
 
@@ -16,6 +16,6 @@ Source English localization By.hikip922（ https://steamcommunity.com/id/hikip92
 
 英文本地化来源 hikip922（ https://steamcommunity.com/id/hikip922 ）
 
-# Follow a License MIT License
+# Follow a License MIT 
 
-## 遵循许可证 MIT License
+## 遵循许可证 MIT 
