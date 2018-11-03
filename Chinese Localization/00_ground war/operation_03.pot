@@ -1,0 +1,145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (High Stakes)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_ground war/operation_03/date"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/place"
+msgid "UAF Marine landing near vital Rebel railway."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/name"
+msgid "*NEW* High Stakes"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/name_big"
+msgid "任务3"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/story"
+msgid "After analyzing the documents recovered from heavy fighting, UAF forces have discovered a railway connecting the Rebels to their russian allies. If we can secure this station before the enemy can stop our attack. We can cut off their ability to replace their tanks, therfore giving us an advantage in the war effort!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/outro_completed"
+msgid "任务完成!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/outro_failed"
+msgid "任务失败!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/begin7"
+msgid "The attack is about to begin! We're sending you two T-80bvs use them wisely, they're not cheap!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/win"
+msgid "Railway destruction confirmed, Good job soldier this will be a huge blow to the enemy!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/destroy_aa_desc"
+msgid "Destroy all enemy Anti Air so we can destroy the train!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/begin4_3"
+msgid "We won't let you down, the enemy will never know what hit them!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/end2"
+msgid "Copy that, dropping payload get back!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/begin2"
+msgid "Your job is to perform a naval landing and, secure a beachhead for our forces to commence the attack."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/bad_end1"
+msgid "Incoming! Get Down!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/end1"
+msgid "Anti Air destroyed target marked for payload delivery!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/begin3"
+msgid "After securing a beachead you will support the armored forces and destroy all enemy anti air. This will open a window to allow our bombers to destroy the station and train!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/begin4"
+msgid "This will be a big blow to the enemy, without their russian allies sending them tanks we can push them back!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/bad_end2"
+msgid "You took to long the reinforcements arrived! We'll be slaughtered we need to retreat now!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/troops_dead"
+msgid "All your units are dead, Now we can't take the station!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/timer"
+msgid "Enemy reinforcements arrive in:"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/m1a2"
+msgid "I'm putting an M1A2 abrams under your control. It cost us alot to get this, don't lose it!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/player_m60"
+msgid "T-80bvs have arrived and are under your command!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/clear_beach_desc"
+msgid "Secure the beach so we can bring in reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/begin"
+msgid "Thanks to intel our brave soldiers aquired we know this railway is crutial for the enemy to aquire more tanks."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/end3"
+msgid "Payload delivery confirmed target destroyed!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/begin5"
+msgid "Beach secured, Send in the troops!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/begin6"
+msgid "Understood landing M60 transports and flying in airborne troops."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/mid"
+msgid "GO GO GO! The clock has started, the enemy knows we're here!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/bad_end_gameover"
+msgid "Enemy reinforcements arrived and crushed your assault!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/bad_end3"
+msgid "We need to leave now! We don't stand a chance, RETREAT!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/begin4_2"
+msgid "The information we recovered shows that the enemy has a fast response task force ready to repel any attack. We may only have a few minutes to secure the area before having to retreat!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_03/one_more_minute"
+msgid "Recon shows multiple enemy bombers flying at low altitude, ETA 60 seconds!"
+msgstr ""

@@ -1,0 +1,289 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (single/00_ground war/operation_06)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_ground war/operation_06/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/place"
+msgid "Joint strike on a rebel occupied city."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/name"
+msgid "*NEW* Endgame"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/name_big"
+msgid "Operation 6"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/story"
+msgid "An armored train full of U.S. and UAF troops breaks through rebel defenses and arrives at their HQ. Team up with local authorities and take the four positions. All civilians have already been evacuated by train, so you are cleared to do whatever it takes!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/ranger_talk2"
+msgid "Rangers reporting for duty, tell us where you need us!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/police_squad_hint"
+msgid "Squad of trained police and swat officers."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/apc_talk1"
+msgid "APC in position to assist. we got some airborne raring to go, just say the word!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/am60_title"
+msgid "M60"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/aapc_title"
+msgid "APC with Airborne"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin7"
+msgid "The trainyard is secure get out and setup defenses."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/cap3_talk2"
+msgid "Its not looking good, we can't get close to the area due to high radiation levels. Stay alert we don't know the full extent of this yet."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/ps_desc"
+msgid "Police_Squad"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin4"
+msgid "(Swat) Officers under heavy fire, we need those reinforcements now!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin10"
+msgid "The first objective is the enemy offices."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/cap_1_talk1"
+msgid "We captured an objective! Location marked by red smoke, send in the paratroopers!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin5"
+msgid "Gunners target those trucks, we need to keep this trainyard!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin11"
+msgid "The second objective is the destroyed hanger, intel reports the enemy is using this as an ammo depot."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/pmatv_title"
+msgid "Humvee NSVT"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin8"
+msgid "This is a joint operation US Centcom will be taking command from here out. All units swap radio frequencys."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/pmatv_hint"
+msgid "Humvee with a HMG to support the troops."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/ranger_title"
+msgid "U.S. Rangers"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/airborne_hint"
+msgid "Squad of airborne soldiers."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/talk_end4"
+msgid "Russian aircraft! Get down!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin9"
+msgid "Good work holding the staging point, for this operation we have four objectives to take."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/airborne_talk2"
+msgid "Airborne reporting, weapons checked and loaded."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/cap2_talk3"
+msgid "Stay Alert, we just lost contact with a US airbase. Reports are showing possible russian involvement. Don't let your guard down."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/cap2_talk1"
+msgid "We cleared another objective, marking location with red smoke!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/talk_end3"
+msgid "Command do you copy? The objectives have been cleared!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin2"
+msgid "(Swat) Hold your ground, the trains almost here!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin1"
+msgid "(Police Officer) We need backup!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin15"
+msgid "We have allied units approching your position, but for right now you'll have to make do with local authorities."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/cap3_talk3"
+msgid "We have a few M60s and some Rangers near your position, you have authority to take command as needed."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin17"
+msgid "The more objectives you capture the better your reinforcements will be, good luck soldier!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/airborne_talk1"
+msgid "Requesting a squad of UAF airborne!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/police_squad_talk2"
+msgid "(Police Officer) We're armed and ready, give us a location!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/police_squad_talk1"
+msgid "Requesting a squad of police to help our assault!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/capture_hq_title"
+msgid "Capture enemy headquarters."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/as_title"
+msgid "Army Squad"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/atow_title"
+msgid "TOW APC"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin13"
+msgid "Last is the enemy armor depot."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/army_tow_hint"
+msgid "APC armed with a TOW ATGM launcher."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/capture_hanger"
+msgid "Capture enemy hanger."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/talk_end1"
+msgid "Command thats the last objective! We've taken the position!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/capture_armor_fort"
+msgid "Capture enemy armored fortification."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/m60_talk1"
+msgid "M60A3 loaded with AP and ready for combat!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin12"
+msgid "Next is the enemy HQ."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/capture_offices"
+msgid "Capture enemy offices."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/win"
+msgid "You Win?"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/cap_all"
+msgid "Capture all four objectives."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/ranger_hint"
+msgid "A squad of elite U.S. Rangers."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin6"
+msgid "Targeting enemy pickups!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/ps_title"
+msgid "Police Squad"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin3"
+msgid "(Police Officer) I'm hit! I'm hit! Officer down!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin14"
+msgid "Take these objectives in the order you decide is best. Recon suggests the offices and hanger may be ideal first targets."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/end_6"
+msgid "(...Radiation...)"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/begin16"
+msgid "Once you capture an objective radio it in and we'll send in paratroopers to secure it."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/apc_hint"
+msgid "APC loaded with airborne and armed with a protected M2HB HMG."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/cap1_talk2"
+msgid "Good work. we managed to secure a few humvees, and some airborne troops. Call them in as needed."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/cap2_talk2"
+msgid "Keep it up, some of our APCs have reached your area."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/police_matv_talk1"
+msgid "Humvee armed and ready for combat!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/cap3_talk"
+msgid "Command we just have one objective left. Whats the status on that airbase."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/talk_end2"
+msgid "(...Radio...Static...)"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/m60_hint"
+msgid "M60 armed with a 105mm gun and an M2HB HMG machine gun."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/tow_talk1"
+msgid "Systems check complete, TOW's are armed and ready!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_06/ranger_talk1"
+msgid "Requesting U.S. Army Rangers for an upcoming assault!"
+msgstr ""

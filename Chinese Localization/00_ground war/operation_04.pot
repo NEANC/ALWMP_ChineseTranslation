@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (single/00_ground war/operation_04)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_ground war/operation_04/date"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/place"
+msgid "UAF Base Under Siege"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/name"
+msgid "*NEW* Last Stand"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/name_big"
+msgid "任务4"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/story"
+msgid "After many succesful missions the GRM conduct a suprise counter attack on a UAF Army base. After a long siege only 7 survivors remain, they have one shot to get out of this alive, an allied stryker on route to their location."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/outro_completed"
+msgid "任务完成!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/outro_failed"
+msgid "任务失败!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/victory_talk"
+msgid "Stryker out of combat zone, evac succesful!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/begin2"
+msgid "The Stryker is almost there, ETA 3 minutes! Hang in there soldier help is coming!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/panic"
+msgid "The squad leaders down! We can't win we'll be slaughtered, We surrender!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/evac_win"
+msgid "You survived and were evacuated, good work!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/begin1"
+msgid "Command we can not hold on any longer! If we don't get evac now we won't be here to see it!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/gameover_all_die_stryker"
+msgid "Everyone was killed and the stryker was forced to leave!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/stryker_arrive"
+msgid "Stryker at location, get everyone ready to board now!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/begin3"
+msgid "Incoming GRM! Evac in three minutes we need to hold this line!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/tank_incoming2"
+msgid "Once that stryker arrives get everyone onboard immediatly or the stryker will be destroyed!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/stryker_leave"
+msgid "GO GO GO! Everyone's on board, gun it!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/gameover_stryker_destroyed"
+msgid "The stryker was destroyed, all hope of an evac is lost, any survivors are rounded up and executed."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/timer"
+msgid "Stryker arrives in:"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/stryker_at_location"
+msgid "We're at the evac point, get everyone on board asap!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/gameover_dead_player"
+msgid "The squad leader died before the rescue arrived. All remaining troops surendered and were swiftly executed."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/tank_incoming"
+msgid "Recon shows an enemy T-62 approching your position, it's going to arrive right after your evac!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/main_task"
+msgid "Survive until evacuation and keep the squad leader alive!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/stryker_destroyed_talk"
+msgid "We lost the stryker, that was our last line out of here!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_04/evac_task"
+msgid "Get all soldiers onboard the stryker, atleast one soldier must survive!"
+msgstr ""

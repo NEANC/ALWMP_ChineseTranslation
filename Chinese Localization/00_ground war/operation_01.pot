@@ -1,0 +1,101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (city siege)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_ground war/operation_01/date"
+msgid "在不久的将来..."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/place"
+msgid "UAF部队正在收集情报。"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/name"
+msgid "城市围攻"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/name_big"
+msgid "任务1"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/story"
+msgid "经过数周的激战，UAF部队已经将叛军最高司令部逼入绝境。他们只剩下一支精锐部队。你的任务是护送携带情报的飞行员返回总部!这个情报对UAF赢得战争至关重要!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/outro_completed"
+msgid "任务完成!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/outro_failed"
+msgid "任务失败!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/lose"
+msgid "飞行员阵亡，我们现在不能乘坐直升机了!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/lose_talk"
+msgid "飞行员阵亡，我们现在不能乘坐直升机了!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/begin1"
+msgid "我们需要将飞行员护送到直升机上。他带着重要的情报!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/end1"
+msgid "包裹安全起飞，正在返回基地!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/heli_objective"
+msgid "让飞行员坐上直升机，别让他阵亡了!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/begin4"
+msgid "直升机已准备好接受你的命令，长官!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/begin3"
+msgid "你将指挥我们的空降部队!明智的指挥他们，我们人手不足!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/begin2"
+msgid "叛军不会坐视不管，你需要突破他们的防线!不惜一切代价让飞行员活着！"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/win"
+msgid "你获得了直升机！"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/almost there"
+msgid "我们快到了，让飞行员安全着陆!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/end2"
+msgid "干得好，这对我们的接下来行动有很大帮助。现在我们可以反击了!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/apache"
+msgid "友军的阿帕奇武装直升机回提供火力支援！"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/last m60"
+msgid "这是我们在这一地区的最后一辆坦克，明智的使用它！"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_01/pilot_begin"
+msgid "飞行员在这。不惜一切代价保护他的安全！我们需要那架直升机!"
+msgstr ""

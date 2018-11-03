@@ -1,0 +1,269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (operation_05)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_ground war/operation_05/date"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/place"
+msgid "UAF forces attempting to reconnect with friendly forces."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/name"
+msgid "*NEW* Blizzard of Fire"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/name_big"
+msgid "任务5"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/story"
+msgid "After evacuating a friendly base, a few UAF forces are stranded in newly occupied enemy territory. Clear out the enemy positions and meet the U.S. soldiers at the firebase for evac."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/outro_completed"
+msgid "任务完成!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/outro_failed"
+msgid "任务失败!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap3_talk"
+msgid "Any.... Coali...tion ...For...c..es ..... .i..n.. ....the. ..(Radio Static).... ...Firebase...Alpha....Requesting Support! We are under heavy enemy fire! I Repeat, any coalition forces in the area U.S. Firebase Alpha is under heavy enemy fire and in need of urgent support!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap2_talk1"
+msgid "The farm is in allied hands!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/failstate_stryker"
+msgid "You got your Stryker killed!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap_farm"
+msgid "Secure the enemy farm."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/evac_talk2"
+msgid "Hurry up and get on, we don't have much time! The enemy are bringing in heavy armor!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/base_intro_talk2"
+msgid "Thats the base up ahead! Pull in up there, it looks like they're in pretty bad shape."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/base_intro_talk3"
+msgid "Get out and provide cover fire for the base survivors!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/stryker_advance_talk2"
+msgid "Stryker one advancing and providing cover fire!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/defend2"
+msgid "Defend the base until the armored train arrives!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/transition_talk"
+msgid "Everyones on board, Gun it!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/heli_in"
+msgid "Friendly Heli Arrives In:"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/stryker_advance_title"
+msgid "Stryker Advance"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/begin5"
+msgid "After clicking the advance button, the Stryker will move to the white marker. Make sure the area is cleared of AT around that marker before advancing the Stryker!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/squad_leader_die"
+msgid "Squad Leader come in! Your vitals are gone, Squad Leader come in.... Damn it he's gone."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/base_intro_talk6"
+msgid "We've secured a blackhawk to extract you ETA 5 minutes."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap3_talk2"
+msgid "We copy you firebase alpha we are near your position and moving in to assist!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/stryker_advance_talk"
+msgid "Stryker one, advance to next designated position!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/heli_talk1"
+msgid "Thats our evac!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/failstate_leader"
+msgid "The Squad Leader was killed, all remaining friendly troops surrender and are executed."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/base_intro_talk1"
+msgid "Enemy RPGs taking evasive action hold on!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/heli_talk2"
+msgid "Incoming fire!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/heli_talk3"
+msgid "Our rotor is hit we're going down! ........(Radio Static).........."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/defend3"
+msgid "Move all surviving troops to the rail station to evacuate the base!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/begin1"
+msgid "Recon shows heavy enemy activity ahead of your position. Recommend you disembark the stryker and escort it on foot."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/stryker_die_talk"
+msgid "We lost the Stryker! We can't push back the enemy without that firepower!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/begin4"
+msgid "That destroyed US convoy was carrying some heavy weapons. We should make use of those and avenge those soldiers!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/rocketpod_talk1"
+msgid "Target marked for payload delivery, bring the rain!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/base_intro_talk7"
+msgid "Copy that, we need to hold this position until that blackhawk gets here!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/evac_talk1"
+msgid "Thats the train! Take everyone we have left and get them to that station!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/loose_train_destroyed"
+msgid "The train was destroyed!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/evac_talk3"
+msgid "Thats everyone, GO GO GO! Get us out of here!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap_village"
+msgid "Eliminate the enemy at the village."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/begin2"
+msgid "Copy that command, Stryker one get ready to move up on my signal."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/leader_alive"
+msgid "The squad leader must survive."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/attack_in"
+msgid "Enemy Attacks In:"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap2_talk2"
+msgid "Great job, push forward towards the crashed train. Recon shows the enemy is heavily dug in, advance carefully."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/train_in"
+msgid "Armored Train Arrives In:"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap3_talk3"
+msgid "Everyone get in the stryker, we have a firebase under heavy enemy fire and we don't have much time!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/base_intro_talk5"
+msgid "Don't get your hopes up, the enemy is regrouping, they'll be back with a bigger force! We have to prepare for an attack!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/heli_talk4"
+msgid "Command we just lost a blackhawk and need evac! Do we have any forces in the area, we will be overrun!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/heli_talk6"
+msgid "Mark your target and we'll bring the rain!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/base_intro_talk4"
+msgid "We did it! The enemy is pulling back!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap1_talk2"
+msgid "Good work, Advance to the enemy positions at the farm!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/stryker_advance_desc"
+msgid "Command the Stryker to advance to the next waypoint."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap_train"
+msgid "Take the enemy positions at the train crash."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/stryker_alive"
+msgid "Keep the friendly stryker operational."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/heli_talk5"
+msgid "Copy that, your in luck soldier a special forces team is heading past that base by train ETA 10 minutes. We also have some aircraft in the air near your position, they only have enough ammo for 4 attacks."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/win"
+msgid "You cleared the area, secured the base and were evacuated! Great Work!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/rocketpod_title"
+msgid "Rocketpods"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/begin3"
+msgid "Understood we'll move up on your order."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/cap1_talk1"
+msgid "All enemys eliminated in the village!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/rocketpod_talk2"
+msgid "Target aquired firing rocketpods!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/train_destroyed"
+msgid "The trains been destroyed! That was our ticket out of here!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/defend1"
+msgid "Defend the base until the blackhawk evac arrives!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/evac_talk4"
+msgid "Train leaving combat zone now, good work gentlemen."
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_05/rocketpod_desc"
+msgid "UAF aircraft bombard the marked location with rocketpods."
+msgstr ""
