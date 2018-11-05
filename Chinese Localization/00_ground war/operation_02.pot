@@ -209,7 +209,7 @@ msgid "保持道路通畅，直到增援到达!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk1"
-msgid "Copy that more troops are being dispached via APC eta 15 seconds."
+msgid "更多的部队正在前来支援，预计15秒。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/heavy_reinforcement3"
