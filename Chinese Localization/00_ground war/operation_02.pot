@@ -213,35 +213,35 @@ msgid "更多的部队正在前来支援，预计15秒。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/heavy_reinforcement3"
-msgid "The AC130's firing ark changes while it circles the area. Its view is marked with attack markers, take this into account when planning your next move."
+msgid "AC130正在环绕该区域。它的视野是用来标记攻击目标的，在计划下一步行动时要考虑到这一点。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/debug1"
-msgid "convoy spawn"
+msgid "幽灵护航"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_convoy1"
-msgid "Incoming friendlys watch your fire!"
+msgid "发现敌军，注意你的火力。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/mc_talk"
-msgid "Understood sir, stationary support units are now under your command!"
+msgid "明白，长官，固定支援单位现在在你的指挥之下！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/begin_5"
-msgid "Present time..."
+msgid "目前的时间......"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk3"
-msgid "Understood."
+msgid "明白。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/artillery_title"
-msgid "US Artillery Barage"
+msgid "美军炮兵基地"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/begin_2"
-msgid "Command we have two cars down! Multiple hostiles approching from all sides, requesting Immediate assistance!"
+msgid "指挥部，我们损失了两辆悍马！敌军从四面八方逼近，请求支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/m60_talk1"
