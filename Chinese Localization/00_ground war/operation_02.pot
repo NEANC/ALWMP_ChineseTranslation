@@ -245,15 +245,15 @@ msgid "指挥部，我们损失了两辆悍马！敌军从四面八方逼近，�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/m60_talk1"
-msgid "Engineers get the gun on the m60 working again, we won't survive long without it."
+msgid "工程师们维修了M60，没有了它，我们无法在敌方的进攻中坚持下去。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk1"
-msgid "The stranded UAF units should be right up ahead!"
+msgid "被困的UAF部队应该在前面！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk5"
-msgid "Understood sir, we'll make sure we're still here when they arrive!"
+msgid "明白，长官，我们会确保增援到达时，我们还在这里！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/sc_desc"
