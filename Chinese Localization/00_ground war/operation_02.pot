@@ -313,7 +313,7 @@ msgid "枪的位置控制。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ba_desc"
-msgid "友军飞机提供危险危险近接空中支援。"
+msgid "友军飞机提供危险近接空中支援。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ac130_title"
@@ -345,39 +345,39 @@ msgid "收到，火箭弹支援，准备隐蔽！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ac130_desc"
-msgid "An AC130 is in range, call it in for some danger close air support!"
+msgid "在AC130的射程内，让它提供危险近接空中支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ed_desc"
-msgid "Have your troops build extra defenses to protect your units and vehicles."
+msgid "让你的部队建立额外的防御来保护你的单位和车辆。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_ending_timer"
-msgid "UAF Convoy Arrives in:"
+msgid "UAF车队抵达:"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_convoy4"
-msgid "Glad to see you convoy leader, what took you so long?"
+msgid "很高兴见到你车队队长，怎么花了这么长时间？"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/begin_0"
-msgid "4 Hours Ago..."
+msgid "4小时前......"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apcd_desc"
-msgid "Call in 2 apcs to dropoff troops and provide covering fire!"
+msgid "召集2个装甲部队掩护部队撤退！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/sc_title"
-msgid "Soldier Control"
+msgid "控制士兵"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/rm60_desc"
-msgid "Repair the gun on the m60 for increased firepower!"
+msgid "修理M60以增加火力！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/hmv_s_talk2"
-msgid "Command copys sending LACs to provide covering fire!"
+msgid "指挥部，收到，命令LACS提供掩护射击！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/bmp_talk"
