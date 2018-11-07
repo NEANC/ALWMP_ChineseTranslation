@@ -377,19 +377,19 @@ msgid "修理M60以增加火力！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/hmv_s_talk2"
-msgid "指挥部，收到，命令LACS提供掩护射击！"
+msgid "指挥部收到，命令LACS提供掩护射击！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/bmp_talk"
-msgid "Incoming BMP!"
+msgid "进入BMP！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/artillery_talk1"
-msgid "Requesting artillery fire at grid 492.0 targets marked, danger close!"
+msgid "请求炮兵火力覆盖，目标492.0，危险接近！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/artillery_desc"
-msgid "U.S. M109 artillery pieces support your defense with a danger close artillery barage!"
+msgid "美国M109火炮正在提供危险近接炮兵支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk2"
