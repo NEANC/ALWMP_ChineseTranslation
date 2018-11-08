@@ -8,10 +8,6 @@ The original data is derived from MOD produced by hikip922 for Call to Arms:
 
 Air & Land Warfare Mission Pack *NEW* "ENDGAME" *Mission*（ https://steamcommunity.com/sharedfiles/filedetails/?id=1433544352 ）
 
-This library is used for cloud checking and backup.
-
-这个库用于云端检查校验和备份。
-
 Source English localization By.hikip922（ https://steamcommunity.com/id/hikip922 ）
 
 英文本地化来源 hikip922（ https://steamcommunity.com/id/hikip922 ）
