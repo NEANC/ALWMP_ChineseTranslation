@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgctxt "mission/single/00_ground war/operation_06/date"
-msgid "Sometime in the near future..."
+msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/place"
@@ -21,11 +21,11 @@ msgid "Joint strike on a rebel occupied city."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/name"
-msgid "*NEW* Endgame"
+msgid "Endgame"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/name_big"
-msgid "Operation 6"
+msgid "任务6"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/story"
@@ -33,11 +33,11 @@ msgid "An armored train full of U.S. and UAF troops breaks through rebel defense
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/outro_completed"
-msgid "Mission accomplished!"
+msgid "任务完成!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/outro_failed"
-msgid "Mission failure!"
+msgid "任务失败!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/outro_start"
