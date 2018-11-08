@@ -433,7 +433,7 @@ msgid "走吧!把车开进防御工事!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk4"
-msgid "Reinforcements have arrived squad leader, tell us where you need us!"
+msgid "增援已抵达，队长，告诉我们哪里需要我们!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/noshow_timer"
@@ -441,35 +441,35 @@ msgid "最后一站:"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk2"
-msgid "Command inform the squad to hold on and keep their heads down we're almost there!"
+msgid "指挥部，通知被困小队坚持住，我们快到了!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk4"
-msgid "Squad leader I've just recieved word that the U.S. Airborne have broken through the enemy positions and are almost at your position! Keep your heads down and hold on!"
+msgid "队长，刚收到消息，美国空降部队已经突破了敌人的阵地，几乎到了你的位置!低着头，坚持住!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk5"
-msgid "Understood command, will do!"
+msgid "明白，指挥部！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_ending_end_screen"
-msgid "You have survived the onslaught and were evaced by U.S. Rangers."
+msgid "您在袭击中幸存，并受到了美国空降部队的保护。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/noshow_talk3"
-msgid "We can't send anymore ground vehicles to assist you. We do have some rangers on the line ready to drop in. Call them in for assistance!"
+msgid "我们不能再派地面车辆来帮你了。我们有一些游骑兵在待命。叫他们来帮忙!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/noshow_cutscene_talk3"
-msgid "Apache 1 come in! Apache 1.... Damn it they're all gone! Inform the troops, noone is coming... They're alone."
+msgid "Apache 1入场!Apache 1....该死，他被击落了!通知部队，没有人来..."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/noshow_talk1"
-msgid "I've just been informed that all strike teams sent to your location were lost. We can't afford to send any more men."
+msgid "我刚接到通知，派到你的地方的所有突击队都失联了。我们不能再派人了。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/noshow_talk2"
-msgid "Recon shows that the enemy is moving some of its blockading units to attack your location ETA 11 minutes. If you take all of them out they may back down and pull back."
+msgid "侦察显示，敌人正在移动一些封锁线的单位来进攻你的位置，预计11分钟后到达。如果你把它们都击退，那它们会后退，然后撤退。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ranger_title"
@@ -477,7 +477,7 @@ msgid "游骑兵"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/rangers_desc"
-msgid "This is your last option for extra soldiers since the ground reinforcements have been cut off. Good luck squad leader!"
+msgid "这是你最后的选择了，因为地面部队已经被切断了。祝你好运!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ranger_talk4"
