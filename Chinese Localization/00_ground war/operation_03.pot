@@ -93,53 +93,53 @@ msgid "你部队都阵亡了，现在我们不能去车站了!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/timer"
-msgid "Enemy reinforcements arrive in:"
+msgid "敌军增援部队抵达:"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/m1a2"
-msgid "I'm putting an M1A2 abrams under your control. It cost us alot to get this, don't lose it!"
+msgid "我要把M1A2艾布拉姆斯交给你控制。我们付出了很大的代价才得到它，不要失去它!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/player_m60"
-msgid "T-80bvs have arrived and are under your command!"
+msgid "T-80BV已经到达，在你的指挥下!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/clear_beach_desc"
-msgid "Secure the beach so we can bring in reinforcements!"
+msgid "确保滩头阵地的安全，这样我们才能带来增援部队!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin"
-msgid "Thanks to intel our brave soldiers aquired we know this railway is crutial for the enemy to aquire more tanks."
+msgid "由于获得了情报，我们现在知道了这条铁路对于敌人获得更多坦克是至关重要的。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/end3"
-msgid "Payload delivery confirmed target destroyed!"
+msgid "确认目标被摧毁!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin5"
-msgid "Beach secured, Send in the troops!"
+msgid "海滩安全，派遣部队!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin6"
-msgid "Understood landing M60 transports and flying in airborne troops."
+msgid "了解，装载着M60的运输机正在着陆和部队正在空降。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/mid"
-msgid "GO GO GO! The clock has started, the enemy knows we're here!"
+msgid "行动！行动!行动开始了，敌人知道我们在这里!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/bad_end_gameover"
-msgid "Enemy reinforcements arrived and crushed your assault!"
+msgid "敌军增援部队到达了，他们要粉碎你的进攻!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/bad_end3"
-msgid "We need to leave now! We don't stand a chance, RETREAT!"
+msgid "我们需要现在离开!我们一点机会都没有，撤退!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin4_2"
-msgid "The information we recovered shows that the enemy has a fast response task force ready to repel any attack. We may only have a few minutes to secure the area before having to retreat!"
+msgid "我们得到的情报显示，敌人有一支快速反应部队，随时准备击退任何攻击。在撤退之前，我们可能只有几分钟的时间来保护这个地区!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/one_more_minute"
-msgid "Recon shows multiple enemy bombers flying at low altitude, ETA 60 seconds!"
+msgid "雷达显示多架敌机在低空飞行，预计60秒!"
 msgstr ""
