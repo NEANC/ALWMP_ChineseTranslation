@@ -17,11 +17,11 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/place"
-msgid "UAF Marine landing near vital Rebel railway."
+msgid "UAF海军陆战队在叛军控制的铁路附近着陆。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/name"
-msgid "*NEW* High Stakes"
+msgid "孤注一掷"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/name_big"
@@ -29,7 +29,7 @@ msgid "任务3"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/story"
-msgid "After analyzing the documents recovered from heavy fighting, UAF forces have discovered a railway connecting the Rebels to their russian allies. If we can secure this station before the enemy can stop our attack. We can cut off their ability to replace their tanks, therfore giving us an advantage in the war effort!"
+msgid "在分析了从激烈战斗中获取的文件后，UAF部队发现了一条连接叛军和他们的盟友-俄罗斯的铁路。如果我们能在敌人停止进攻之前保护好这个基地。我们可以切断他们获取军用物资的能力，从而使我们在战争中获得优势!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/outro_completed"
@@ -45,39 +45,39 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin7"
-msgid "The attack is about to begin! We're sending you two T-80bvs use them wisely, they're not cheap!"
+msgid "进攻就要开始了!你将获得两辆T-80BV，请明智地使用它们，它们可不便宜!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/win"
-msgid "Railway destruction confirmed, Good job soldier this will be a huge blow to the enemy!"
+msgid "铁路破坏被确认，这将是对敌人的巨大打击，你真棒!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/destroy_aa_desc"
-msgid "Destroy all enemy Anti Air so we can destroy the train!"
+msgid "消灭所有敌人防空炮，这样我们就能够摧毁火车!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin4_3"
-msgid "We won't let you down, the enemy will never know what hit them!"
+msgid "我们不会让你失望的,敌人永远不会知道到底发生了什么!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/end2"
-msgid "Copy that, dropping payload get back!"
+msgid "收到，放弃有效载荷返回!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin2"
-msgid "Your job is to perform a naval landing and, secure a beachhead for our forces to commence the attack."
+msgid "你的任务是执行登陆任务，并建立滩头阵地开始进攻。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/bad_end1"
-msgid "Incoming! Get Down!"
+msgid "来了!趴下!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/end1"
-msgid "Anti Air destroyed target marked for payload delivery!"
+msgid "防空炮已摧毁，目标标记完成!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin3"
-msgid "After securing a beachead you will support the armored forces and destroy all enemy anti air. This will open a window to allow our bombers to destroy the station and train!"
+msgid "在建立滩头阵地之后，你将获得装甲部队支援，然后摧毁敌人所有的防空力量。这将打开一扇窗户让我们的轰炸机摧毁车站和火车!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin4"
