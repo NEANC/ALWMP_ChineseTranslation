@@ -393,27 +393,27 @@ msgid "美国M109火炮正在提供危险近接炮兵支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk2"
-msgid "We're taking to many casualties we need more men!"
+msgid "我们损失惨重，我们需要更多的人!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_convoy2"
-msgid "We've spotted the survivors providing covering fire and securing the area."
+msgid "我们发现了幸存者！现在正在支援他们。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ed_talk2"
-msgid "Sir, area has now been secured with additional cover."
+msgid "长官，现在已经有了额外的掩体。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ac130_talk2"
-msgid "AC130 now making second pass!"
+msgid "AC130现在在第二次环绕飞行!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/heavy_reinforcement2"
-msgid "A U.S. AC130 is now in fire support range! Say the word and they'll take out everything in a six kilometer area!"
+msgid "一架美国AC130现在处于火力支援范围!呼叫它，他们就会把六公里范围内的所有敌军给消灭!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk2"
-msgid "Command this is convoy leader about to break through enemy blockade. Tell the pinned down squad to hold on a little longer."
+msgid "指挥部，我是增援部队队长，我们即将突破敌人的封锁。告诉被困小队再坚持一会儿。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/v_control_title"
