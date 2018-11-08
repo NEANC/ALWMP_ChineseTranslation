@@ -85,11 +85,11 @@ msgid "这将对敌人是个巨大的打击，没有他们的盟友的坦克，�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/bad_end2"
-msgid "You took to long the reinforcements arrived! We'll be slaughtered we need to retreat now!"
+msgid "你花了很长时间援军才抵达!我们会被屠杀的，现在就要撤退!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/troops_dead"
-msgid "All your units are dead, Now we can't take the station!"
+msgid "你部队都阵亡了，现在我们不能去车站了!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/timer"
