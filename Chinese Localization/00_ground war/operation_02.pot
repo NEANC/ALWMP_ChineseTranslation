@@ -417,19 +417,19 @@ msgid "指挥部，我是增援部队队长，我们即将突破敌人的封锁�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/v_control_title"
-msgid "Vehicle Control"
+msgid "控制车辆"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/v_control_desc"
-msgid "Convince command that you need control of all vehicles to survive this onslaught."
+msgid "你说服了指挥部，你需要控制所有车辆，才能在这场猛攻中幸存。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/v_control_talk1"
-msgid "Command I'm requesting all vehicles be placed under my direct command. We arn't going to survive this with anything less."
+msgid "指挥部，我要求所有车辆都由我直接指挥。我们无法在缺它们的情况下生存。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk3"
-msgid "GO! GO! GO! Clear the cars get to the fortifications!"
+msgid "走吧!把车开进防御工事!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk4"
@@ -437,7 +437,7 @@ msgid "Reinforcements have arrived squad leader, tell us where you need us!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/noshow_timer"
-msgid "Last Stand in:"
+msgid "最后一站:"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk2"
