@@ -81,7 +81,7 @@ msgid "在建立滩头阵地之后，你将获得装甲部队支援，然后摧�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin4"
-msgid "This will be a big blow to the enemy, without their russian allies sending them tanks we can push them back!"
+msgid "这将对敌人是个巨大的打击，没有他们的盟友的坦克，我们可以将他们击退!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/bad_end2"
