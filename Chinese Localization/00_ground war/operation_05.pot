@@ -17,11 +17,11 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/place"
-msgid "UAF forces attempting to reconnect with friendly forces."
+msgid "UAF部队正在试图重新联系友军。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/name"
-msgid "*NEW* Blizzard of Fire"
+msgid "暴风雪"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/name_big"
@@ -29,7 +29,7 @@ msgid "任务5"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/story"
-msgid "After evacuating a friendly base, a few UAF forces are stranded in newly occupied enemy territory. Clear out the enemy positions and meet the U.S. soldiers at the firebase for evac."
+msgid "在撤离友军基地后，一些UAF部队被困在敌方控制区中。清除敌军阵地，在美国火力基地与友军部队会合后撤离。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/outro_completed"
@@ -45,19 +45,19 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap3_talk"
-msgid "Any.... Coali...tion ...For...c..es ..... .i..n.. ....the. ..(Radio Static).... ...Firebase...Alpha....Requesting Support! We are under heavy enemy fire! I Repeat, any coalition forces in the area U.S. Firebase Alpha is under heavy enemy fire and in need of urgent support!"
+msgid "一些...友军...为了...在...(无线电静默)......α火力基地....请求支援!我们遭遇了敌人的重火力打击!我再说一遍，驻扎在美国α火力基地的联军部队都遭到敌军的猛烈攻击，急需支援!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap2_talk1"
-msgid "The farm is in allied hands!"
+msgid "农场在盟军手中!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/failstate_stryker"
-msgid "You got your Stryker killed!"
+msgid "你的史崔克装甲车都被毁了!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap_farm"
-msgid "Secure the enemy farm."
+msgid "农场安全。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/evac_talk2"
