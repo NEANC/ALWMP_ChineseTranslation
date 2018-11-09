@@ -45,7 +45,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap3_talk"
-msgid "一些...友军...为了...在...(无线电静默)......α火力基地....请求支援!我们遭遇了敌人的重火力打击!我再说一遍，驻扎在美国α火力基地的联军部队都遭到敌军的猛烈攻击，急需支援!"
+msgid "一些...友军...为了...在...(无线电静默)...α火力基地....请求支援!我们遭遇了敌人的重火力打击!我再说一遍，驻扎在美国α火力基地的联军部队都遭到敌军的猛烈攻击，急需支援!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap2_talk1"
@@ -53,7 +53,7 @@ msgid "农场在盟军手中!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/failstate_stryker"
-msgid "你的史崔克装甲车都被毁了!"
+msgid "你的装甲车都被毁了!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap_farm"
@@ -61,79 +61,79 @@ msgid "农场安全。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/evac_talk2"
-msgid "Hurry up and get on, we don't have much time! The enemy are bringing in heavy armor!"
+msgid "快，我们没有太多时间了!敌人带来了重型坦克!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk2"
-msgid "Thats the base up ahead! Pull in up there, it looks like they're in pretty bad shape."
+msgid "前面就是基地!把他拉上来，看起来情况很糟。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk3"
-msgid "Get out and provide cover fire for the base survivors!"
+msgid "出去，为基地幸存者提供火力掩护!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/stryker_advance_talk2"
-msgid "Stryker one advancing and providing cover fire!"
+msgid "装甲车前进并提供掩护火力!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/defend2"
-msgid "Defend the base until the armored train arrives!"
+msgid "保卫基地直到增援抵达！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/transition_talk"
-msgid "Everyones on board, Gun it!"
+msgid "所有人，射击!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_in"
-msgid "Friendly Heli Arrives In:"
+msgid "友军直升机抵达:"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/stryker_advance_title"
-msgid "Stryker Advance"
+msgid "装甲车前进"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/begin5"
-msgid "After clicking the advance button, the Stryker will move to the white marker. Make sure the area is cleared of AT around that marker before advancing the Stryker!"
+msgid "单击前进按钮之后，装甲车将移至白色标记。在装甲车前进之前，确保在标记周围的区域的安全!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/squad_leader_die"
-msgid "Squad Leader come in! Your vitals are gone, Squad Leader come in.... Damn it he's gone."
+msgid "队长快进来!队长快进来....该死，他走了。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk6"
-msgid "We've secured a blackhawk to extract you ETA 5 minutes."
+msgid "我们已经搞定了黑鹰，让你在5分钟内离开。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap3_talk2"
-msgid "We copy you firebase alpha we are near your position and moving in to assist!"
+msgid "我们收到了你的请求，我们在你的位置附近，准备支援!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/stryker_advance_talk"
-msgid "Stryker one, advance to next designated position!"
+msgid "装甲车一号，前进到下一个指定位置!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk1"
-msgid "Thats our evac!"
+msgid "这是我们的直升机!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/failstate_leader"
-msgid "The Squad Leader was killed, all remaining friendly troops surrender and are executed."
+msgid "队长牺牲了，所有剩下的友军投降并被处决。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk1"
-msgid "Enemy RPGs taking evasive action hold on!"
+msgid "RPG采取躲避行动，坚持住!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk2"
-msgid "Incoming fire!"
+msgid "着火了!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk3"
-msgid "Our rotor is hit we're going down! ........(Radio Static).........."
+msgid "我们的旋翼被击中了，我们要坠毁了!...(无线电静默)..."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/defend3"
-msgid "Move all surviving troops to the rail station to evacuate the base!"
+msgid "撤离基地，将所有幸存部队转移到火车站!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/begin1"
