@@ -137,133 +137,133 @@ msgid "撤离基地，将所有幸存部队转移到火车站!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/begin1"
-msgid "Recon shows heavy enemy activity ahead of your position. Recommend you disembark the stryker and escort it on foot."
+msgid "侦察显示在你的前方有大量的敌人活动。建议您下车，步行护送。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/stryker_die_talk"
-msgid "We lost the Stryker! We can't push back the enemy without that firepower!"
+msgid "我们失去了装甲车!没有火力支援，我们无法击退敌人!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/begin4"
-msgid "That destroyed US convoy was carrying some heavy weapons. We should make use of those and avenge those soldiers!"
+msgid "攻击我们的车队载有一些重型武器。我们应该利用这些，为那些士兵报仇!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/rocketpod_talk1"
-msgid "Target marked for payload delivery, bring the rain!"
+msgid "目标标记完毕，“雨水”（火力支援）将至!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk7"
-msgid "Copy that, we need to hold this position until that blackhawk gets here!"
+msgid "收到, 我们得守住这个位置，直到黑鹰的到来!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/evac_talk1"
-msgid "Thats the train! Take everyone we have left and get them to that station!"
+msgid "这是火车!把我们剩下的人都带到那个车站去!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/loose_train_destroyed"
-msgid "The train was destroyed!"
+msgid "火车被毁!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/evac_talk3"
-msgid "Thats everyone, GO GO GO! Get us out of here!"
+msgid "所有人，我们走!让我们离开这里!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap_village"
-msgid "Eliminate the enemy at the village."
+msgid "消灭村庄里的敌人。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/begin2"
-msgid "Copy that command, Stryker one get ready to move up on my signal."
+msgid "指挥部收到, 装甲车1号已准备好接收信号。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/leader_alive"
-msgid "The squad leader must survive."
+msgid "队长必须存活。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/attack_in"
-msgid "Enemy Attacks In:"
+msgid "敌军进攻:"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap2_talk2"
-msgid "Great job, push forward towards the crashed train. Recon shows the enemy is heavily dug in, advance carefully."
+msgid "干得好，向被毁的火车前进。侦察表明前方被敌军重重包围，小心前进。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/train_in"
-msgid "Armored Train Arrives In:"
+msgid "装甲列车抵达:"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap3_talk3"
-msgid "Everyone get in the stryker, we have a firebase under heavy enemy fire and we don't have much time!"
+msgid "所有人都进入装甲车，我们有个火力基地在敌人的炮火下，我们没有多少时间!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk5"
-msgid "Don't get your hopes up, the enemy is regrouping, they'll be back with a bigger force! We have to prepare for an attack!"
+msgid "别抱太大希望，敌人正在重新集结，他们会带着更强大的力量返回!我们必须准备进攻!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk4"
-msgid "Command we just lost a blackhawk and need evac! Do we have any forces in the area, we will be overrun!"
+msgid "我们刚刚失去了一个黑鹰，需要撤离!我们在这个地区有部队吗?我们会被屠杀的!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk6"
-msgid "Mark your target and we'll bring the rain!"
+msgid "标记你的目标，我们会带来“雨水”!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk4"
-msgid "We did it! The enemy is pulling back!"
+msgid "我们成功了!敌人正在撤退!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap1_talk2"
-msgid "Good work, Advance to the enemy positions at the farm!"
+msgid "干得好，向农场进攻!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/stryker_advance_desc"
-msgid "Command the Stryker to advance to the next waypoint."
+msgid "命令装甲车前进到下一个路径点。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap_train"
-msgid "Take the enemy positions at the train crash."
+msgid "在火车相撞时占领敌人的阵地。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/stryker_alive"
-msgid "Keep the friendly stryker operational."
+msgid "让友军的装甲车继续工作。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk5"
-msgid "Copy that, your in luck soldier a special forces team is heading past that base by train ETA 10 minutes. We also have some aircraft in the air near your position, they only have enough ammo for 4 attacks."
+msgid "收到, 幸运的是，一支特种部队的队员乘10分钟后的火车经过基地。我们也有一对战机在你的位置附近，但他们只有 4 次攻击的弹药。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/win"
-msgid "You cleared the area, secured the base and were evacuated! Great Work!"
+msgid "你清理了这片区域，保护了基地，然后安全撤离了!干得漂亮!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/rocketpod_title"
-msgid "Rocketpods"
+msgid "火箭发射器"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/begin3"
-msgid "Understood we'll move up on your order."
+msgid "我理解了，我们会听从你的命令。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap1_talk1"
-msgid "All enemys eliminated in the village!"
+msgid "村子里所有的敌人都被消灭了!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/rocketpod_talk2"
-msgid "Target aquired firing rocketpods!"
+msgid "发现目标，发射火箭弹！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/train_destroyed"
-msgid "The trains been destroyed! That was our ticket out of here!"
+msgid "火车被毁了!那是我们离开这里的工具!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/defend1"
-msgid "Defend the base until the blackhawk evac arrives!"
+msgid "在黑鹰直升机到达之前保护基地!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/evac_talk4"
-msgid "Train leaving combat zone now, good work gentlemen."
+msgid "马上离开战区，干得好，先生们。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/rocketpod_desc"
-msgid "UAF aircraft bombard the marked location with rocketpods."
+msgid "友军战机用火箭弹轰炸了指定地点。"
 msgstr ""
