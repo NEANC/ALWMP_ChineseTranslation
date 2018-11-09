@@ -17,11 +17,11 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/place"
-msgid "Joint strike on a rebel occupied city."
+msgid "联合打击叛军占领的城市。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/name"
-msgid "Endgame"
+msgid "结局"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/name_big"
@@ -29,7 +29,7 @@ msgid "任务6"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/story"
-msgid "An armored train full of U.S. and UAF troops breaks through rebel defenses and arrives at their HQ. Team up with local authorities and take the four positions. All civilians have already been evacuated by train, so you are cleared to do whatever it takes!"
+msgid "一列满载着美国和UAF部队的装甲列车冲破叛军的防线，抵达其总部。与当地政府合作，占据四个位置。所有平民都被疏散，所以你可以做任何事情!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/outro_completed"
@@ -45,11 +45,11 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ranger_talk2"
-msgid "Rangers reporting for duty, tell us where you need us!"
+msgid "游骑兵报到，告诉我们你需要我们去哪儿!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/police_squad_hint"
-msgid "Squad of trained police and swat officers."
+msgid "训练有素的警察和特警小队。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/apc_talk1"
