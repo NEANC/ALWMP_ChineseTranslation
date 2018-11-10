@@ -53,7 +53,7 @@ msgid "训练有素的警察和特警小队。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/apc_talk1"
-msgid "APC in position to assist. we got some airborne raring to go, just say the word!"
+msgid "APC准备就绪。只要一句话，我们随时可以着落!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/am60_title"
@@ -61,229 +61,229 @@ msgid "M60"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/aapc_title"
-msgid "APC with Airborne"
+msgid "空投APC"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin7"
-msgid "The trainyard is secure get out and setup defenses."
+msgid "火车站安全，正在组织防御。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap3_talk2"
-msgid "Its not looking good, we can't get close to the area due to high radiation levels. Stay alert we don't know the full extent of this yet."
+msgid "它看起来不太好，由于高辐射水平，我们无法接近这个区域。保持警惕，我们还不清楚情况。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ps_desc"
-msgid "Police_Squad"
+msgid "警察小队"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin4"
-msgid "(Swat) Officers under heavy fire, we need those reinforcements now!"
+msgid "特警小队需要增援!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin10"
-msgid "The first objective is the enemy offices."
+msgid "第一个目标是敌军指挥部。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap_1_talk1"
-msgid "We captured an objective! Location marked by red smoke, send in the paratroopers!"
+msgid "我们锁定了目标!位置用红色烟雾标记，快派出伞兵!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin5"
-msgid "Gunners target those trucks, we need to keep this trainyard!"
+msgid "瞄准那些卡车，我们要守住这里!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin11"
-msgid "The second objective is the destroyed hanger, intel reports the enemy is using this as an ammo depot."
+msgid "第二个目标是被摧毁的机库，情报显示，敌人它当做弹药库使用。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/pmatv_title"
-msgid "Humvee NSVT"
+msgid "悍马带NVST"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin8"
-msgid "This is a joint operation US Centcom will be taking command from here out. All units swap radio frequencys."
+msgid "这是联合行动，美国中央司令部将这里接管这里的指挥权。所有单位切换无线电频率。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/pmatv_hint"
-msgid "Humvee with a HMG to support the troops."
+msgid "悍马装备了HMG来支援部队。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ranger_title"
-msgid "U.S. Rangers"
+msgid "美国游骑兵部队"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/airborne_hint"
-msgid "Squad of airborne soldiers."
+msgid "空降部队"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/talk_end4"
-msgid "Russian aircraft! Get down!"
+msgid "俄罗斯战机!趴下!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin9"
-msgid "Good work holding the staging point, for this operation we have four objectives to take."
+msgid "干得好，保持住，我们有四个目标。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/airborne_talk2"
-msgid "Airborne reporting, weapons checked and loaded."
+msgid "机载报告，检查武器和装备。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap2_talk3"
-msgid "Stay Alert, we just lost contact with a US airbase. Reports are showing possible russian involvement. Don't let your guard down."
+msgid "保持警惕，我们刚与美国空军基地失去联系。情报显示俄罗斯可能参与其中。不要放松警惕。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap2_talk1"
-msgid "We cleared another objective, marking location with red smoke!"
+msgid "我们又完成了一项任务，用红色烟雾标记地点!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/talk_end3"
-msgid "Command do you copy? The objectives have been cleared!"
+msgid "指挥部收到了吗?任务已完成!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin2"
-msgid "(Swat) Hold your ground, the trains almost here!"
+msgid "特警正在坚守阵地，火车即将到达!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin1"
-msgid "(Police Officer) We need backup!"
+msgid "警察小队需要支援!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin15"
-msgid "We have allied units approching your position, but for right now you'll have to make do with local authorities."
+msgid "我们有增援部队正在接近你的位置，但现在你必须和当地政府合作。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap3_talk3"
-msgid "We have a few M60s and some Rangers near your position, you have authority to take command as needed."
+msgid "我们有一些M60和一些游骑兵在你的位置附近，你有权在需要的时候指挥。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin17"
-msgid "The more objectives you capture the better your reinforcements will be, good luck soldier!"
+msgid "你完成的任务越多，你的增援部队就会越强，祝你好运!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/airborne_talk1"
-msgid "Requesting a squad of UAF airborne!"
+msgid "请求伞兵空降!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/police_squad_talk2"
-msgid "(Police Officer) We're armed and ready, give us a location!"
+msgid "(警官)我们准备好了，给我们一个位置!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/police_squad_talk1"
-msgid "Requesting a squad of police to help our assault!"
+msgid "请求警察小队来帮助我们进攻!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_hq_title"
-msgid "Capture enemy headquarters."
+msgid "占领敌人总部。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/as_title"
-msgid "Army Squad"
+msgid "陆军小队"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/atow_title"
-msgid "TOW APC"
+msgid "APC带TOW"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin13"
-msgid "Last is the enemy armor depot."
+msgid "最后是敌人装甲仓库。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/army_tow_hint"
-msgid "APC armed with a TOW ATGM launcher."
+msgid "APC装备了TOW和ATGM发射器."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_hanger"
-msgid "Capture enemy hanger."
+msgid "占领敌军机库。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/talk_end1"
-msgid "Command thats the last objective! We've taken the position!"
+msgid "指挥部，这是最后一个目标!我们已经占领了此区域!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_armor_fort"
-msgid "Capture enemy armored fortification."
+msgid "占领敌军防御工事。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/m60_talk1"
-msgid "M60A3 loaded with AP and ready for combat!"
+msgid "M60A3装载穿甲弹，准备战斗!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin12"
-msgid "Next is the enemy HQ."
+msgid "接下来是敌军指挥部。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_offices"
-msgid "Capture enemy offices."
+msgid "占领敌军指挥部。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/win"
-msgid "You Win?"
+msgid "你赢了?"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap_all"
-msgid "Capture all four objectives."
+msgid "占领了所有目标。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ranger_hint"
-msgid "A squad of elite U.S. Rangers."
+msgid "美国游骑兵小队。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin6"
-msgid "Targeting enemy pickups!"
+msgid "瞄准敌军皮卡!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ps_title"
-msgid "Police Squad"
+msgid "警察小队"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin3"
-msgid "(Police Officer) I'm hit! I'm hit! Officer down!"
+msgid "(警官)我被击中了!我被击中了!警官受伤!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin14"
-msgid "Take these objectives in the order you decide is best. Recon suggests the offices and hanger may be ideal first targets."
+msgid "你自己决定的这些任务的顺序。侦查表明，敌军的指挥部和机库可能是理想的目标。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/end_6"
-msgid "(...Radiation...)"
+msgid "(...辐射...)"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin16"
-msgid "Once you capture an objective radio it in and we'll send in paratroopers to secure it."
+msgid "一旦你成功占领了，我们就会派伞兵去保护它。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/apc_hint"
-msgid "APC loaded with airborne and armed with a protected M2HB HMG."
+msgid "APC装载了空降兵，装备了M2HB与HMG机枪。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap1_talk2"
-msgid "Good work. we managed to secure a few humvees, and some airborne troops. Call them in as needed."
+msgid "干得好。我们设法获得了一些悍马和一些空降部队。根据需要调用它们。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap2_talk2"
-msgid "Keep it up, some of our APCs have reached your area."
+msgid "继续，我们的一些APC已经抵达了你所在区域。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/police_matv_talk1"
-msgid "Humvee armed and ready for combat!"
+msgid "悍马装备齐全，准备战斗!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap3_talk"
-msgid "Command we just have one objective left. Whats the status on that airbase."
+msgid "指挥部，我们只剩一个目标了。空军基地的状况如何？"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/talk_end2"
-msgid "(...Radio...Static...)"
+msgid "(...无线电...静默...)"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/m60_hint"
-msgid "M60 armed with a 105mm gun and an M2HB HMG machine gun."
+msgid "M60配备105毫米火炮和M2HB与HMG机枪。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/tow_talk1"
-msgid "Systems check complete, TOW's are armed and ready!"
+msgid "系统检查完毕，陶式导弹准备就绪!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ranger_talk1"
-msgid "Requesting U.S. Army Rangers for an upcoming assault!"
+msgid "请求美国陆军游骑兵进攻!"
 msgstr ""
