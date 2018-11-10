@@ -17,7 +17,7 @@ msgid "在不久的将来..."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/place"
-msgid "UAF部队正在收集情报。"
+msgid "UAF部队正在回收情报。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/name"
@@ -89,7 +89,7 @@ msgid "干得好，这对我们的接下来行动有很大帮助。现在我们�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/apache"
-msgid "友军的阿帕奇武装直升机回提供火力支援！"
+msgid "友军的阿帕奇武装直升机会提供火力支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/last m60"
