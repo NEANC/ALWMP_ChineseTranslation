@@ -12,6 +12,8 @@ Source English localization By.hikip922（ https://steamcommunity.com/id/hikip92
 
 英文本地化来源 hikip922（ https://steamcommunity.com/id/hikip922 ）
 
+贴吧界面 https://tieba.baidu.com/p/5946354928?red_tag=1161234349&traceid=
+
 # Follow a License MIT 
 
 ## 遵循许可证 MIT 
