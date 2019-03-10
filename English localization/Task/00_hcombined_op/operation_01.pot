@@ -1,0 +1,273 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (intro)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_hcombined_op/operation_01/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/place"
+msgid "Coalition Tactical Retreat"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/name"
+msgid "Evacuation"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/name_big"
+msgid "Operation 1"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/story"
+msgid "After suffering multiple crushing defeats against the Russians, U.S. forces are forced to retreat toward the advancing German army. You take control of the rear guard of the retreating units, your the last line of defense between the U.S. forces and the Russians. Do whatever is nessasary to survive until the main German force arrives to relieve you!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/bradley_desc"
+msgid "This IFV is equiped with a TOW anti tank launcher and a 25mm autocannon."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/veh_boxer_title"
+msgid "GTK Boxer GMW"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin5"
+msgid "Targets spotted, three rounds out!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin2"
+msgid "Germany has also joined the war, as tensions with Russia rise to a level not seen since the cold war."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/carpet_bomb_title"
+msgid "Carpet Bomb"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_mg_desc"
+msgid "Armed with light machine guns, these soldiers are ready to take on infantry!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_engineer_desc"
+msgid "An elite German engineer, capable of building defenses and repairing vehicles."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin3"
+msgid "A German official has stated, \"We will not stand for Russian aggression, we will assist our allies by any means necessary!\""
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin7"
+msgid "Splash two tanks, remaining enemys have been eliminated!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/dingo_desc"
+msgid "Equiped with an MG3 and very little armor, this unit is best used against infantry."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/tiger_talk"
+msgid "Systems check complete, Tiger Heavy providing air support."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/timer1"
+msgid "Main German Force Arrives in:"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/heli_tiger"
+msgid "Tiger Heavy"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/end3"
+msgid "Cover the survivors! This checkpoint will not fall!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/end1"
+msgid "Survivors spotted dropping bombs, danger close."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin1"
+msgid "...Its being called one of the biggest military disasters in US history. Thousands of wounded soldiers are being rushed out of combat, the US military is in the middle of a massive tactical retreat across all fronts."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_mg_title"
+msgid "Machine Gun Squad"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/wiesel_talk"
+msgid "Wiesel 1A1 TOW ready to destroy some tanks!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/veh_dingo_title"
+msgid "Dingo MG3"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin9"
+msgid "Drone footage shows a large enemy force approching your position! Hold the line, you are all that stands between the russians and our retreating units!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/veh_wiesel_title"
+msgid "Wiesel TOW"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin4"
+msgid "The Russians are banking on encircling the retreating US troops, preventing the main German army from reinforcing their positions...."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin6"
+msgid "Rounds hit their mark, eliminate the remaining vehicles."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/hold_the_line"
+msgid "Hold the line to protect our retreating units!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/talk_heavy_reinforcements"
+msgid "Additional German forces have reached your position, call them in as needed."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_engineer"
+msgid "Elite Engineer"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/end1.5"
+msgid "Payload dropped, multiple targets KIA."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin10"
+msgid "A few units from the main German army are ready to support the defense, call them in as needed. The main force almost there, make sure your here to see it!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/end2"
+msgid "Thats our reinforcements, just in time!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_uaf_title"
+msgid "UAF Airborne"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_ger_title"
+msgid "German Infantry"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_ger_heavy"
+msgid "German Heavy Infantry"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_snipers"
+msgid "Sniper Team"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/veh_bradley"
+msgid "M2 Bradley"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/defensive_line_broken"
+msgid "Theres nobody left defending the line! Get additional soldiers to the line or the mission will be a failure!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/fail_message"
+msgid "With noone left to hold the line the Russians take the checkpoint and destroy the retreating US transports."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/tiger_desc"
+msgid "Vulnerable yet powerful, Armed with two side mounted HMGs and 8 ATGMs."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_ger_desc"
+msgid "A few German soldiers with some AT, armed and ready for combat."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_heavy_desc"
+msgid "Heavy German infantry armed to the teeth."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_snipers_desc"
+msgid "A small team of snipers for long range anti infantry combat."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/wiesel_desc"
+msgid "The low profile of this vehicle, along with a tow ATGM makes this ideal for long range anti tank combat."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/boxer_desc"
+msgid "An APC with a grenade launcher, ready to take on infantry!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin8"
+msgid "Thats the last convoy! Cover their escape, the Russians are on their tail!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/begin11"
+msgid "Understood command, we'll hold this line to the last man!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/end4"
+msgid "Great work soldier! Our retreating units are safe, thanks to your efforts!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/end5"
+msgid "The Russians won't take this lightly, this is just the beginning."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/end6"
+msgid "Next time we better be ready."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/talk_heavy_reinforcements_2"
+msgid "We're going to need them, the Russians are throwing everything they have at us!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/mg_talk"
+msgid "MGs loaded and ready to provide suppressive fire!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/engineer_talk"
+msgid "Engineer reporting, tell me what needs fixing."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_talk"
+msgid "Infantry here, weapons are loaded and ready for combat!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/inf_heavy_talk"
+msgid "Heavy infantry ready to hold the line!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/sniper_talk"
+msgid "Snipers locked and loaded!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/bradley_talk"
+msgid "M2 Bradley weapons check complete, we're armed and ready for combat!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/dingo_talk"
+msgid "Dingo ready to provide cover for infantry, just give us a location."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/boxer_talk"
+msgid "GTK Boxer here, 40mm grenades ready to provide anti infantry cover fire!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_01/win"
+msgid "You held the line against insurmountable odds and saved the retreating convoy, great work soldier!"
+msgstr ""
