@@ -1,0 +1,273 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (Hellfire_Hurricane)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_hcombined_op/operation_02/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/place"
+msgid "Recon Team Rescue"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/name"
+msgid "Hellfire Hurricane"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/name_big"
+msgid "Operation 2"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/story"
+msgid "After evacuating coalition troops setup a defensive line to hold back the enemys advance. In the process of this a recon team gets trapped behind enemy lines. Command dispatches a convoy with an apache escort, to push through enemy lines and evacuate the stranded recon team."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/base3_obj"
+msgid "Take out the Rebel ambush."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/victory"
+msgid "You saved Recon Team Bravo and defended the highway against all odds, great work!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin9"
+msgid "Convoy holding position, tell us when its clear."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin3"
+msgid "Command this is Eagle one, taking off and moving in to support the convoy."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin13"
+msgid "Thanks for the assist Eagle One, we never would have made it without the support!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin16"
+msgid "Copy that command, All units take up defensive positions! The enemy will make contact in four minutes!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/defense_obj"
+msgid "Survive the enemy's attacks until friendly reinforcements arrive!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin1"
+msgid "Command this is Recon Team Bravo, we lost our tank and we're pinned down by enemy fire! We need support and we need it now!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/a10z1"
+msgid "Location received, targets spotted, moving in for a gun run."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/heli3"
+msgid "Eagle one reporting, we're ready to start another strafing run."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/heli_attack"
+msgid "Apache Strafing Run"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/timer2"
+msgid "Allies Arrive in:"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/drone1"
+msgid "Requesting drone strike, targets marked!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/defense_2"
+msgid "test"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/air_attack_show_talk"
+msgid "Eagle One repaired and refueled, give us a location and we'll do a strafing run!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/failstate_apache"
+msgid "You were shot down, the mission was called off and all recon team survivors were captured."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/special1"
+msgid "Spetsnaz are paratrooping behind our lines! Take them out before they cause to much damage!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin2"
+msgid "Command copys, we're dispatching a convoy with an apache escort to pick you up. Hang in there we'll get you out!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/base2_obj"
+msgid "Destroy the enemy camp."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/arty_td_title"
+msgid "Direct Fire"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin5"
+msgid "Keep them pinned down, don't stop firing!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/failstate_rescue_dead"
+msgid "All members of the recon team are dead!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin18"
+msgid "Incoming Russian attack helicopter!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/a10_title"
+msgid "A-10 Gun Run"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/timer"
+msgid "Enemy force arrives in:"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/arty_lr_title"
+msgid "Indirect Fire"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin15"
+msgid "Ground units be advised, a large combined arms force is approching your position. Expect enemy contact in 4 minutes!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin7"
+msgid "Understood, advancing the convoy to the second enemy position."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/base1_obj"
+msgid "Destroy the enemy hardpoint."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin6"
+msgid "Eagle one to convoy leader, area secured, get the convoy moving!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin4"
+msgid "Copy that, take out the enemy vehicles in their path, and get them to our boys in one piece!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin_main_obj"
+msgid "Escort the convoy to Recon Team Bravo."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/rescue_obj"
+msgid "Keep the Recon Team alive until the convoy reaches their position."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin8"
+msgid "Hold the convoy, theres an enemy ambush across the river."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin10"
+msgid "The ambush has been eliminated your clear to advance!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin11"
+msgid "Eagle one, the convoy won't make it in time! Our troops are almost overrun, get up there and hold the enemy off!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/drone_title"
+msgid "Drone Strike"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/arty_lr_desc"
+msgid "Change artillery to indirect fire mode, good for engaging large amounts of infantry at long range."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/air_attack_desc"
+msgid "Sends Eagle One to perform a strafing run to the specified point. Somewhat effective against all units."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/drone_desc"
+msgid "Designate an area for a drone to drop a laser guided bomb. Can take out enemy infantry and light vehicles."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/arty_td_desc"
+msgid "Change artillery to direct fire mode, good for engaging vehicles at close range."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/special2"
+msgid "Two Russian KA-52s incoming, shoot them down!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin12"
+msgid "Understood, advancing to support Recon Team Bravo."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin17"
+msgid "Artillery reporting in, ready to switch between indirect and direct fire modes. Just give the order."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin14"
+msgid "Glad your in one piece, the convoy will take it from here. Eagle one heading back to base."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/defense2"
+msgid "We have A-10s and Drones in the area, they're both low on ammo so make them count!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/a10_desc"
+msgid "Have an A-10 perform a gun run across the battlefield. Very effective against enemy vehicles."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/begin19"
+msgid "Convoy arriving at evac point now."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/failstate_defense"
+msgid "The enemy overran your defenses before help arrived!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/defense1"
+msgid "Here they come! Command we could really use some air support!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/heli1"
+msgid "Coordinates received, commencing strafing run, weapons hot!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/heli2"
+msgid "Gun run complete, heading back to rearm and refuel."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/arty2"
+msgid "Understood, artillery entering direct fire mode."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/arty1"
+msgid "Order received, artillery switching to indirect fire mode."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/end1"
+msgid "Thats our reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/end2"
+msgid "Cover the survivors, don't let the enemy break through!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_02/end3"
+msgid "All units setup a perimiter, the enemy will not take this highway!"
+msgstr ""
