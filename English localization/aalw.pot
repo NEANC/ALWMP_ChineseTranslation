@@ -47,3 +47,19 @@ msgstr ""
 msgctxt "desc/entity/m1a2_abrams_tusk2"
 msgid "M1A2 Abrams SEP TUSK 2"
 msgstr ""
+
+msgctxt "desc/human/special/channel9_news"
+msgid "Breaking News"
+msgstr ""
+
+msgctxt "desc/human/special/joint_hq"
+msgid "Coalition HQ"
+msgstr ""
+
+msgctxt "desc/entity/ah-64_apache_heavy_mod"
+msgid "AH-64 Apache Heavy"
+msgstr ""
+
+msgctxt "desc/entity/ah-64_apache_mod"
+msgid "AH-64 Apache"
+msgstr ""
