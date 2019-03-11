@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgctxt "mission/single/00_hcombined_op/operation_01/date"
-msgid "近未来的某天……"
+msgid "近未来的某天......"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/place"
@@ -21,7 +21,7 @@ msgid "联合战略撤退"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/name"
-msgid "大撤离"
+msgid "战略撤退"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/name_big"
@@ -29,15 +29,15 @@ msgid "任务 1"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/story"
-msgid "在和俄军交战过程中, 美军经历几次重大战败后被迫向正在推进战线的德军靠拢并后撤. 你负责指挥殿后的部队, 你是美军和俄军之间最后一条防线, 必须不惜一切代价存活到德军大部队的到来!"
+msgid "在和俄军交战过程中，美军经历几次重大战败后被迫向正在推进战线的德军靠拢并后撤。 你负责指挥殿后的部队，你是美军和俄军之间最后一条防线，必须不惜一切代价存活到德军大部队的到来！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/outro_completed"
-msgid "任务完成!"
+msgid "任务完成！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/outro_failed"
-msgid "任务失败!"
+msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/outro_start"
@@ -45,7 +45,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/bradley_desc"
-msgid "这个步战车装备了陶氏反坦克导弹和25毫米机炮"
+msgid "这个步战车装备了陶氏反坦克导弹和25毫米机炮。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_boxer_title"
@@ -53,11 +53,11 @@ msgid "“拳师犬”步兵装甲车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin5"
-msgid "发现目标, 开火!"
+msgid "发现目标，开火！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin2"
-msgid "德国也加入了战争当中, 自冷战以来德国与俄国之间的紧张程度上升到了一个前所未有的程度"
+msgid "德国也加入了战争当中，自冷战以来德国与俄国之间的紧张程度上升到了一个前所未有的程度。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/carpet_bomb_title"
@@ -65,47 +65,47 @@ msgid "地毯式轰炸"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_mg_desc"
-msgid "装备有轻机枪, 这些士兵已经做好迎战步兵的准备!"
+msgid "装备有轻机枪，士兵们已经做好战前准备！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_engineer_desc"
-msgid "一位德军精英工程兵, 能同时肩负防御工事修建与车辆战地抢修."
+msgid "一位德军精英工程兵，能同时肩负防御工事修建与车辆战地抢修。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin3"
-msgid "一位德国高层官员严正声明：\“我们不会容忍俄军的侵略行为, 我们将尽一切可能协助我们的盟友!”\"
+msgid "一位德国高层官员严正声明： “我们不会容忍俄军的侵略行为，我们将尽一切可能协助我们的盟友！”"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin7"
-msgid "炸毁两辆坦克, 残存敌军已被消灭!"
+msgid "摧毁两辆坦克，残存敌军已消灭！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/dingo_desc"
-msgid "装备有MG3轻机枪以及基础轻型护甲, 此单位能有效对付步兵."
+msgid "装备有MG3轻机枪以及基础轻型护甲，此单位能有效对付步兵。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/tiger_talk"
-msgid "系统检测完毕, 重型老虎随时可以提供空中支援."
+msgid "系统检测完毕，重型虎式随时可以提供火力支援。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/timer1"
-msgid "德军主力部队到达剩余时间:"
+msgid "德军主力部队到达剩余时间："
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/heli_tiger"
-msgid "重型老虎"
+msgid "重型虎式"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end3"
-msgid "掩护幸存的部队, 这个检查点绝不能被攻破!"
+msgid "掩护幸存的部队，这个检查点绝不能被攻破！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end1"
-msgid "幸存部队侦察到敌军空袭, 危险距离打击."
+msgid "幸存部队侦察到敌军空袭，危险距离打击。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin1"
-msgid "...这场战役被誉为美国史上最重大的军事灾难之一, 成千上万的伤兵被紧急撤出, 美军面临全战线重大战略撤离的地步."
+msgid "...这场战役被誉为美国史上最重大的军事灾难之一，成千上万的伤兵被紧急撤出，美军面临全战线重大战略撤离的地步。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_mg_title"
@@ -113,7 +113,7 @@ msgid "机枪小队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/wiesel_talk"
-msgid "“鼬鼠”1A1陶式导弹反坦克车, 已准备好一发入魂!"
+msgid "“鼬鼠”1A1陶式导弹反坦克车，已准备好一发入魂！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_dingo_title"
@@ -121,7 +121,7 @@ msgid "MG3 野犬式全方位防护运输车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin9"
-msgid "无人机侦查到一大波敌军正在靠近你的位置!死守阵线, 你是俄军和撤退部队之间唯一的防线!"
+msgid "无人机侦查到一大波敌军正在靠近你的位置！死守阵线，你是俄军和撤退部队之间唯一的防线！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_wiesel_title"
@@ -133,31 +133,31 @@ msgid "俄军正准备着包围美军撤退部队并阻止德军主力部队增�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin6"
-msgid "正中红心!继续歼灭残余车辆."
+msgid "正中红心!继续歼灭残余车辆。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/hold_the_line"
-msgid "死守阵线以保护我方撤退部队!"
+msgid "死守阵线以保护我方撤退部队！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/talk_heavy_reinforcements"
-msgid "额外德军部队已到达, 可随时根据需要下令指挥."
+msgid "额外德军部队已到达，可随时根据需要下令指挥。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_engineer"
-msgid "精英工程兵"
+msgid "精英工程师"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end1.5"
-msgid "已投弹, 多重目标已击毁."
+msgid "已投弹，多重目标已击毁。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin10"
-msgid "几支德军主力部队单位已先遣到达, 可随时根据需要下令指挥. 大部队就快到了, 确保你能活到最后亲眼目睹!"
+msgid "几支德军主力部队单位已先遣到达，可随时根据需要下令指挥。大部队就快到了，确保你能活到最后亲眼目睹！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end2"
-msgid "大部队到了!正是时候!"
+msgid "大部队到了！正是时候！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_uaf_title"
@@ -181,93 +181,93 @@ msgid "M2 “布莱德利”"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/defensive_line_broken"
-msgid "阵地已空!呼叫额外士兵守住阵线, 否则任务马上失败!"
+msgid "阵地已空！呼叫支援守住阵线，否则任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/fail_message"
-msgid "由于阵线无一士兵存活, 俄军夺下了检查点并摧毁了美军撤离运输部队."
+msgid "由于阵线无一士兵存活，俄军夺下了检查点并摧毁了美军撤离运输部队。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/tiger_desc"
-msgid "脆弱但又强大, 装备两挺重机枪和8发反坦克制导导弹."
+msgid "脆弱但又强大，装备两挺重机枪和8发反坦克制导导弹。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_ger_desc"
-msgid "几名装备了反坦克火箭筒的德军士兵, 已做好战斗准备."
+msgid "几名装备了反坦克火箭筒的德军士兵，已做好战斗准备。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_heavy_desc"
-msgid "武装到牙齿的重装德军步兵."
+msgid "武装到牙齿的重装德军步兵。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_snipers_desc"
-msgid "一只能进行远程反步兵狙击的小队."
+msgid "一只能进行远程反步兵狙击的小队。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/wiesel_desc"
-msgid "车辆的低姿态车身与装备的陶氏反坦制导导弹, 能极度舒适得完成远程反坦克作战."
+msgid "车辆的低姿态车身与装备的陶氏反坦制导导弹，能极度舒适得完成远程反坦克作战。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/boxer_desc"
-msgid "带有榴弹发射器的装甲运兵车, 反步兵效果令人极度舒适!"
+msgid "带有榴弹发射器的装甲运兵车，反步兵效果令人极度舒适！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin8"
-msgid "那是最后一只车队, 掩护他们撤离!俄军就在他们屁股后面!"
+msgid "那是最后一只车队，掩护他们撤离！俄军就在他们屁股后面！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin11"
-msgid "明白指挥官, 我们会死守战线到最后一兵一卒!"
+msgid "明白指挥官，我们会死守战线到最后一兵一卒！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end4"
-msgid "干得好士兵!得利于你的功劳, 我们的撤退部队安全了!"
+msgid "干得好士兵！得利于你的功劳，我们的部队安全了！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end5"
-msgid "俄军不会就这么轻易放弃, 这仅仅只是开始."
+msgid "俄军不会就这么轻易放弃，这仅仅只是开始。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end6"
-msgid "下次, 我们最好做足完全准备."
+msgid "下次，我们最好做足完全准备。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/talk_heavy_reinforcements_2"
-msgid "我们肯定需要他们, 俄军已经把他们所有力量用上了!"
+msgid "我们肯定需要他们，俄军已经把他们所有力量用上了！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/mg_talk"
-msgid "重机枪换弹完毕, 随时准备进行火力压制!"
+msgid "重机枪换弹完毕。随时准备进行火力压制！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/engineer_talk"
-msgid "工程兵报到!告诉我车哪坏了, 我修车贼溜!"
+msgid "工程兵报到！告诉我车哪坏了，我修车贼溜！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_talk"
-msgid "步兵报到, 你的阵线部队死光啦？"
+msgid "步兵报到，你的阵线部队死光啦？"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_heavy_talk"
-msgid "重装兵, 按D部署!"
+msgid "重装兵，按D部署！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/sniper_talk"
-msgid "狙击手报到, “ 我们都是神枪手, 一发子弹消灭一个敌人~”"
+msgid "狙击手报到，“ 我们都是神枪手, 一发子弹消灭一个敌人~”"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/bradley_talk"
-msgid "M2 “布莱德利”武器检查完毕, 已做好战斗准备!"
+msgid "M2 “布莱德利”武器检查完毕,已做好战斗准备!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/dingo_talk"
-msgid "野犬装甲车准备好掩护我方撤退! 指个路, 我们这就走."
+msgid "野犬装甲车准备好掩护我方撤退！指个路，我们这就走。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/boxer_talk"
-msgid "“拳师犬”步兵装甲车已到场, 我们的40毫米榴弹够他们步兵喝一壶的啦!"
+msgid "“拳师犬”步兵装甲车已到场，我们的40毫米榴弹够他们步兵喝一壶的啦！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/win"
-msgid "防御阵线在你的指挥下抵挡住了一波又一波的进攻, 干得好士兵!"
+msgid "防御阵线在你的指挥下抵挡住了一波又一波的进攻，干得好士兵。"
 msgstr ""
