@@ -13,31 +13,31 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgctxt "mission/single/00_hcombined_op/operation_01/date"
-msgid "Sometime in the near future..."
+msgid "近未来的某天……"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/place"
-msgid "联合战术撤退"
+msgid "联合战略撤退"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/name"
-msgid "撤退"
+msgid "大撤离"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/name_big"
-msgid "任务1"
+msgid "任务 1"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/story"
-msgid "After suffering multiple crushing defeats against the Russians, U.S. forces are forced to retreat toward the advancing German army. You take control of the rear guard of the retreating units, your the last line of defense between the U.S. forces and the Russians. Do whatever is nessasary to survive until the main German force arrives to relieve you!"
+msgid "在和俄军交战过程中, 美军经历几次重大战败后被迫向正在推进战线的德军靠拢并后撤. 你负责指挥殿后的部队, 你是美军和俄军之间最后一条防线, 必须不惜一切代价存活到德军大部队的到来!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/outro_completed"
-msgid "Mission accomplished!"
+msgid "任务完成!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/outro_failed"
-msgid "Mission failure!"
+msgid "任务失败!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/outro_start"
@@ -45,229 +45,229 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/bradley_desc"
-msgid "This IFV is equiped with a TOW anti tank launcher and a 25mm autocannon."
+msgid "这个步战车装备了陶氏反坦克导弹和25毫米机炮"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_boxer_title"
-msgid "GTK Boxer GMW"
+msgid "“拳师犬”步兵装甲车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin5"
-msgid "Targets spotted, three rounds out!"
+msgid "发现目标, 开火!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin2"
-msgid "Germany has also joined the war, as tensions with Russia rise to a level not seen since the cold war."
+msgid "德国也加入了战争当中, 自冷战以来德国与俄国之间的紧张程度上升到了一个前所未有的程度"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/carpet_bomb_title"
-msgid "Carpet Bomb"
+msgid "地毯式轰炸"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_mg_desc"
-msgid "Armed with light machine guns, these soldiers are ready to take on infantry!"
+msgid "装备有轻机枪, 这些士兵已经做好迎战步兵的准备!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_engineer_desc"
-msgid "An elite German engineer, capable of building defenses and repairing vehicles."
+msgid "一位德军精英工程兵, 能同时肩负防御工事修建与车辆战地抢修."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin3"
-msgid "A German official has stated, \"We will not stand for Russian aggression, we will assist our allies by any means necessary!\""
+msgid "一位德国高层官员严正声明：\“我们不会容忍俄军的侵略行为, 我们将尽一切可能协助我们的盟友!”\"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin7"
-msgid "Splash two tanks, remaining enemys have been eliminated!"
+msgid "炸毁两辆坦克, 残存敌军已被消灭!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/dingo_desc"
-msgid "Equiped with an MG3 and very little armor, this unit is best used against infantry."
+msgid "装备有MG3轻机枪以及基础轻型护甲, 此单位能有效对付步兵."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/tiger_talk"
-msgid "Systems check complete, Tiger Heavy providing air support."
+msgid "系统检测完毕, 重型老虎随时可以提供空中支援."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/timer1"
-msgid "Main German Force Arrives in:"
+msgid "德军主力部队到达剩余时间:"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/heli_tiger"
-msgid "Tiger Heavy"
+msgid "重型老虎"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end3"
-msgid "Cover the survivors! This checkpoint will not fall!"
+msgid "掩护幸存的部队, 这个检查点绝不能被攻破!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end1"
-msgid "Survivors spotted dropping bombs, danger close."
+msgid "幸存部队侦察到敌军空袭, 危险距离打击."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin1"
-msgid "...Its being called one of the biggest military disasters in US history. Thousands of wounded soldiers are being rushed out of combat, the US military is in the middle of a massive tactical retreat across all fronts."
+msgid "...这场战役被誉为美国史上最重大的军事灾难之一, 成千上万的伤兵被紧急撤出, 美军面临全战线重大战略撤离的地步."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_mg_title"
-msgid "Machine Gun Squad"
+msgid "机枪小队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/wiesel_talk"
-msgid "Wiesel 1A1 TOW ready to destroy some tanks!"
+msgid "“鼬鼠”1A1陶式导弹反坦克车, 已准备好一发入魂!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_dingo_title"
-msgid "Dingo MG3"
+msgid "MG3 野犬式全方位防护运输车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin9"
-msgid "Drone footage shows a large enemy force approching your position! Hold the line, you are all that stands between the russians and our retreating units!"
+msgid "无人机侦查到一大波敌军正在靠近你的位置!死守阵线, 你是俄军和撤退部队之间唯一的防线!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_wiesel_title"
-msgid "Wiesel TOW"
+msgid "“鼬鼠”陶式导弹反坦克车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin4"
-msgid "The Russians are banking on encircling the retreating US troops, preventing the main German army from reinforcing their positions...."
+msgid "俄军正准备着包围美军撤退部队并阻止德军主力部队增援他们...."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin6"
-msgid "Rounds hit their mark, eliminate the remaining vehicles."
+msgid "正中红心!继续歼灭残余车辆."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/hold_the_line"
-msgid "Hold the line to protect our retreating units!"
+msgid "死守阵线以保护我方撤退部队!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/talk_heavy_reinforcements"
-msgid "Additional German forces have reached your position, call them in as needed."
+msgid "额外德军部队已到达, 可随时根据需要下令指挥."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_engineer"
-msgid "Elite Engineer"
+msgid "精英工程兵"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end1.5"
-msgid "Payload dropped, multiple targets KIA."
+msgid "已投弹, 多重目标已击毁."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin10"
-msgid "A few units from the main German army are ready to support the defense, call them in as needed. The main force almost there, make sure your here to see it!"
+msgid "几支德军主力部队单位已先遣到达, 可随时根据需要下令指挥. 大部队就快到了, 确保你能活到最后亲眼目睹!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end2"
-msgid "Thats our reinforcements, just in time!"
+msgid "大部队到了!正是时候!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_uaf_title"
-msgid "UAF Airborne"
+msgid "UAF 空降部队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_ger_title"
-msgid "German Infantry"
+msgid "德军步兵"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_ger_heavy"
-msgid "German Heavy Infantry"
+msgid "德军重型步兵"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_snipers"
-msgid "Sniper Team"
+msgid "狙击小组"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_bradley"
-msgid "M2 Bradley"
+msgid "M2 “布莱德利”"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/defensive_line_broken"
-msgid "Theres nobody left defending the line! Get additional soldiers to the line or the mission will be a failure!"
+msgid "阵地已空!呼叫额外士兵守住阵线, 否则任务马上失败!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/fail_message"
-msgid "With noone left to hold the line the Russians take the checkpoint and destroy the retreating US transports."
+msgid "由于阵线无一士兵存活, 俄军夺下了检查点并摧毁了美军撤离运输部队."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/tiger_desc"
-msgid "Vulnerable yet powerful, Armed with two side mounted HMGs and 8 ATGMs."
+msgid "脆弱但又强大, 装备两挺重机枪和8发反坦克制导导弹."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_ger_desc"
-msgid "A few German soldiers with some AT, armed and ready for combat."
+msgid "几名装备了反坦克火箭筒的德军士兵, 已做好战斗准备."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_heavy_desc"
-msgid "Heavy German infantry armed to the teeth."
+msgid "武装到牙齿的重装德军步兵."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_snipers_desc"
-msgid "A small team of snipers for long range anti infantry combat."
+msgid "一只能进行远程反步兵狙击的小队."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/wiesel_desc"
-msgid "The low profile of this vehicle, along with a tow ATGM makes this ideal for long range anti tank combat."
+msgid "车辆的低姿态车身与装备的陶氏反坦制导导弹, 能极度舒适得完成远程反坦克作战."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/boxer_desc"
-msgid "An APC with a grenade launcher, ready to take on infantry!"
+msgid "带有榴弹发射器的装甲运兵车, 反步兵效果令人极度舒适!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin8"
-msgid "Thats the last convoy! Cover their escape, the Russians are on their tail!"
+msgid "那是最后一只车队, 掩护他们撤离!俄军就在他们屁股后面!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin11"
-msgid "Understood command, we'll hold this line to the last man!"
+msgid "明白指挥官, 我们会死守战线到最后一兵一卒!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end4"
-msgid "Great work soldier! Our retreating units are safe, thanks to your efforts!"
+msgid "干得好士兵!得利于你的功劳, 我们的撤退部队安全了!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end5"
-msgid "The Russians won't take this lightly, this is just the beginning."
+msgid "俄军不会就这么轻易放弃, 这仅仅只是开始."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end6"
-msgid "Next time we better be ready."
+msgid "下次, 我们最好做足完全准备."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/talk_heavy_reinforcements_2"
-msgid "We're going to need them, the Russians are throwing everything they have at us!"
+msgid "我们肯定需要他们, 俄军已经把他们所有力量用上了!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/mg_talk"
-msgid "MGs loaded and ready to provide suppressive fire!"
+msgid "重机枪换弹完毕, 随时准备进行火力压制!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/engineer_talk"
-msgid "Engineer reporting, tell me what needs fixing."
+msgid "工程兵报到!告诉我车哪坏了, 我修车贼溜!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_talk"
-msgid "Infantry here, weapons are loaded and ready for combat!"
+msgid "步兵报到, 你的阵线部队死光啦？"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_heavy_talk"
-msgid "Heavy infantry ready to hold the line!"
+msgid "重装兵, 按D部署!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/sniper_talk"
-msgid "Snipers locked and loaded!"
+msgid "狙击手报到, “ 我们都是神枪手, 一发子弹消灭一个敌人~”"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/bradley_talk"
-msgid "M2 Bradley weapons check complete, we're armed and ready for combat!"
+msgid "M2 “布莱德利”武器检查完毕, 已做好战斗准备!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/dingo_talk"
-msgid "Dingo ready to provide cover for infantry, just give us a location."
+msgid "野犬装甲车准备好掩护我方撤退! 指个路, 我们这就走."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/boxer_talk"
-msgid "GTK Boxer here, 40mm grenades ready to provide anti infantry cover fire!"
+msgid "“拳师犬”步兵装甲车已到场, 我们的40毫米榴弹够他们步兵喝一壶的啦!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/win"
-msgid "You held the line against insurmountable odds and saved the retreating convoy, great work soldier!"
+msgid "防御阵线在你的指挥下抵挡住了一波又一波的进攻, 干得好士兵!"
 msgstr ""
