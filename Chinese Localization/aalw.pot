@@ -49,7 +49,7 @@ msgid "M1A2主战坦克SEP TUSK 2"
 msgstr ""
 
 msgctxt "desc/human/special/channel9_news"
-msgid "大事件"
+msgid "突发新闻"
 msgstr ""
 
 msgctxt "desc/human/special/joint_hq"
