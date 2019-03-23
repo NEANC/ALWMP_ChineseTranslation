@@ -49,7 +49,7 @@ msgid "这个步战车装备了陶氏反坦克导弹和25毫米机炮。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_boxer_title"
-msgid "“拳师犬”步兵装甲车"
+msgid "拳师犬步兵装甲车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin5"
@@ -65,11 +65,11 @@ msgid "地毯式轰炸"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_mg_desc"
-msgid "装备有轻机枪，士兵们已经做好战前准备！"
+msgid "士兵们已经做好战前准备！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_engineer_desc"
-msgid "一位德军精英工程兵，能同时肩负防御工事修建与车辆战地抢修。"
+msgid "德军精英工程师，能同时肩负防御工事修建与车辆战地抢修。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin3"
@@ -81,7 +81,7 @@ msgid "摧毁两辆坦克，残存敌军已消灭！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/dingo_desc"
-msgid "装备有MG3轻机枪以及基础轻型护甲，此单位能有效对付步兵。"
+msgid "装备着MG3轻机枪以及基础轻型护甲，此单位能有效对付步兵。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/tiger_talk"
@@ -113,11 +113,11 @@ msgid "机枪小队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/wiesel_talk"
-msgid "“鼬鼠”1A1陶式导弹反坦克车，已准备好一发入魂！"
+msgid "鼬鼠导弹反坦克车，已准备好一发入魂！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_dingo_title"
-msgid "MG3 野犬式全方位防护运输车"
+msgid "MG3野犬式全方位防护运输车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin9"
@@ -125,7 +125,7 @@ msgid "无人机侦查到一大波敌军正在靠近你的位置！ 死守阵线
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_wiesel_title"
-msgid "“鼬鼠”陶式导弹反坦克车"
+msgid "鼬鼠导弹反坦克车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin4"
@@ -149,7 +149,7 @@ msgid "精英工程师"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end1.5"
-msgid "已投弹，多重目标已击毁。"
+msgid "已投弹，多个目标已击毁。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin10"
@@ -165,11 +165,11 @@ msgid "UAF 空降部队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_ger_title"
-msgid "德军步兵"
+msgid "德军步兵小队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_ger_heavy"
-msgid "德军重型步兵"
+msgid "德军重装步兵小队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_snipers"
@@ -177,7 +177,7 @@ msgid "狙击小组"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_bradley"
-msgid "M2 “布莱德利”"
+msgid "M2布莱德利步兵战车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/defensive_line_broken"
@@ -205,7 +205,7 @@ msgid "一只能进行远程反步兵狙击的小队。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/wiesel_desc"
-msgid "车辆的低姿态车身与装备的陶氏反坦制导导弹，能极度舒适得完成远程反坦克作战。"
+msgid "低姿态车身并装备着陶氏反坦制导导弹，能极度舒适得完成远程反坦克作战。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/boxer_desc"
@@ -241,7 +241,7 @@ msgid "重机枪换弹完毕。随时准备进行火力压制！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/engineer_talk"
-msgid "工程兵报到！告诉我车哪坏了，我修车贼溜！"
+msgid "工程师报到！告诉我车哪坏了，我修车贼溜！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_talk"
@@ -257,7 +257,7 @@ msgid "狙击手报到，“ 我们都是神枪手, 一发子弹消灭一个敌�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/bradley_talk"
-msgid "M2 “布莱德利”武器检查完毕,已做好战斗准备!"
+msgid "M2布莱德利步兵战车，已做好战斗准备!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/dingo_talk"
@@ -265,7 +265,7 @@ msgid "野犬装甲车准备好掩护我方撤退！指个路，我们这就走�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/boxer_talk"
-msgid "“拳师犬”步兵装甲车已到场，我们的40毫米榴弹够他们步兵喝一壶的啦！"
+msgid "拳师犬步兵装甲车已到场，我们的40毫米榴弹够他们步兵喝一壶的啦！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/win"
