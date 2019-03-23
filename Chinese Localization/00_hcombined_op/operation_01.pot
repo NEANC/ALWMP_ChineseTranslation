@@ -25,7 +25,7 @@ msgid "战略撤退"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/name_big"
-msgid "任务 1"
+msgid "任务1"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/story"
