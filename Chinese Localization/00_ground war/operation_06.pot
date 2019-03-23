@@ -21,7 +21,7 @@ msgid "联合打击叛军占领的城市。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/name"
-msgid "结局"
+msgid "终局"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/name_big"
@@ -29,15 +29,15 @@ msgid "任务6"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/story"
-msgid "一列满载着美国和UAF部队的装甲列车冲破叛军的防线，抵达其总部。与当地政府合作，占据四个位置。所有平民都被疏散，所以你可以做任何事情!"
+msgid "一列满载着美国和UAF部队的装甲列车冲破叛军的防线，抵达其总部。 与当地政府合作，占据四个位置。所有平民都被疏散，所以你可以做任何事情！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/outro_completed"
-msgid "任务完成!"
+msgid "任务完成！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/outro_failed"
-msgid "任务失败!"
+msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/outro_start"
@@ -45,7 +45,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ranger_talk2"
-msgid "游骑兵报到，告诉我们你需要我们去哪儿!"
+msgid "游骑兵报到，告诉我们你需要我们去哪儿！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/police_squad_hint"
@@ -53,7 +53,7 @@ msgid "训练有素的警察和特警小队。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/apc_talk1"
-msgid "APC准备就绪。只要一句话，我们随时可以着落!"
+msgid "APC准备就绪。只要一句话，我们随时可以着落！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/am60_title"
@@ -77,7 +77,7 @@ msgid "警察小队"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin4"
-msgid "特警小队需要增援!"
+msgid "特警小队需要增援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin10"
@@ -85,11 +85,11 @@ msgid "第一个目标是敌军指挥部。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap_1_talk1"
-msgid "我们锁定了目标!位置用红色烟雾标记，快派出伞兵!"
+msgid "我们锁定了目标!位置用红色烟雾标记，快派出伞兵！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin5"
-msgid "瞄准那些卡车，我们要守住这里!"
+msgid "瞄准那些卡车，我们要守住这里！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin11"
@@ -117,7 +117,7 @@ msgid "空降部队"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/talk_end4"
-msgid "俄罗斯战机!趴下!"
+msgid "敌机！趴下！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin9"
@@ -133,19 +133,19 @@ msgid "保持警惕，我们刚与美国空军基地失去联系。情报显示�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap2_talk1"
-msgid "我们又完成了一项任务，用红色烟雾标记地点!"
+msgid "我们又完成了一项任务，用红色烟雾标记地点！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/talk_end3"
-msgid "指挥部收到了吗?任务已完成!"
+msgid "指挥部收到了吗？任务已完成！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin2"
-msgid "特警正在坚守阵地，火车即将到达!"
+msgid "特警们正在坚守阵地，火车即将到达！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin1"
-msgid "警察小队需要支援!"
+msgid "警察小队需要支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin15"
@@ -157,19 +157,19 @@ msgid "我们有一些M60和一些游骑兵在你的位置附近，你有权在�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin17"
-msgid "你完成的任务越多，你的增援部队就会越强，祝你好运!"
+msgid "你完成的任务越多，你的增援部队就会越强，祝你好运！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/airborne_talk1"
-msgid "请求伞兵空降!"
+msgid "请求伞兵空降！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/police_squad_talk2"
-msgid "(警官)我们准备好了，给我们一个位置!"
+msgid "(警官)我们准备好了，给我们一个位置！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/police_squad_talk1"
-msgid "请求警察小队来帮助我们进攻!"
+msgid "请求警察小队来帮助我们进攻！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_hq_title"
@@ -197,7 +197,7 @@ msgid "占领敌军机库。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/talk_end1"
-msgid "指挥部，这是最后一个目标!我们已经占领了此区域!"
+msgid "指挥部，这是最后一个目标！我们已经占领了此区域！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_armor_fort"
@@ -205,7 +205,7 @@ msgid "占领敌军防御工事。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/m60_talk1"
-msgid "M60A3装载穿甲弹，准备战斗!"
+msgid "M60A3装载穿甲弹，准备战斗！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin12"
@@ -213,11 +213,11 @@ msgid "接下来是敌军指挥部。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_offices"
-msgid "占领敌军指挥部。"
+msgid "占领敌军指挥部"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/win"
-msgid "你赢了?"
+msgid "你赢了？"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap_all"
@@ -225,11 +225,11 @@ msgid "占领了所有目标。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ranger_hint"
-msgid "美国游骑兵小队。"
+msgid "美国游骑兵小队"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin6"
-msgid "瞄准敌军皮卡!"
+msgid "瞄准敌军皮卡！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ps_title"
@@ -237,7 +237,7 @@ msgid "警察小队"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin3"
-msgid "(警官)我被击中了!我被击中了!警官受伤!"
+msgid "(警官)我被击中了！我被击中了！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/begin14"
@@ -257,7 +257,7 @@ msgid "APC装载了空降兵，装备了M2HB与HMG机枪。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap1_talk2"
-msgid "干得好。我们设法获得了一些悍马和一些空降部队。根据需要调用它们。"
+msgid "干得好。我们设法调派一些悍马和一些空降部队。根据需要调用它们。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap2_talk2"
@@ -265,7 +265,7 @@ msgid "继续，我们的一些APC已经抵达了你所在区域。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/police_matv_talk1"
-msgid "悍马装备齐全，准备战斗!"
+msgid "悍马装备齐全，准备战斗！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/cap3_talk"
@@ -281,9 +281,9 @@ msgid "M60配备105毫米火炮和M2HB与HMG机枪。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/tow_talk1"
-msgid "系统检查完毕，陶式导弹准备就绪!"
+msgid "系统检查完毕，陶式导弹准备就绪！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/ranger_talk1"
-msgid "请求美国陆军游骑兵进攻!"
+msgid "请求美国陆军游骑兵进攻！"
 msgstr ""
