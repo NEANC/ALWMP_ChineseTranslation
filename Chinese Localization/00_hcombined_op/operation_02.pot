@@ -57,7 +57,7 @@ msgid "部队在保持位置，告诉我们什么时候撤退！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin3"
-msgid "指挥部，这是老鹰一号，正在入场提供火力支援。"
+msgid "指挥部，这是老鹰一号，正在起飞。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin13"
@@ -153,7 +153,7 @@ msgid "地面部队注意！预计4分钟后与大规模敌人接触！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin7"
-msgid "收到，将部队推进第二敌方阵地。"
+msgid "收到，部队进攻敌方第二阵地。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/base1_obj"
@@ -169,7 +169,7 @@ msgid "指挥官，捕获敌人的车辆，然后让我们回家！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin_main_obj"
-msgid "让部队去支援侦察队。"
+msgid "增援部队安全抵达侦察队区域。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/rescue_obj"
@@ -181,11 +181,11 @@ msgid "坚持住！有敌人埋伏在河对岸！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin10"
-msgid "伏兵已被消灭，你可以继续前进了！"
+msgid "伏兵已被消灭，可以继续前进！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin11"
-msgid "老鹰一号，支援不能及时赶到！我们的防线快被攻破了，提供支援！"
+msgid "老鹰一号，增援不能及时赶到！ 我们的防线快被攻破了，快提供支援！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/drone_title"
