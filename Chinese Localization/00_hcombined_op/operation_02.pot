@@ -25,7 +25,7 @@ msgid "地狱火飓风"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/name_big"
-msgid "任务 2"
+msgid "任务2"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/story"
