@@ -29,15 +29,15 @@ msgid "任务4"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/story"
-msgid "数多成功的任务之后，GRM对UAF军事基地进行了一次出乎意料的反击。在这漫长的围攻战中只有7名幸存者幸存，他们只有一次机会逃生，盟军的史崔克装甲车正在前往他们所在地的途中。"置。"
+msgid "数多成功的任务之后，GRM对UAF军事基地进行了一次出乎意料的反击。 在这漫长的围攻战中只有7名幸存者幸存，他们只有一次机会逃生，盟军的史崔克装甲车正在前往他们所在地的途中。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/outro_completed"
-msgid "任务完成!"
+msgid "任务完成！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/outro_failed"
-msgid "任务失败!"
+msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/outro_start"
@@ -45,43 +45,43 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/victory_talk"
-msgid "史崔克装甲车撤离了战区，救援成功!"
+msgid "史崔克装甲车撤离了战区，救援成功！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/begin2"
-msgid "快到了，预计3分钟!坚持住，士兵们，救援要来了!"
+msgid "快到了，预计3分钟！坚持住，士兵们，救援要来了！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/panic"
-msgid "队长倒下了!我们赢不了，我们会被屠杀的！我们投降!"
+msgid "队长倒下了！我们赢不了，我们会被屠杀的！我们投降！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/evac_win"
-msgid "你幸存了下来，成功疏散了，干得好!"
+msgid "你幸存了下来，成功疏散了，干得好！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/begin1"
-msgid "指挥部，我们不能再坚持下去了!如果我们现在在不撤离，你们就不会再看到我们了!"
+msgid "指挥部，我们不能再坚持下去了!如果我们现在在不撤离，你们就不会再看到我们了！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/gameover_all_die_stryker"
-msgid "所有人都阵亡了，史崔克装甲车被迫撤离!"
+msgid "所有人都阵亡了，史崔克装甲车被迫撤离！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/stryker_arrive"
-msgid "史崔克装甲车抵达预定位置，让所有人准备登车!"
+msgid "史崔克装甲车抵达预定位置，让所有人准备登车！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/begin3"
-msgid "GRM开始进攻!增援预计三分钟后抵达，我们要守住这里!"
+msgid "GRM开始进攻！增援预计三分钟后抵达，我们要守住这里！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/tank_incoming2"
-msgid "一旦史崔克装甲车抵达，马上让所有人都上车，否则装甲车就会被摧毁!"
+msgid "一旦史崔克装甲车抵达，马上让所有人都上车，否则装甲车就会被摧毁！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/stryker_leave"
-msgid "行动！行动! 大家都上车了，开车!"
+msgid "行动！行动！大家都上车了，开车！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/gameover_stryker_destroyed"
@@ -93,7 +93,7 @@ msgid "增援抵达:"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/stryker_at_location"
-msgid "我们到了救援点，大家快上来!"
+msgid "我们到了救援点，大家快上来！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/gameover_dead_player"
@@ -101,17 +101,17 @@ msgid "队长在救援到来之前就阵亡了。剩下的部队全部投降，�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/tank_incoming"
-msgid "侦察显示敌人的T-62正在接近你的位置，它很快就会到达撤离点!"
+msgid "侦察显示敌人的T-62正在接近你的位置，它很快就会到达撤离点！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/main_task"
-msgid "活到撤离，让队长活下去!"
+msgid "活到撤离，让队长活下去！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/stryker_destroyed_talk"
-msgid "我们失去了史崔克装甲车，它是我们离开这的最后希望!"
+msgid "我们失去了史崔克装甲车，它可是我们离开这的最后希望！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/evac_task"
-msgid "让所有士兵都登上史崔克装甲车，至少有一名士兵存活!"
+msgid "让所有士兵都登上史崔克装甲车，至少有一名士兵存活！"
 msgstr ""
