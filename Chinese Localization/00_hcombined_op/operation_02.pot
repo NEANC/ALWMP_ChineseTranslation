@@ -57,7 +57,7 @@ msgid "部队在保持位置，告诉我们什么时候撤退！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin3"
-msgid "指挥部，这是老鹰一号，正在入场提供支援。"
+msgid "指挥部，这是老鹰一号，正在入场提供火力支援。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin13"
@@ -85,7 +85,7 @@ msgid "老鹰一号报告，我们准备开始提供火力支援。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/heli_attack"
-msgid "阿帕奇火力支援"
+msgid "阿帕奇空中火力支援"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/timer2"
@@ -105,7 +105,7 @@ msgid "老鹰一号补给完毕，给我们下命令吧，我们随时可以加�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/failstate_apache"
-msgid "你坠落了，任务取消，所有幸存者都被抓获。"
+msgid "你凉凉了，任务失败，所有幸存者被抓获。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/special1"
@@ -113,7 +113,7 @@ msgid "敌方伞兵部队正在袭击我们后方！在他们造成严重损失�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin2"
-msgid "副指挥官，我们将派一小队与阿帕奇小组来接你。坚持住，我们会带你回家的！"
+msgid "指挥官，我们将派一小队与阿帕奇小组来接你。坚持住，我们会带你回家的！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/base2_obj"
@@ -121,7 +121,7 @@ msgid "摧毁敌人营地。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/arty_td_title"
-msgid "直接射击模式"
+msgid "火炮直接射击模式"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin5"
@@ -137,7 +137,7 @@ msgid "俄罗斯武装直升机来袭！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/a10_title"
-msgid "A-10火力支援"
+msgid "A-10空中火力支援"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/timer"
@@ -145,7 +145,7 @@ msgid "敌军抵达："
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/arty_lr_title"
-msgid "间接射击模式"
+msgid "火炮间接射击模式"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin15"
@@ -153,7 +153,7 @@ msgid "地面部队注意！预计4分钟后与大规模敌人接触！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin7"
-msgid "明白，将部队推进第二敌方阵地。"
+msgid "收到，将部队推进第二敌方阵地。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/base1_obj"
@@ -165,7 +165,7 @@ msgid "老鹰一号报告，区域安全，可以行动！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin4"
-msgid "指挥官，捕获敌人的车辆，然后回家！"
+msgid "指挥官，捕获敌人的车辆，然后让我们回家！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin_main_obj"
@@ -229,7 +229,7 @@ msgid "我们有A-10和无人机在这一区域，但他们的弹药快没了。
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/a10_desc"
-msgid "让一架A-10提供火力支援。"
+msgid "让一架A-10提供空中火力支援。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin19"
@@ -253,21 +253,21 @@ msgid "射击结束，返回基地补给。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/arty2"
-msgid "Understood, artillery entering direct fire mode."
+msgid "收到，火炮进入直接射击模式。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/arty1"
-msgid "Order received, artillery switching to indirect fire mode."
+msgid "收到命令，火炮切换到间接射击模式。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/end1"
-msgid "Thats our reinforcements!"
+msgid "那是我们的援军！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/end2"
-msgid "Cover the survivors, don't let the enemy break through!"
+msgid "火力掩护，不要让敌人突破防线！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/end3"
-msgid "All units setup a perimiter, the enemy will not take this highway!"
+msgid "各单位设置一个围墙，敌人就不会走这条路！"
 msgstr ""
