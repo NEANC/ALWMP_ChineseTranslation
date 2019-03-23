@@ -29,15 +29,15 @@ msgid "任务5"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/story"
-msgid "在一次大规模进攻之后，UAF部队在干涸的湖床上发现了一个大型GRM堡垒。现在由美军来进攻GRM防线，占领要塞!"
+msgid "在一次大规模进攻之后，UAF部队在干涸的湖床上发现了一个大型GRM堡垒。 美军将向发起进攻GRM，占领要塞！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/outro_completed"
-msgid "任务完成!"
+msgid "任务完成！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/outro_failed"
-msgid "任务失败!"
+msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/outro_start"
@@ -61,7 +61,7 @@ msgid "海军陆战队。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/stryker1_title"
-msgid "Stryker 史崔克装甲运兵"
+msgid "史崔克装甲运兵车"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/humvee_m2hb_desc"
@@ -69,15 +69,15 @@ msgid "悍马带M2HB重机枪"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/victory2"
-msgid "指挥部：派遣空降部队来保护这个地区，干得好，指挥官!"
+msgid "指挥部将派遣空降部队来保护这个地区，干得好，指挥官！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/m1a2_talk"
-msgid " M1A2 艾布拉斯主战坦克全副武装,随时准备消灭我们路上的任何东西!"
+msgid "艾布拉斯主战坦克全副武装,随时准备消灭我们路上的任何东西！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone2_desc"
-msgid "第一个在干涸的湖床上消灭敌人。"
+msgid "消灭第一个干涸湖床上的敌人。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/humvee_tow_title"
@@ -97,11 +97,11 @@ msgid "海豹突击队，准备战斗。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/talk_humvee_m2hb"
-msgid "装备着M2HB重型机枪的悍马，准备战斗！"
+msgid "装备着M2HB重型机枪的悍马。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/lav_talk"
-msgid "轻型装甲车携带者海军陆战队，准备战斗！"
+msgid "轻型装甲车携带者海军陆战队。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/humvee_m2hb_title"
@@ -109,11 +109,11 @@ msgid "悍马带M2HB重型机枪"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/bradley_talk"
-msgid "M2 布拉德利步兵战车携带着游骑兵，准备战斗!"
+msgid "布拉德利步兵战车乘坐着游骑兵。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/begin3"
-msgid "这不是一个简单的任务，敌人把干涸的湖床变成了堡垒，他们被挖得很深，空中支援是不可能的。"
+msgid "这不是一个简单的任务，敌人把干涸的湖床变成了堡垒，他们被挖得很深，在空中无法摧毁这个要塞。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone1_desc"
@@ -133,11 +133,11 @@ msgid "你需要清除敌人的路障和在河床上的防御工事。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/m2_bradley_desc"
-msgid "M2 布拉德利步兵战车装备着丛林之王炮塔和陶式反坦克导弹，并携带着反坦克火箭筒和游骑兵。"
+msgid "布拉德利步兵战车装备着丛林之王炮塔和陶式反坦克导弹，并携带着反坦克火箭筒和游骑兵。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/m1a2_desc"
-msgid "M1A2 艾布拉斯主战坦克装备了120 mm的滑膛炮还有重型复合装甲，能够承受任何的打击!
+msgid "艾布拉斯主战坦克装备了120mm的滑膛炮还有重型复合装甲，能够承受任何的打击!
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/seal_talk"
@@ -145,7 +145,7 @@ msgid "海豹突击队，准备就绪！
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone2_talk2"
-msgid "收到，工程师，轻型装甲车和Stryker 斯特瑞克装甲车已经进入该地区。"
+msgid "收到，工程师，轻型装甲车和斯特瑞克装甲车已经进入该地区。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/squad_engineer_title"
@@ -161,7 +161,7 @@ msgid "悍马带陶式反坦克导弹"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone4_talk2"
-msgid "明白，做得不错，再次检查友军的M1A2 艾布拉斯主战坦克，以支持最终的战斗。"
+msgid "明白，做得不错，再次检查友军的艾布拉斯主战坦克，以支持最终的战斗。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/squad2_title"
@@ -173,7 +173,7 @@ msgid "把敌人消灭在他们的基地！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/stryker_gun_title"
-msgid "M1128 Stryker 斯特赖克轮式装甲车"
+msgid "斯特赖克轮式装甲车"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/begin1"
@@ -181,19 +181,19 @@ msgid "我们从UAF得到的情报表明这是GRM最后的堡垒。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/lav1_title"
-msgid "LAV-25 步兵战车"
+msgid "LAV-25步兵战车"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/begin6"
-msgid "随着你的进攻，你会得到更多更好的增援。占领所有的集结区域以获得胜利，祝你好运!"
+msgid "随着你的进攻，你会得到更多更好的增援。占领所有的集结区域以获得胜利，祝你好运！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/stryker1_desc"
-msgid "Stryker斯特赖克轮式装甲车带MK19榴弹发射器"
+msgid "斯特赖克轮式装甲车带MK19榴弹发射器"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone3_talk2"
-msgid "干得好，游骑兵和M2 布拉德利步兵战车都准备好支援你的部队了！"
+msgid "干得好，游骑兵和布拉德利步兵战车都准备好支援你的部队了！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/begin4"
@@ -201,7 +201,7 @@ msgid "侦察显示敌方基地有多辆装甲车和一架武装直升机在待�
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/stryker1_talk"
-msgid "Stryker 斯特赖克轮式装甲车和装甲运兵车运满了渴望战斗的海军陆战队！"
+msgid "斯特赖克轮式装甲车和装甲运兵车运满了渴望战斗的海军陆战队！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/squad1_title"
@@ -209,7 +209,7 @@ msgid "正规步兵小组"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/m1a2_abrams_title"
-msgid "M1A2 艾布拉斯主战坦克与游骑兵"
+msgid "艾布拉斯主战坦克与游骑兵"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/rescue_talk"
@@ -217,11 +217,11 @@ msgid "感谢你的帮助，我们差点认为我们完蛋了!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone1_talk2"
-msgid "明白，海军陆战队和Stryker 斯特赖克轮式装甲车现在都在你的指挥之下。"
+msgid "明白，海军陆战队和斯特赖克轮式装甲车现在在你的指挥之下。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone2_talk1"
-msgid "第一道防线的GRM部队已经被消灭!"
+msgid "第一道防线的GRM部队已经被消灭！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone4_talk1"
@@ -245,19 +245,19 @@ msgid "成功夺取第一道防线！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone3_talk1"
-msgid "敌军的第三防线已经沦陷，我们损失惨重，需要增援!"
+msgid "敌军的第三防线已经沦陷，我们损失惨重，需要增援！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/stryker_gun_talk"
-msgid "Stryker 斯特赖克轮式装甲车装填穿甲弹，准备战斗！"
+msgid "斯特赖克轮式装甲车"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/marine_talk"
-msgid "海军陆战队把敌人击退，给我们留个位置!"
+msgid "海军陆战队将敌人击退，给我们留个位置！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/ranger_talk"
-msgid "游骑兵抵达战场,准备战斗!"
+msgid "游骑兵抵达战场,准备战斗！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/engineer_desc"
@@ -265,21 +265,21 @@ msgid "具有修理敌人或友军车辆能力的工程师。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/victory1"
-msgid "湖床堡垒完全在我们的控制之下!"
+msgid "湖床堡垒完全在我们的控制之下！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/win_message"
-msgid "你成功地占领GRM湖床要塞，这对我们来说是个巨大的胜利!我们希望剩下的GRM部队在几天内投降，战争结束了！不是吗?"
+msgid "你成功地占领GRM湖床要塞，这对我们来说是个巨大的胜利！ 我们希望剩下的GRM部队在几天内投降，战争结束了！不是吗?"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/lav_desc"
-msgid "LAV-25 步兵战车装备着丛林之王炮塔携带着训练有素的海军陆战队"
+msgid "LAV-25步兵战车装备着丛林之王炮塔乘坐着海军陆战队"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/stryker_gun_desc"
-msgid "Stryker 斯特赖克轮式装甲车装备着105mm滑膛炮用于反坦克和反车辆战斗。"
+msgid "斯特赖克轮式装甲车装备着105mm滑膛炮。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/m2_bradley_title"
-msgid "M2 布拉德利步兵战车携带游骑兵"
+msgid "布拉德利步兵战车乘坐着游骑兵"
 msgstr ""
