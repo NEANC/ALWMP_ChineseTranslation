@@ -29,15 +29,15 @@ msgid "任务4"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/story"
-msgid "美军部队遭到了GRM伏击，造成5人伤亡，一辆悍马被毁。由于GRM开始对剩余的美军发动全面进攻，该地区周围的空中力量被紧急调动。控制一小队的海军陆战队，保证地面安全。"
+msgid "美军部队遭到了GRM伏击，造成5人伤亡，一辆悍马被毁。 由于GRM开始对剩余的美军发动全面进攻，该地区周围的空中力量被紧急调动。 你将控制一小队的海军陆战队来保证地面安全。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/outro_completed"
-msgid "任务完成!"
+msgid "任务完成！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/outro_failed"
-msgid "任务失败!"
+msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/outro_start"
@@ -49,11 +49,11 @@ msgid "有埋伏！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/begin1"
-msgid "这些A-10 雷电II攻击机在这里度过了一天，这到处都是烟。"
+msgid "这些A-10攻击机在这里度过了一天，这到处都是烟。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/begin2"
-msgid "看来路被堵住了，我们必须穿过那个村庄。"
+msgid "看来路被堵住了，但我们必须穿过那个村庄。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/begin3"
@@ -65,15 +65,15 @@ msgid "这是疣猪1号，正在提供火力支援。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/flares"
-msgid "A-10 雷电II攻击机在投放信号弹来显示敌人攻击的方向!部署红色烟雾，向我们的飞机发送信号!"
+msgid "A-10攻击机需要信号来保证我们不被误伤！部署红色烟雾，向我们的飞机发送信号！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/win"
-msgid "支援抵达!"
+msgid "支援抵达！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/reinforcements have arrived!"
-msgid "我们的援军终于来了!不要放松，把他们赶回去!"
+msgid "我们的援军终于来了！不要放松，把他们赶回去！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/player units"
@@ -81,11 +81,11 @@ msgid "我们正在将一小队海军陆战队队员置于你的控制之下，�
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/attack heli"
-msgid "AH-64 阿帕奇武装直升机入场"
+msgid "阿帕奇武装直升机入场"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/outro_completed"
-msgid "任务完成!"
+msgid "任务完成！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/name_big"
@@ -105,11 +105,11 @@ msgid "美国巡逻队"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/incomming waves"
-msgid "在这里,他们来了!坚守阵地!"
+msgid "在这里,他们来了！坚守阵地！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/outro_failed"
-msgid "任务失败!"
+msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/a-102"
@@ -121,17 +121,17 @@ msgid "收到，三架黑鹰直升机，预计到达时间为60秒。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/incoming grm"
-msgid "我们探测到西北方向有大量的GRM部队正向你的位置移动!准备防御阵地!空降部队已经转移到你的位置。"
+msgid "我们探测到西北方向有大量的GRM部队正向你的位置移动！准备防御阵地！空降部队已经转移到你的位置。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/reinforcements request"
-msgid "指挥部，我们遭到攻击，需要支援!一辆悍马被毁，我们有5人伤亡！"
+msgid "指挥部，我们遭到攻击，需要支援！一辆悍马被毁，我们有5人伤亡！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/they have tanks!"
-msgid "注意敌方坦克!"
+msgid "注意敌方坦克！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/friendly location"
-msgid "指挥官，部署红色烟雾来表示友军!"
+msgid "指挥官，部署红色烟雾来表示我们是友军！"
 msgstr ""
