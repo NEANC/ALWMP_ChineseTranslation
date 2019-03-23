@@ -29,15 +29,15 @@ msgid "任务3"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/story"
-msgid "你和你的小队在GRM控制区里坠落。你的任务是指挥剩余的部队并等待增援部队。指挥部说支援正在路上，但你能坚持那么久吗?你坚持的时间越长，增援部队就越好!你有两挺M134炮机在黑鹰坠毁点和道路上。在敌人进入射程之前，你还有点时间使用他们。"
+msgid "你和你的小队在GRM控制区里坠落。你的任务是指挥剩余的部队并等待增援部队。 指挥部说支援正在路上，但你能坚持那么久吗？ 你坚持的时间越长，增援部队就越强大！ 你有两挺M134炮机在黑鹰坠毁点和道路上。在敌人进入射程之前，你还有点时间维护他们。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/outro_completed"
-msgid "任务完成!"
+msgid "任务完成！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/outro_failed"
-msgid "任务失败!"
+msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/outro_start"
@@ -45,35 +45,35 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/apache_description"
-msgid "AH-64 阿帕奇武装直升机 火力支援。"
+msgid "阿帕奇武装直升机提供火力支援。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/apache_reinforce"
-msgid  "收到，AH-64 阿帕奇正在支援地面部队!"
+msgid  "收到，AH-64阿帕奇正在支援地面部队！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/apaches"
-msgid "AH-64 阿帕奇武装直升机 火力支援。"
+msgid "阿帕奇武装直升机提供火力支援。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/ba"
-msgid "呼叫断箭!"
+msgid "呼叫断箭！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/ba_description"
-msgid "A-10地毯式轰炸"
+msgid "A-10危险近接支援"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/ba_talk_1"
-msgid "指挥部，这里是断箭!重复一遍，这里是断箭!现在需要空中支援，否则防线会被突破!"
+msgid "指挥部，这里是断箭！重复一遍，这里是断箭！现在需要空中支援，否则防线会被突破！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/ba_talk_2"
-msgid "收到，A-10 雷电II攻击机正在前往!坚持住，士兵!"
+msgid "收到，A-10攻击机正在前往！坚持住，士兵！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/begining_1"
-msgid "指挥部，我们在敌占区被击落!请回复!"
+msgid "指挥部，我们在敌占区被击落！收到请回复！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/begining_2"
@@ -81,7 +81,7 @@ msgid "指挥部收到，支援正在前往，预计15分钟！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/begining_3"
-msgid "我们有多架飞机正前往你的位置。用无线电呼叫他们!还有更多的人在路上，坚持住!"
+msgid "我们有多架飞机正前往你的位置。用无线电呼叫他们！还有更多的人在路上，坚持住！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/begining_4"
@@ -93,11 +93,11 @@ msgid "敌军进攻！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/begining_hint"
-msgid "使用你的资源点呼叫支援。你坚持的时间越长，就会得到更多的支援！"
+msgid "使用你的资源点呼叫支援。你坚持的时间越长，就会得到更多更强的支援！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/bh_ac"
-msgid "黑鹰火力支援。"
+msgid "黑鹰火力支援"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/bh_ac_talk"
@@ -117,11 +117,11 @@ msgid "黑鹰提供火力支援"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/bh_sr_talk"
-msgid  "将黑鹰直升机送至地图中央，以获得火力支援!"
+msgid  "黑鹰直升机将环绕地图中央，以提供火力支援！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/bl_ac_description"
-msgid "黑鹰-盘旋。"
+msgid "黑鹰-环绕支援。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/blackhawk strafing run"
@@ -129,7 +129,7 @@ msgid "黑鹰-火力支援"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/command_marines"
-msgid "海军陆战队计划低空伞降前往你的位置。"
+msgid "海军陆战队计划提供低空伞降前往你的位置。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/command_rangers"
@@ -141,7 +141,7 @@ msgid "你现在可以指挥剩下的地面部队了。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/convoy_arrive"
-msgid "我们的人来了!火力压制!"
+msgid "我们的人来了！火力掩护！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/convoy_arrive2"
@@ -153,7 +153,7 @@ msgid "很高兴见到你活着，希望我们没有迟到。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/convoy_arrive4"
-msgid "你及时赶到了，指挥官，感谢你的协助。让我们离开这里!"
+msgid "你及时赶到了，指挥官，感谢你的协助。让我们离开这里！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/debug1"
@@ -165,7 +165,7 @@ msgid "玩家"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/defend"
-msgid "保持你的位置，直至增援到达!"
+msgid "保持你的位置，直至增援到达！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/gunner_talk"
@@ -173,7 +173,7 @@ msgid "指挥官，M134 机枪现在在你的指挥之下。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/heavy_reinforce"
-msgid  "现在可以呼叫增援部队了!"
+msgid  "现在可以呼叫增援部队了！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/marine_talk"
@@ -181,7 +181,7 @@ msgid "海军陆战队，呼哈！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/marines_description"
-msgid "海军陆战队员空降。"
+msgid "空降海军陆战队员。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/mg_c"
@@ -205,7 +205,7 @@ msgid "明白，长官，迫击炮正在等待您的命令。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/player_alive"
-msgid "玩家必须不惜一切代价活下去!"
+msgid "你必须不惜一切代价活下去！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/player_control_ground_units_response"
@@ -213,11 +213,11 @@ msgid "好的，长官！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/player_died"
-msgid "玩家阵亡!"
+msgid "你凉凉了！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/ranger_talk"
-msgid "行动，游骑兵前进!"
+msgid "行动，游骑兵前进！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/rangers"
@@ -237,7 +237,7 @@ msgid "控制坠落后的幸存者。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/survived!"
-msgid "你成功从袭击中幸存了下来,已经撤离该地区!"
+msgid "你成功从袭击中幸存了下来,已经撤离该地区！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/timer_text"
