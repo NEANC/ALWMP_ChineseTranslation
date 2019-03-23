@@ -29,7 +29,7 @@ msgid "任务1"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/story"
-msgid "紧邻一条主要公路，美国检查站正守卫着一个绝密军事基地的边界。离基地只有几公里的地方，一架黑鹰直升机被RPG击中并坠毁，幸存者必须幸存，直到另一架黑鹰将他们带回基地！"
+msgid "紧邻一条主要公路，美国检查站正守卫着一个绝密军事基地的边界。 离基地只有几公里的地方，一架黑鹰直升机被RPG击中并坠毁，幸存者必须坚持到另一架黑鹰将他们带回基地！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/outro_completed"
@@ -197,7 +197,7 @@ msgid "注意！那里有平民陷入了困境！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin15"
-msgid "我们已经发现了敌方阵地，预计60秒内进行全面进攻！"
+msgid "我们发现敌方阵地，预计60秒内进行全面进攻！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/end4"
