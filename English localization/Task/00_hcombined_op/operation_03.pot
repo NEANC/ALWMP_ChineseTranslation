@@ -1,0 +1,329 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (single/00_hcombined_op/operation_03)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_hcombined_op/operation_03/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/place"
+msgid "Russian Forest Outpost"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/name"
+msgid "Forgotten Fortress"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/name_big"
+msgid "Operation 3"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/story"
+msgid "After holding out at the highway, Coalition troops and vehicles are dangerously low on supplies. In order to get supplies in range of the highway, German forces with Coalition support launch an attack. The target is a local russian outpost located in a unfinished city. It is heavily guarded by elite russian forces and light vehicles, taking it will not be easy."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_tow_title"
+msgid "Wiesel 1A1 TOW"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_marder_desc"
+msgid "An APC filled with heavy infantry and equiped with a 20mm autocannon and a ATGM launcher."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro8"
+msgid "While your main objective is the enemy outpost, capturing the other objectives will allow you to bring in additional reinforcements to support your assault."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_support_talk"
+msgid "Support squad ready to assist!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/lg_2"
+msgid "Good work, we have Heavy Infantry and Boxer APCs approching the area. Call them in for some extra fire support!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro5"
+msgid "Blackhawk holding position, finish this!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/hg_2"
+msgid "Good work, we have Heavy Infantry and Boxer APCs approching the area. Call them in for some extra fire support!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_support_title"
+msgid "Support Squad"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_car_talk"
+msgid "Dingo M2HB locked and loaded, just give us a target."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_sniper"
+msgid "Sniper Squad"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_support_desc"
+msgid "One Engineer with AT and a machine gunner to support the regular infantry."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/end5"
+msgid "Great work soldier! This outpost will allow us to supply troops stranded on the highway!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/marder_talk"
+msgid "Marder 1A3 reporting, we're loaded with heavy infantry and ready for anything!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/final1_1"
+msgid "The outer defenses of the enemy outpost have been eliminated, requesting heavy support for the final push."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro1"
+msgid "This is convoy leader we have enemy contact! Get that blackhawk up here now!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t4_talk"
+msgid "KSK arriving at target area, nothing will get past us."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/lg_3"
+msgid "We've cleared the high ground and pushed the enemy back to the outpost!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro4"
+msgid "Keep firing! We need to clear this staging point!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_boxer_title"
+msgid "GTK Boxer GMW"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t2_talk"
+msgid "Heavy infantry in combat zone and ready for combat!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro2"
+msgid "Copy that convoy leader, soldier ready that minigun and bring the rain!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/delete_lg"
+msgid "Delete LG"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/win"
+msgid "You pushed back the Russians and took the outpost, Well done!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro9"
+msgid "The enemy is dug in and knows your coming, expect heavy resistance and don't let your guard down!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_car_title"
+msgid "ATF Dingo M2HB"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t1_desc"
+msgid "A squad of German army regulars."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/hg_4"
+msgid "Understood, ordering UAF units to move to overwatch positions at the outpost. Marder 1A3's are also in the area along with a few Airborne squads. Call them in as needed."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/delete_os"
+msgid "Delete Outskirts"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t3_desc"
+msgid "Highly trained airborne troops ready for combat."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/end3"
+msgid "Enemy vehicles destroyed, that showed them!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro6"
+msgid "Area secured, good shooting!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/final1_2"
+msgid "HQ copys, Elite KSK operators and a Leopard 2A5 tank can now be called in!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t3_title"
+msgid "Airborne Squad"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t2_desc"
+msgid "A squad of heavy german infantry, more capable than their regular counterpart."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/begin_task"
+msgid "Help German units secure the staging area for the main attack."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/outpost_defenses_task"
+msgid "Eliminate the outpost outer defenses."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro3"
+msgid "Yes Sir!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/hg_1"
+msgid "Command we have pushed the enemy off the high ground!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/high_ground_task"
+msgid "Push the enemy off the high ground."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/sol_t1_talk"
+msgid "Infantry armed and ready sir!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_marder_title"
+msgid "SPz Marder 1A3"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/outpost_main_task"
+msgid "Clear the enemy from the main outpost."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t4_desc"
+msgid "Elite German KSK Operators, capable of taking on anything the enemy can throw at them!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro10"
+msgid "You won't be alone, local UAF forces will take an overwatch position to help support your assault."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t3_talk"
+msgid "Airborne reporting for duty, the russians don't stand a chance!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro13"
+msgid "As you capture areas you will recieve better reinforcements. You may need to scroll through the menu on the right hand side of the screen to see them all. Good luck soldier!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/delete_hg"
+msgid "Delete HG"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/road_task"
+msgid "Secure the low ground road to use as a staging point."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t1_title"
+msgid "Standard Infantry"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t2_title"
+msgid "Heavy Infantry"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/delete_op"
+msgid "Delete Outpost"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro7"
+msgid "Great work securing that staging point, you can now begin the assault!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_sniper_desc"
+msgid "Two snipers capable of engaging enemy infantry at long range."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro12"
+msgid "Understood command, we won't let you down!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/intro11"
+msgid "Capturing this outpost will allow us to provide supplys to the Coalition forces stranded on the highway!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_car_desc"
+msgid "A dingo armored car armed with a M2HB heavy machine gun."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_boxer_desc"
+msgid "An armored vehicle filled with infantry, and armed with a grenade launcher."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_tow_desc"
+msgid "Armed with a TOW 2 this vehicle is capable of long range anti vehicle combat."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_sniper_talk"
+msgid "Sniper squad reporting, scopes zeroed and on target."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_tow_talk"
+msgid "TOW 2 armed and ready, the russians won't know what hit them!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/lg_4"
+msgid "Understood, ordering UAF units to move to overwatch positions at the outpost. Marder 1A3's are also in the area along with a few Airborne squads. Call them in as needed."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_boxer_talk"
+msgid "GTK Boxer reporting, lets see the enemy get past us!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/lg_1"
+msgid "All enemys holding the low ground have been eliminated!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/hg_3"
+msgid "We've cleared the low ground and pushed the enemy back to the outpost!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/squad_t4_title"
+msgid "KSK Operators"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_tank_talk"
+msgid "Leopard 2A5 locked and loaded, we're ready for anything!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_tank_title"
+msgid "Leopard 2A5"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/veh_tank_desc"
+msgid "A combat ready Leopard 2A5 combining heavy armor and a 120mm main gun, its able to destroy anything in its path."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/end4"
+msgid "The remaining russians are pulling back, the outpost is ours!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/end2"
+msgid "Targets aquired, ATGMs out, keep your heads down!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_03/end1"
+msgid "Incoming russians! They're counter attacking!"
+msgstr ""
