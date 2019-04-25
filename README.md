@@ -5,7 +5,7 @@ The original data is derived from MOD produced by hikip922 for Call to Arms:
 
 原始数据来源于hikip922为Call to Arms所制作的MOD：
 
-[Air & Land Warfare Mission Pack *New Mission* "Hellfire Hurricane"](https://steamcommunity.com/sharedfiles/filedetails/?id=1433544352 "Steam创意工坊")
+[Air & Land Warfare Mission Pack **New Mission** "Forgotten Fortress"](https://steamcommunity.com/sharedfiles/filedetails/?id=1433544352 "Steam创意工坊")
 
 Source English localization By.[hikip922](https://steamcommunity.com/id/hikip922)
 
