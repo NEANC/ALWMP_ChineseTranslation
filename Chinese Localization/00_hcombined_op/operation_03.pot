@@ -57,7 +57,7 @@ msgid "在你进攻敌人前哨的同时，拿下其余战略目标能获得额�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_support_talk"
-msgid "支援部队准备就绪，待命中！"
+msgid "支援部队准备就绪！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/lg_2"
@@ -85,7 +85,7 @@ msgid "狙击小组"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_support_desc"
-msgid "一位装备着机枪的士兵和一位工程师, 可有效支援普通部队."
+msgid "一位装备着机枪的机枪手和一位装备着反坦克导弹的工程师, 可有效支援陆军部队."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/end5"
@@ -97,11 +97,11 @@ msgid "黄鼠狼步战车，我们车上一车饥渴大汉已做好一切准备�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/final1_1"
-msgid "前哨外围的防御已经消灭，呼叫重型支援完成最后的进攻。"
+msgid "前哨外围的防御已经消灭，呼叫支援来完成最后的进攻。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro1"
-msgid "这是车队长，我们遭遇了敌军！需要支援！"
+msgid "这里是车队长，我们遭遇了敌军！需要支援！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t4_talk"
@@ -113,11 +113,11 @@ msgid "我们已占领下高地，敌人后撤到了前哨站！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro4"
-msgid "给我打！我们要把这个补给点占下来！"
+msgid "给我打！我们要把这个补给点打下来！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_boxer_title"
-msgid "“拳师犬”步兵装甲车"
+msgid "拳师犬步兵装甲车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t2_talk"
@@ -125,7 +125,7 @@ msgid "重型步兵已抵达战场，随时准备战斗！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro2"
-msgid "收到，车队长，把M134准备好，让毛子喝一壶！"
+msgid "收到，火力手，把M134准备好，让毛子喝一壶！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/delete_lg"
@@ -181,11 +181,11 @@ msgid "一队重型德军步兵，能更有效应付规作战。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/begin_task"
-msgid "帮助德军部队占领补给点来协助主攻势。"
+msgid "帮助德军部队占领补给点来协助主攻。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/outpost_defenses_task"
-msgid "肃清前哨站外围。"
+msgid "占领前哨站外围"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro3"
@@ -209,7 +209,7 @@ msgid "黄鼠狼步兵战车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/outpost_main_task"
-msgid "肃清前哨站主结构。"
+msgid "占领前哨站"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t4_desc"
@@ -233,7 +233,7 @@ msgid "占领HG"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/road_task"
-msgid "占领低谷区马路并转为补给点."
+msgid "占领低谷区马路补给点."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t1_title"
@@ -249,7 +249,7 @@ msgid "占领前哨站"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro7"
-msgid "占领补给地点的这杖打得真漂亮，现在你可以开始的攻击了！"
+msgid "打得漂亮！现在你可以准备攻击了！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_sniper_desc"
@@ -289,7 +289,7 @@ msgid "明白，正在命令单位移动到防守位置。黄鼠狼步战车和�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_boxer_talk"
-msgid "“拳师犬”步兵装甲车已入场，让我们来看看什么叫螳臂当车！"
+msgid "拳师犬步兵装甲车已入场，让我们来看看什么叫螳臂当车！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/lg_1"
