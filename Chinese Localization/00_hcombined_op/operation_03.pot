@@ -17,11 +17,11 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/place"
-msgid "Russian Forest Outpost"
+msgid "俄罗斯森林前哨站"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/name"
-msgid "Forgotten Fortress"
+msgid "被遗忘的堡垒"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/name_big"
@@ -29,7 +29,7 @@ msgid "任务3"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/story"
-msgid "After holding out at the highway, Coalition troops and vehicles are dangerously low on supplies. In order to get supplies in range of the highway, German forces with Coalition support launch an attack. The target is a local russian outpost located in a unfinished city. It is heavily guarded by elite russian forces and light vehicles, taking it will not be easy."
+msgid "在高速公路上逗留之后，联军部队的补给严重不足。 为了在高速公路范围内获得补给，德军在联军支援下发动了一次攻击。 目标是位于一个未完工的城市中的俄罗斯前哨站。 它被俄罗斯的精英部队和轻型车辆严密保护着，进攻这一设施并不容易。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/outro_completed"
@@ -45,285 +45,285 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tow_title"
-msgid "Wiesel 1A1 TOW"
+msgid "“鼬鼠”1A1陶式导弹反坦克车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_marder_desc"
-msgid "An APC filled with heavy infantry and equiped with a 20mm autocannon and a ATGM launcher."
+msgid "一辆载有重装步兵，20毫米机炮和反坦克导弹的装甲车。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro8"
-msgid "While your main objective is the enemy outpost, capturing the other objectives will allow you to bring in additional reinforcements to support your assault."
+msgid "在你进攻敌人前哨的同时，拿下其余战略目标能获得额外支援来协助你的进攻。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_support_talk"
-msgid "Support squad ready to assist!"
+msgid "支援部队准备就绪，待命中！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/lg_2"
-msgid "Good work, we have Heavy Infantry and Boxer APCs approching the area. Call them in for some extra fire support!"
+msgid "干得好！载有重型步兵的拳师犬装甲车入场，现在命令他们加入战斗吧！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro5"
-msgid "Blackhawk holding position, finish this!"
+msgid "黑鹰保持位置，完成！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/hg_2"
-msgid "Good work, we have Heavy Infantry and Boxer APCs approching the area. Call them in for some extra fire support!"
+msgid "干得好！载有重型步兵的拳师犬装甲车入场，现在命令他们加入战斗吧！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_support_title"
-msgid "Support Squad"
+msgid "支援小组"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_car_talk"
-msgid "Dingo M2HB locked and loaded, just give us a target."
+msgid "野犬M2HB装甲车就为，目标在哪？"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_sniper"
-msgid "Sniper Squad"
+msgid "狙击小组"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_support_desc"
-msgid "One Engineer with AT and a machine gunner to support the regular infantry."
+msgid "一位装备着机枪的士兵和一位工程师, 可有效支援普通部队."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/end5"
-msgid "Great work soldier! This outpost will allow us to supply troops stranded on the highway!"
+msgid "干得好！这个前哨站能有效协助并补给那些被困在高速公路上的友军！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/marder_talk"
-msgid "Marder 1A3 reporting, we're loaded with heavy infantry and ready for anything!"
+msgid "黄鼠狼步战车，我们车上一车饥渴大汉已做好一切准备！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/final1_1"
-msgid "The outer defenses of the enemy outpost have been eliminated, requesting heavy support for the final push."
+msgid "前哨外围的防御已经消灭，呼叫重型支援完成最后的进攻。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro1"
-msgid "This is convoy leader we have enemy contact! Get that blackhawk up here now!"
+msgid "这是车队长，我们遭遇了敌军！需要支援！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t4_talk"
-msgid "KSK arriving at target area, nothing will get past us."
+msgid "KSK特种部队已到达指定区域，没人能从我们这过。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/lg_3"
-msgid "We've cleared the high ground and pushed the enemy back to the outpost!"
+msgid "我们已占领下高地，敌人后撤到了前哨站！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro4"
-msgid "Keep firing! We need to clear this staging point!"
+msgid "给我打！我们要把这个补给点占下来！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_boxer_title"
-msgid "GTK Boxer GMW"
+msgid "“拳师犬”步兵装甲车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t2_talk"
-msgid "Heavy infantry in combat zone and ready for combat!"
+msgid "重型步兵已抵达战场，随时准备战斗！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro2"
-msgid "Copy that convoy leader, soldier ready that minigun and bring the rain!"
+msgid "收到，车队长，把M134准备好，让毛子喝一壶！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/delete_lg"
-msgid "Delete LG"
+msgid "占领LG"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/win"
-msgid "You pushed back the Russians and took the outpost, Well done!"
+msgid "你把毛子打回去并拿下了前哨站！干得好！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro9"
-msgid "The enemy is dug in and knows your coming, expect heavy resistance and don't let your guard down!"
+msgid "别掉以轻心！敌人已经知道你要进攻了，准备对抗大批抵抗敌军。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_car_title"
-msgid "ATF Dingo M2HB"
+msgid "M2HB野犬式全方位防护运输车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t1_desc"
-msgid "A squad of German army regulars."
+msgid "一队德国国防正规军"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/hg_4"
-msgid "Understood, ordering UAF units to move to overwatch positions at the outpost. Marder 1A3's are also in the area along with a few Airborne squads. Call them in as needed."
+msgid "明白，正命令UAF的单位移动到前哨站的防守位置。黄鼠狼步战车和几队空降兵也在附近待命，如有需要，可以叫他们进行支援。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/delete_os"
-msgid "Delete Outskirts"
+msgid "占领郊区"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t3_desc"
-msgid "Highly trained airborne troops ready for combat."
+msgid "训练有素的空降兵已做好战斗准备。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/end3"
-msgid "Enemy vehicles destroyed, that showed them!"
+msgid "敌军载具已击毁，他们这回尝到滋味了！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro6"
-msgid "Area secured, good shooting!"
+msgid "区域安全，打的漂亮！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/final1_2"
-msgid "HQ copys, Elite KSK operators and a Leopard 2A5 tank can now be called in!"
+msgid "指挥部收到，精英KSK特种部队和豹2A5已授权部署！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t3_title"
-msgid "Airborne Squad"
+msgid "空降部队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t2_desc"
-msgid "A squad of heavy german infantry, more capable than their regular counterpart."
+msgid "一队重型德军步兵，能更有效应付规作战。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/begin_task"
-msgid "Help German units secure the staging area for the main attack."
+msgid "帮助德军部队占领补给点来协助主攻势。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/outpost_defenses_task"
-msgid "Eliminate the outpost outer defenses."
+msgid "肃清前哨站外围。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro3"
-msgid "Yes Sir!"
+msgid "Yes，Sir！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/hg_1"
-msgid "Command we have pushed the enemy off the high ground!"
+msgid "指挥部，我们已经把敌军从高地上赶下去了！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/high_ground_task"
-msgid "Push the enemy off the high ground."
+msgid "占领高地。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/sol_t1_talk"
-msgid "Infantry armed and ready sir!"
+msgid "部队已完成战斗准备！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_marder_title"
-msgid "SPz Marder 1A3"
+msgid "黄鼠狼步兵战车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/outpost_main_task"
-msgid "Clear the enemy from the main outpost."
+msgid "肃清前哨站主结构。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t4_desc"
-msgid "Elite German KSK Operators, capable of taking on anything the enemy can throw at them!"
+msgid "德国陆军特种部队精英作战小组，能应付所有敌人！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro10"
-msgid "You won't be alone, local UAF forces will take an overwatch position to help support your assault."
+msgid "你不是一个人，当地UAF部队会占领掩护位置并协助你的进攻。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t3_talk"
-msgid "Airborne reporting for duty, the russians don't stand a chance!"
+msgid "空降兵报道，我们不会留给毛子任何喘息机会！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro13"
-msgid "As you capture areas you will recieve better reinforcements. You may need to scroll through the menu on the right hand side of the screen to see them all. Good luck soldier!"
+msgid "在你拿下其他战略点的同时你会授权更多支援单位，记得在向下滚动右边支援菜单来显示所有可用单位，祝你好运指挥官!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/delete_hg"
-msgid "Delete HG"
+msgid "占领HG"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/road_task"
-msgid "Secure the low ground road to use as a staging point."
+msgid "占领低谷区马路并转为补给点."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t1_title"
-msgid "Standard Infantry"
+msgid "普通步兵"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t2_title"
-msgid "Heavy Infantry"
+msgid "重装步兵"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/delete_op"
-msgid "Delete Outpost"
+msgid "占领前哨站"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro7"
-msgid "Great work securing that staging point, you can now begin the assault!"
+msgid "占领补给地点的这杖打得真漂亮，现在你可以开始的攻击了！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_sniper_desc"
-msgid "Two snipers capable of engaging enemy infantry at long range."
+msgid "由两名狙击手组成。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro12"
-msgid "Understood command, we won't let you down!"
+msgid "收到总部，我们不会让你失望的！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro11"
-msgid "Capturing this outpost will allow us to provide supplys to the Coalition forces stranded on the highway!"
+msgid "占领这个补给点能让我们补给那些被困在高速公路上的联合部队！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_car_desc"
-msgid "A dingo armored car armed with a M2HB heavy machine gun."
+msgid "一辆装备M2HB重机枪的野犬装甲运输车。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_boxer_desc"
-msgid "An armored vehicle filled with infantry, and armed with a grenade launcher."
+msgid "一辆满载着步兵并装备着榴弹发射器的装甲车。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tow_desc"
-msgid "Armed with a TOW 2 this vehicle is capable of long range anti vehicle combat."
+msgid "装备有陶氏反坦制导导弹，能极度舒适得完成远程反坦克作战。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_sniper_talk"
-msgid "Sniper squad reporting, scopes zeroed and on target."
+msgid "狙击小队报道，目标已锁定。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tow_talk"
-msgid "TOW 2 armed and ready, the russians won't know what hit them!"
+msgid "陶氏反坦制导导弹已装填完毕，那群毛子不会知道什么打爆了他们的！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/lg_4"
-msgid "Understood, ordering UAF units to move to overwatch positions at the outpost. Marder 1A3's are also in the area along with a few Airborne squads. Call them in as needed."
+msgid "明白，正在命令单位移动到防守位置。黄鼠狼步战车和几队空降兵也在附近待命，如有需要，可以叫他们进场支援。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_boxer_talk"
-msgid "GTK Boxer reporting, lets see the enemy get past us!"
+msgid "“拳师犬”步兵装甲车已入场，让我们来看看什么叫螳臂当车！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/lg_1"
-msgid "All enemys holding the low ground have been eliminated!"
+msgid "所有低洼区的敌人已被歼灭！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/hg_3"
-msgid "We've cleared the low ground and pushed the enemy back to the outpost!"
+msgid "我们已占领下高地，敌人后撤到了前哨站！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/squad_t4_title"
-msgid "KSK Operators"
+msgid "KSK特种部队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tank_talk"
-msgid "Leopard 2A5 locked and loaded, we're ready for anything!"
+msgid "豹2A5，前来觐见！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tank_title"
-msgid "Leopard 2A5"
+msgid "豹2A5"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tank_desc"
-msgid "A combat ready Leopard 2A5 combining heavy armor and a 120mm main gun, its able to destroy anything in its path."
+msgid "一辆做好战斗战斗的豹2A5主战坦克，装备重型装甲以及120毫米主炮，让一切挡在它前面的东西都螳臂当车。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/end4"
-msgid "The remaining russians are pulling back, the outpost is ours!"
+msgid ""残余俄军已撤退, 前哨站是我们的啦！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/end2"
-msgid "Targets aquired, ATGMs out, keep your heads down!"
+msgid "已锁定目标，反坦克导弹已发射，找好掩护！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/end1"
-msgid "Incoming russians! They're counter attacking!"
+msgid "是毛子！他们准备反攻啦！"
 msgstr ""
