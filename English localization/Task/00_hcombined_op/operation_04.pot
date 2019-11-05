@@ -1,0 +1,525 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (operation_04)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_hcombined_op/operation_04/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/place"
+msgid "Coalition Training Base"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/name"
+msgid "Trial by Fire"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/name_big"
+msgid "Operation 4"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/story"
+msgid "After major losses to the Russians the Coalition is attempting to bolster their forces with new recruits. They are being trained at new training bases near to the frontline. This particular base is closer to the enemy than intel suggests allowing for a suprise strike on the base. After the base suffers major losses recruits at the base are forced to fight to survive against the enemy onslaught."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/vdv_talk2"
+msgid "Good work, keep up the pressure!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/heavy_talk_ger"
+msgid "You can now call in a Boxer APC loaded with elite infantry."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_ger_desc"
+msgid "Heavy infantry equiped with AT in a Puma heavy APC."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end0.5"
+msgid "Copy that, a UAF team is moving to secure."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end4"
+msgid "Team three moving in to secure target."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin3"
+msgid "Alright this is your tent. Get in there and gear up!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin13.8"
+msgid "The reinforcements were ambushed by the GRM and got held up, ETA 11 minutes."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_rescue_uaf_desc"
+msgid "A UAF airborne regiment with two attack helicopters and plenty of airborne soldiers."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_cut3"
+msgid "We have intel that a Russian General is commanding the ground troops in a command post behind the village."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end6"
+msgid "Cuff him and lets get out of here."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_rescue_usa_desc"
+msgid "A Detachment of a US Armored Division, with an M1A2 Abrams and multiple heavy vehicles, but equiped with only standard infantry."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/boxer_talk"
+msgid "Boxer APC approching area now."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/loose2_right"
+msgid "The enemy overran the bases right side base defenses!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/village_talk2"
+msgid "Command copys, keep pushing them back!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/obj_enemy_command_title"
+msgid "Destroy the enemy at the command post."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin_r_ger"
+msgid "We're rerouting heavy reinforcements to your position but, until those arrive you'll have to make do with a German anti armor convoy."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/support_artillery_desc"
+msgid "A local UN base provides heavy artillery support."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_mg_title"
+msgid "Suppression Training"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_sniper_title"
+msgid "Accuracy Training"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/loose1"
+msgid "All your recruits have been killed, now we don't have enough manpower to push the enemy back!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_mg_desc"
+msgid "Equips the recruits with machine guns and grenade launchers, but only basic assault rifles."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_apache_title"
+msgid "Apache Gunship"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/village_talk1"
+msgid "Enemy resistance has been subdued in the village."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_cut_usa1"
+msgid "Additional reinforcements will be available to call in from the US Armored Division, get it done."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/prepare_title"
+msgid "Prepare the base defences for the enemy attack."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/un_talk1"
+msgid "Coalition to UN base we're under heavy fire and need support. Requesting you commence a diversionary attack to buy us some time."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin5"
+msgid "Now choose your rescue reinforcements, these troops will arrive after the main attack to help you push back the enemy."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin8"
+msgid "We're under attack! Get to your positions!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_ger_title"
+msgid "German Anti Armor"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/un_talk2"
+msgid "UN base copys, moving in with a fast attack force to distract the enemy."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_ksk_title"
+msgid "KSK Squad"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/rescue_ger_talk1"
+msgid "KSK at location, we're armed and ready to push back the enemy."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_rescue_ger"
+msgid "KSK Operators"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/support_un_title"
+msgid "UN Ground Support"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/ksk_talk"
+msgid "KSK reporting in, we won't let you down!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/enemy_heli_talk"
+msgid "Recon shows the enemy Mi-35 is taking off and heading for your positions!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_bradley_title"
+msgid "M2 Bradley"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_uaf_desc"
+msgid "Lots of poorly trained UAF reserves with very little AT."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_cut7"
+msgid "You can call in additional reinforcements from the menu on the right, capture all objectives to win."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_matv_title"
+msgid "MATV M2HB"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/win"
+msgid "You held the base, pushed back the enemy and captured their general! That'll teach them to mess with us, fantastic work!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/zpu_talk1"
+msgid "All enemy anti air guns have been eliminated!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/rescue_usa_talk1"
+msgid "Armored leader approching position, heard you needed some help."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin_r_usa"
+msgid "We have a Marine Engineer Convoy near your position. We're moving some heavy reinforcements to your position, but you'll have to make due until then."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin13.5"
+msgid "Here they come! Command when are those reinforcements getting here!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/timer2"
+msgid "Reinforcements Arrive In:"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/matv_talk"
+msgid "MATV reporting in, heading towards designated area."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_cut2"
+msgid "Good work, but its not over yet. The enemy is being reinforced by Russian VDV in a village just north of you."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_usa_desc"
+msgid "These engineers arrive in light vehicles and are capable of building defensive structures."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end8"
+msgid "Copy that, good work everyone!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_rescue_ger_desc"
+msgid "Lightly equipped german convoy with elite KSK operators."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin4"
+msgid "You will now get to choose a few options to change how the mission will play out. The first option is your starting reinforcements, these reinforcements will arrive prior to the main enemy to help you prepare."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/last_stand_title"
+msgid "Destroy the remaining enemy vehicles to force a retreat!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin1"
+msgid "This is it recruits, here you will complete phase 2 of your training."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_bradley_desc"
+msgid "Loaded with infantry and capable of both AT and anti infantry support."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/recruits_alive_title"
+msgid "Atleast one Recruit and one Trainer must survive."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end5"
+msgid "Don't shoot, you've got me."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin10"
+msgid "We need to destroy their tanks! It might force the enemy to regroup giving us some time!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_dingo_title"
+msgid "Dingo GMW"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/debug1"
+msgid "Spawn Rescue"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/obj_aa_title"
+msgid "Destroy all enemy anti air in the village."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end2"
+msgid "Team one in position."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/left_alert"
+msgid "Your bases left side defenses are being overrun, get more troops on the frontline or the mission will be a failure!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin1.5"
+msgid "You will be assigned a tent and given equipment for the roles you requested."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/loose2_left"
+msgid "The enemy overran the bases left side base defenses!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/un_talk3"
+msgid "All UN troops will now fallback to rearm and regroup."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/support_un_desc"
+msgid "Local UN forces mount a diversionary attack to buy you time to regroup."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/enemy_general_title"
+msgid "Eliminate all enemy resistance so we can secure their general."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/right_alert"
+msgid "Your bases right side defenses are being overrun, get more troops on the frontline or the mission will be a failure!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_blackhawk_title"
+msgid "Blackhawk Transport"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/timer"
+msgid "Enemy Attack In:"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/destroy_tanks_title"
+msgid "Destroy the two enemy T-80s to force a retreat."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/obj_vdv_title"
+msgid "Eliminate the Russian VDV landing zone."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/defend_title"
+msgid "Hold the base until reinforcements arrive."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_usa_title"
+msgid "Marine Engineers"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end1"
+msgid "GO GO GO, secure the target!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_uaf_title"
+msgid "UAF Reserves"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_hmv_tow_desc"
+msgid "A Humvee equiped with a TOW launcher for long range AT support."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_boxer_desc"
+msgid "Loaded with KSK operators and equiped with an M2HB."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_rescue_usa"
+msgid "US Armored"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_rescue_uaf"
+msgid "UAF Airborne"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/support_artillery_title"
+msgid "Artillery"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/choice_sniper_desc"
+msgid "Your recruits will be equiped with scoped assault rifles and sniper rifles."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_dingo_desc"
+msgid "This Dingo is equiped with a grenade launcher for dealing with masses of infantry."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/obj_village_title"
+msgid "Eliminate all enemys in the village."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_hmv_tow_title"
+msgid "Humvee TOW"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_matv_desc"
+msgid "An MATV equiped with a M2HB heavy machine gun for anti infantry support."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_boxer_title"
+msgid "Boxer M2HB"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_ksk_desc"
+msgid "A squad of highly capable elite KSK operators."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin6"
+msgid "The final choice is your recruits training course, this will effect your recruits starting weapons giving them different strengths and weaknesses."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin2"
+msgid "Training at the range starts at 0800, so don't get too comfortable."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin7"
+msgid "Incomming! Hit the Alarm!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin9"
+msgid "What are you waiting for recruits, get up there and fight!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin9.5"
+msgid "Yes Sir!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin11"
+msgid "Command we've been attacked, requesting reinforcements!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin_r_uaf"
+msgid "Our UAF allies have offered a few reserves to hold you over until our main forces can reach you, hang in there."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin15"
+msgid "We're at your command sir, just say the word."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin14"
+msgid "A local UN base has agreed to assist you with artillery and counter attacks. They only have limited ammo so use them strategically."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin13"
+msgid "Copy that command."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin12"
+msgid "The enemy appears to be massing for another attack prepare yourselves!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/rescue_usa_talk2"
+msgid "Just in time! Get up here and make the enemy regret this attack!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/support_arty_talk1"
+msgid "Coordinates recieved, rounds out."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/support_arty_talk0"
+msgid "Requesting artillery fire, targets marked."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end3"
+msgid "Team two now in position."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/zpu_talk2"
+msgid "Understood, we're sending in a blackhawk to orbit the area."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end7"
+msgid "Command, we've secured the target and are heading back to base."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_cut1"
+msgid "Command the enemy has been pushed back, compound secured!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_cut4"
+msgid "Once the enemy is cleared from the village, an elite UAF team will secure and extract the Russian General."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_cut_ger1"
+msgid "Additional KSK Operators can be called in if needed, good luck."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/counter_cut6"
+msgid "Understood command, we won't let you down."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/command_talk1"
+msgid "Enemy command post captured, the enemy general is holding inside."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/end0"
+msgid "Command all objectives are secured, send in a team to secure the general."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/vdv_talk1"
+msgid "The enemy VDV landing zone has been secured!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/command_talk2"
+msgid "Copy that, clear all objectives and the general will have no choice but to surrender. We have to take him alive!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/heavy_talk_usa"
+msgid "We now have additional bradleys in the area, call them in as needed."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/dingo_talk"
+msgid "Dingo armored car entering combat zone."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/tow_talk"
+msgid "Humvee tow approching combat area, we're ready to kill some tanks!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/bradley_talk"
+msgid "M2 Bradley APC arriving at location now."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/begin10.5"
+msgid "If a soldier is wounded all recruit trainers are equiped with medical training."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_04/rescue_talk3"
+msgid "We need to wipe out all remaining enemy vehicles!"
+msgstr ""
