@@ -63,3 +63,19 @@ msgstr ""
 msgctxt "desc/entity/ah-64_apache_mod"
 msgid "AH-64阿帕奇直升机"
 msgstr ""
+
+msgctxt "desc/human/special/us_r_trainer"
+msgid "美国教官"
+msgstr ""
+
+msgctxt "desc/human/special/ger_r_trainer"
+msgid "德国教官"
+msgstr ""
+
+msgctxt "desc/human/special/russian_general"
+msgid "俄罗斯将军"
+msgstr ""
+
+msgctxt "desc/entity/m109_paladin_mod"
+msgid "M109A6 帕拉丁 自行榴弹炮"
+msgstr ""
