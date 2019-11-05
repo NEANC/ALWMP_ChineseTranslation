@@ -63,3 +63,19 @@ msgstr ""
 msgctxt "desc/entity/ah-64_apache_mod"
 msgid "AH-64 Apache"
 msgstr ""
+
+msgctxt "desc/human/special/us_r_trainer"
+msgid "US Recruit Trainer"
+msgstr ""
+
+msgctxt "desc/human/special/ger_r_trainer"
+msgid "German Recruit Trainer"
+msgstr ""
+
+msgctxt "desc/human/special/russian_general"
+msgid "Russian General"
+msgstr ""
+
+msgctxt "desc/entity/m109_paladin_mod"
+msgid "M109A6 Paladin"
+msgstr ""
