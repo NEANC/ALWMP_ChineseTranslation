@@ -51,3 +51,75 @@ msgstr ""
 msgctxt "desc/human/aalw_units/police/swat_officer3"
 msgid "SWAT Officer"
 msgstr ""
+
+msgctxt "desc/human/aalw_units/un/un_soldier"
+msgid "UN Soldier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/un/un_soldier2"
+msgid "UN Soldier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/un/un_soldier_medic"
+msgid "UN Soldier Medic"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/un/un_soldier_sq"
+msgid "UN Soldier Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/ger_r1"
+msgid "German Recruit"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/ger_r2"
+msgid "German Recruit"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/ger_r3"
+msgid "German Recruit"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/ger_r_sq"
+msgid "German Recruit Trainer"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/us_r1"
+msgid "US Recruit"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/us_r2"
+msgid "US Recruit"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/us_r3"
+msgid "US Recruit"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/us_r_mg"
+msgid "US Recruit Machine Gunner"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/us_r_sniper"
+msgid "US Recruit Sniper"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/ger_r_sniper"
+msgid "German Recruit Sniper"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/ger_r_mg"
+msgid "German Recruit Machine Gunner"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/us_r_grenadier"
+msgid "US Recruit Grenadier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/recruits/us_r_sq"
+msgid "US Recruit Trainer"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/us_extras/marine_engineer"
+msgid "US Marine Engineer"
+msgstr ""
