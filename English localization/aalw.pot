@@ -12,6 +12,30 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 
+msgctxt "desc/weapon/120_cover_155"
+msgid "155mm M284"
+msgstr ""
+
+msgctxt "desc/weapon/m134d_mod"
+msgid "M134D Minigun"
+msgstr ""
+
+msgctxt "desc/weapon/70mm_hydra_x38_mod"
+msgid "70mm M151 Hydra"
+msgstr ""
+
+msgctxt "desc/weapon/178mm_hellfire_x8_mod"
+msgid "178mm AGM-114 Hellfire"
+msgstr ""
+
+msgctxt "desc/weapon/mod_120mm_m256a1"
+msgid "120mm M256A1"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_m256a1_sep"
+msgid "120mm M256A1"
+msgstr ""
+
 msgctxt "desc/ammo/a10_bullet"
 msgid "GAU-8 Avenger"
 msgstr ""
@@ -56,6 +80,14 @@ msgctxt "desc/human/special/joint_hq"
 msgid "Coalition HQ"
 msgstr ""
 
+msgctxt "desc/human/special/aalw_ger_player"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/aalw_pilot_player"
+msgid "Player"
+msgstr ""
+
 msgctxt "desc/entity/ah-64_apache_heavy_mod"
 msgid "AH-64 Apache Heavy"
 msgstr ""
@@ -76,6 +108,22 @@ msgctxt "desc/human/special/russian_general"
 msgid "Russian General"
 msgstr ""
 
+msgctxt "desc/human/special/opfor_hq"
+msgid "Operations Director"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_drone_op"
+msgid "Drone Operator"
+msgstr ""
+
 msgctxt "desc/entity/m109_paladin_mod"
 msgid "M109A6 Paladin"
+msgstr ""
+
+msgctxt "desc/entity/ch-47_chinook"
+msgid "CH-47D Chinook"
+msgstr ""
+
+msgctxt "desc/entity/ch-47_chinook_mg"
+msgid "CH-47D Chinook Heavy"
 msgstr ""
