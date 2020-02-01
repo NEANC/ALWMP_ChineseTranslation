@@ -73,7 +73,7 @@ msgid "VDV特遣部队"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/fr_heli_talk"
-msgid "发现CH-47D支努干，在它部署支援前，干掉它！"
+msgid "发现CH-47D支努干，在它着陆前，干掉它！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/brdm_mg_talk"
@@ -113,7 +113,7 @@ msgid "拿下火车站，我们才能派遣装甲部队。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/obj2_talk2"
-msgid "收到，完成其他任务后才能继续营救行动!"
+msgid "收到，完成其他任务后才继续营救行动!"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/obj1_talk2"
@@ -125,7 +125,7 @@ msgid "有两名工程师可以维修车辆。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/r_brdm_atgm_desc"
-msgid "反坦克装甲车"
+msgid "BRDM装甲侦察车 反坦克型"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/obj2_talk1"
@@ -157,7 +157,7 @@ msgid "了解，VDV特遣部队正在接近。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/r_gaz_hmg_title"
-msgid "GAZ猛虎车"
+msgid "GAZ猛虎突击车"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/inf1_talk"
@@ -181,15 +181,15 @@ msgid "这次任务深入敌后，只有少量的增援部队。但随着战斗�
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/r_gaz_hmg_desc"
-msgid "轻型装甲车-高射机炮"
+msgid "GAZ猛虎突击车"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/frf_defeated"
-msgid "这是美国快速反应部队最后的一次冲击，坚持住。"
+msgid "他们没了，哈哈哈哈哈。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/r_brdm_mg_desc"
-msgid "轻型装甲车-14.5mm机枪"
+msgid "BRDM装甲侦察车装备14.5mm机枪"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin3"
@@ -217,7 +217,7 @@ msgid "不惜一切代价，保护将军安全!"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/r_inf2_desc"
-msgid "步兵小组"
+msgid "重装步兵小组"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/inf_engineer_title"
@@ -229,7 +229,7 @@ msgid "收到，总部放心吧，他们没有机会！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/end2"
-msgid "收到，我们会派遣Spetznaz部队去协助你们。"
+msgid "收到，我们会派遣Spetznaz部队去执行营救任务。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin7"
@@ -249,7 +249,7 @@ msgid "干得好，你已经完成了一半。将军在前面基地里。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/mid5"
-msgid "指挥官，我们没有让你失望!"
+msgid "指挥部，我们不会让你失望!"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/obj3_talk1"
