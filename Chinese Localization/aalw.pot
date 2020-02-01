@@ -13,27 +13,27 @@ msgstr ""
 "Language-Team: \n"
 
 msgctxt "desc/weapon/120_cover_155"
-msgid "155mm M284"
+msgid "155mm M284自行榴弹炮"
 msgstr ""
 
 msgctxt "desc/weapon/m134d_mod"
-msgid "M134D Minigun"
+msgid "M134D 机枪"
 msgstr ""
 
 msgctxt "desc/weapon/70mm_hydra_x38_mod"
-msgid "70mm M151 Hydra"
+msgid "70mm M151海蛇怪 火箭弹"
 msgstr ""
 
 msgctxt "desc/weapon/178mm_hellfire_x8_mod"
-msgid "178mm AGM-114 Hellfire"
+msgid "178mm AGM-114地狱火 反坦克导弹"
 msgstr ""
 
 msgctxt "desc/weapon/mod_120mm_m256a1"
-msgid "120mm M256A1"
+msgid "120mm M256A1火炮"
 msgstr ""
 
 msgctxt "desc/weapon/120mm_m256a1_sep"
-msgid "120mm M256A1"
+msgid "120mm M256A1火炮"
 msgstr ""
 
 msgctxt "desc/ammo/a10_bullet"
@@ -105,9 +105,9 @@ msgid "M109A6 帕拉丁 自行榴弹炮"
 msgstr ""
 
 msgctxt "desc/entity/ch-47_chinook"
-msgid "CH-47D Chinook"
+msgid "CH-47D支努干"
 msgstr ""
 
 msgctxt "desc/entity/ch-47_chinook_mg"
-msgid "CH-47D Chinook Heavy"
+msgid "CH-47D重型支努干"
 msgstr ""
