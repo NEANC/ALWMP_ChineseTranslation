@@ -1,0 +1,265 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (00_opfor)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_opfor/operation_01/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/place"
+msgid "Russian General Rescue"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/name"
+msgid "Breakthrough"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/name_big"
+msgid "Operation 1"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/story"
+msgid "Coalition forces have captured a major Russian General. He is being held in a U.S. base in a captured position. Command a VDV task force behind enemy lines and rescue him!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj1_desc"
+msgid "Capture the town."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/brdm_atgm_talk"
+msgid "BRDM ATGM entering combat zone, we're ready to kill some tanks!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_brdm_atgm_title"
+msgid "BRDM ATGM"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/end3"
+msgid "The door is clear, GO GO GO."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_inf_desc"
+msgid "A squad of VDV infantry with light AT and a medic."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/end1"
+msgid "Command all objectives are secure, the general is still being held by UAF forces inside a building on the base."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_inf_title"
+msgid "VDV Squad"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/fr_heli_talk"
+msgid "Incoming CH-47D take it down before it drops off its troops!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/brdm_mg_talk"
+msgid "BRDM MG entering combat zone we're locked and loaded."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/inf2_talk"
+msgid "Heavy infantry ready to fight, nothing gets past us!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_brdm_mg_title"
+msgid "BRDM MG"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj3_talk2"
+msgid "10-4 Major the armor is approching your position! You can now also call in Heavy Infantry and BRDM support."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj1_talk1"
+msgid "Command come in, the town has been captured!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/mid3"
+msgid "You'll have to capture both the Rail Depot and the Base before we can risk securing the General."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/failstate1"
+msgid "You have no troops left on the field! If possible call in additional troops or this mission will be declared a failure!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/begin4"
+msgid "Sir, scout team in position and ready to provide cover fire."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/mid4"
+msgid "Once the Rail Depot is secured we can send in some armor to help you. Good luck Major!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj2_talk2"
+msgid "Copy that, take the other objectives so we can continue the advance!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj1_talk2"
+msgid "Understood, continue pushing to the next objective!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/inf_engineer_desc"
+msgid "Two engineers with light AT capable of repairing vehicles."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_brdm_atgm_desc"
+msgid "Lightly armored vehicle equiped with an array of ATGMS."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj2_talk1"
+msgid "Command the enemy outposts have been captured!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/inf_engineer_talk"
+msgid "Engineers ready to repair, tell us the location!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/end6"
+msgid "Great work everyone, get the General back to safety and regroup at HQ."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/defeat_frf_desc"
+msgid "Defeat the US fast response force."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_inf2_title"
+msgid "Heavy Infantry Squad"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/begin1"
+msgid "Command we have a lock on the building the General is in. You are go to send in the strike team."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/begin2"
+msgid "Understood the VDV task force is approching the contact point."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_gaz_hmg_title"
+msgid "GAZ HMG"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/inf1_talk"
+msgid "VDV ready for battle, just give us a location."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/begin5"
+msgid "Understood, All forces we are a go, I say again begin the assualt!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/begin6"
+msgid "Copy that, lets go people you heard him!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/mid1"
+msgid "Command we've secured the town, the outposts, and eliminated the fast response force."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/begin9"
+msgid "You are behind enemy lines and can only call in limited reinforcements. More units will arrive as the battle progresses. Good luck Major!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_gaz_hmg_desc"
+msgid "A lightly armored car with a mounted HMG."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/frf_defeated"
+msgid "Thats the last of the Fast Response Force, Keep up the pressure!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_brdm_mg_desc"
+msgid "A light armored vehicle with a 14.5mm MG."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/begin3"
+msgid "This position was taken from us weeks ago, the enemy has had plenty of time to dig in and setup defenses."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/end5"
+msgid "The General is secure I repeat, we have the General!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj3_desc"
+msgid "Capture the rail depot."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj2_desc"
+msgid "Capture the two US outposts."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj4_desc"
+msgid "Secure the Coalition main base."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/general_desc"
+msgid "Secure the general at all costs!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/r_inf2_desc"
+msgid "An Infantry squad equiped with Heavy AT."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/inf_engineer_title"
+msgid "Engineer Team"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/begin8"
+msgid "Copy that command, they won't stand a chance!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/end2"
+msgid "Copy that Major, hold position we're sending in a Spetznaz team to secure the General."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/begin7"
+msgid "Major, be aware the enemy is scrambling a fast response force to counter your assault, eliminate it!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/end4"
+msgid "Lets go, Secure the General and eliminate the guards!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/win"
+msgid "You eliminated all resistance and secured the General, Great Work!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/mid2"
+msgid "Good work, you're halfway there. The enemy is holding the General in a base up ahead."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/mid5"
+msgid "Thanks command, we won't let you down!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/obj3_talk1"
+msgid "Command we've captured the rail depot, send in the Armor!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/failstate_end"
+msgid "You ran out of troops. The mission is now being declared a failure."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_01/gaz_hmg_talk"
+msgid "Weapons check complete, GAZ HMG ready for battle!"
+msgstr ""
