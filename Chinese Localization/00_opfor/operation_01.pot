@@ -29,7 +29,7 @@ msgid "任务1"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/story"
-msgid "我们的一名俄罗斯将军被俘了。他被关押在美军基地里。现在你将指挥一支VDV特遣部队去把他捞出来！"
+msgid "我们一名将军被俘了。他被关押在美军基地里。现在你将指挥特遣部队去把他捞出来！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/outro_completed"
@@ -101,11 +101,11 @@ msgid "你必须先占领火车站和基地，然后我们才能营救将军。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/failstate1"
-msgid "你没有部队了！快呼叫增援或者宣布任务失败！"
+msgid "你没有部队了！快呼叫增援！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin4"
-msgid "长官，侦察队就位，准备提供火力掩护。"
+msgid "长官，侦察小组就位。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/mid4"
@@ -141,7 +141,7 @@ msgid "大家干得好，把将军送回去，并且在总部重新集合。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/defeat_frf_desc"
-msgid "击退美国快速反应部队。"
+msgid "消减美国快速反应部队。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/r_inf2_title"
@@ -149,15 +149,15 @@ msgid "重型步兵小组"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin1"
-msgid "指挥部，我们确定了将军所在地。你要准备好突击队。"
+msgid "总部，已经确定了将军所在地。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin2"
-msgid "了解，VDV特遣部队正在接近联络点。"
+msgid "了解，VDV特遣部队正在接近。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/r_gaz_hmg_title"
-msgid "改装皮卡-高射机枪"
+msgid "GAZ猛虎车"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/inf1_talk"
@@ -165,15 +165,15 @@ msgid "VDV特遣部队，准备就绪，等待命令。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin5"
-msgid "明白，准备行动。"
+msgid "明白，行动！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin6"
-msgid "收到，准备行动!"
+msgid "收到，行动!"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/mid1"
-msgid "总部，我们击退了美国快速反应部队。"
+msgid "总部，我们消减了美国快速反应部队。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin9"
@@ -209,7 +209,7 @@ msgid "占领两个美国前哨"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/obj4_desc"
-msgid "保护基地"
+msgid "占领并保护基地"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/general_desc"
@@ -225,7 +225,7 @@ msgid "工程师小组"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin8"
-msgid "收到，总部，放心吧，他们没有机会！"
+msgid "收到，总部放心吧，他们没有机会！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/end2"
