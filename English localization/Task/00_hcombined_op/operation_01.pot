@@ -29,7 +29,7 @@ msgid "Operation 1"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/story"
-msgid "After suffering multiple crushing defeats against the Russians, U.S. forces are forced to retreat toward the advancing German army. You take control of the rear guard of the retreating units, your the last line of defense between the U.S. forces and the Russians. Do whatever is nessasary to survive until the main German force arrives to relieve you!"
+msgid "After suffering multiple crushing defeats against the Russians, U.S. forces are forced to retreat toward the advancing German army. You take control of the rear guard of the retreating units, you're the last line of defense between the U.S. forces and the Russians. Do whatever is nessasary to survive until the main German force arrives to relieve you!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/outro_completed"
@@ -153,7 +153,7 @@ msgid "Payload dropped, multiple targets KIA."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin10"
-msgid "A few units from the main German army are ready to support the defense, call them in as needed. The main force almost there, make sure your here to see it!"
+msgid "A few units from the main German army are ready to support the defense, call them in as needed. The main force almost there, make sure you're here to see it!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end2"

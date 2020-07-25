@@ -65,7 +65,7 @@ msgid "This is Warthog 1, Providing ground support."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/flares"
-msgid "A-10s are dropping flares to show the direction the enemy will attack from! Deploy red smoke to signal your location to our aircraft!"
+msgid "Deploy red smoke to signal your location to our aircraft!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/win"
@@ -117,7 +117,7 @@ msgid "Several a-10s are almost at your position. They are out of atgms and are 
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/command response"
-msgid "Copy that 3 blackhawks inbound ETA 60 seconds."
+msgid "Copy that 3 blackhawks inbound ETA 30 seconds."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/incoming grm"

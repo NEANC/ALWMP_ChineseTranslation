@@ -12,6 +12,62 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 
+msgctxt "desc/weapon/m2hb_v1_fastload"
+msgid "M2HB"
+msgstr ""
+
+msgctxt "desc/ammo/mk40"
+msgid "70mm MK 4"
+msgstr ""
+
+msgctxt "desc/weapon/m134_x2"
+msgid "M134 Minigun"
+msgstr ""
+
+msgctxt "desc/weapon/70mm_mk40_x14"
+msgid "70mm MK40 FFAR"
+msgstr ""
+
+msgctxt "desc/entity/uh-1h_gunship"
+msgid "UH-1H Gunship"
+msgstr ""
+
+msgctxt "desc/entity/uh-1h_mg"
+msgid "UH-1H MG"
+msgstr ""
+
+msgctxt "desc/entity/uh-1h_light"
+msgid "UH-1H Light"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_mg"
+msgid "FMTV M2HB"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_mg_gunner"
+msgid "FMTV M2HB"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_mg_base"
+msgid "FMTV M2HB"
+msgstr ""
+
+msgctxt "desc/entity/lav25a2_water"
+msgid "LAV-25A2"
+msgstr ""
+
+msgctxt "desc/entity/btr-90_water"
+msgid "BTR-90"
+msgstr ""
+
+msgctxt "desc/entity/brdm_water"
+msgid "BRDM-2M"
+msgstr ""
+
+msgctxt "desc/entity/brdm_konkurs_water"
+msgid "BRDM-2M Konkurs"
+msgstr ""
+
 msgctxt "desc/weapon/120_cover_155"
 msgid "155mm M284"
 msgstr ""
@@ -34,6 +90,10 @@ msgstr ""
 
 msgctxt "desc/weapon/120mm_m256a1_sep"
 msgid "120mm M256A1"
+msgstr ""
+
+msgctxt "desc/weapon/a10_gun"
+msgid "GAU-8 Avenger"
 msgstr ""
 
 msgctxt "desc/ammo/a10_bullet"
@@ -70,6 +130,10 @@ msgstr ""
 
 msgctxt "desc/entity/m1a2_abrams_tusk2"
 msgid "M1A2 Abrams SEP TUSK 2"
+msgstr ""
+
+msgctxt "desc/entity/m1a2c"
+msgid "M1A2C Abrams"
 msgstr ""
 
 msgctxt "desc/human/special/channel9_news"
@@ -116,6 +180,22 @@ msgctxt "desc/human/special/opfor_drone_op"
 msgid "Drone Operator"
 msgstr ""
 
+msgctxt "desc/human/special/opfor_informant1"
+msgid "Informant"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_informant2"
+msgid "Informant"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_player_spetz"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_spetz_pilot"
+msgid "Spetsnaz Pilot"
+msgstr ""
+
 msgctxt "desc/entity/m109_paladin_mod"
 msgid "M109A6 Paladin"
 msgstr ""
@@ -126,4 +206,20 @@ msgstr ""
 
 msgctxt "desc/entity/ch-47_chinook_mg"
 msgid "CH-47D Chinook Heavy"
+msgstr ""
+
+msgctxt "desc/entity/humvee_unarmed"
+msgid "LAC"
+msgstr ""
+
+msgctxt "desc/entity/gov_hmv_unarmed"
+msgid "Government LAC"
+msgstr ""
+
+msgctxt "desc/entity/a10-warthog_combat"
+msgid "A-10 Thunderbolt II"
+msgstr ""
+
+msgctxt "desc/entity/a10-warthog_base"
+msgid "A-10 Thunderbolt II"
 msgstr ""

@@ -69,7 +69,7 @@ msgid "Airborne ready for your orders sir!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/begin3"
-msgid "You will be taking command of our airborne forces! Use them wisley we're very thin on manpower!"
+msgid "You will be taking command of our airborne forces! Use them wisely we're very thin on manpower!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/begin2"

@@ -21,7 +21,7 @@ msgid "UAF forces attempting to reconnect with friendly forces."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/name"
-msgid "*NEW* Blizzard of Fire"
+msgid "Blizzard of Fire"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/name_big"
@@ -229,7 +229,7 @@ msgid "Keep the friendly stryker operational."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk5"
-msgid "Copy that, your in luck soldier a special forces team is heading past that base by train ETA 10 minutes. We also have some aircraft in the air near your position, they only have enough ammo for 4 attacks."
+msgid "Copy that, you're in luck soldier a special forces team is heading past that base by train ETA 10 minutes. We also have some aircraft in the air near your position, they only have enough ammo for 4 attacks."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/win"

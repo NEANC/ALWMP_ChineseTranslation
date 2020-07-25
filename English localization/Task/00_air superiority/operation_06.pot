@@ -21,7 +21,7 @@ msgid "U.S. Attack on GRM remnants."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/name"
-msgid "*NEW* Lead Rain"
+msgid "Lead Rain"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/name_big"
@@ -69,7 +69,7 @@ msgid "Enemy village secured and under our control!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/begin2"
-msgid "Copy that Warthog 1 your cleared for takeoff!"
+msgid "Copy that Warthog 1 you're cleared for takeoff!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/o3_cap_talk"
@@ -153,7 +153,7 @@ msgid "The enemy oil field is secured, our troops are finishing off the stragler
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk3"
-msgid "Warthog 1, the runway is cleared your go to land."
+msgid "Warthog 1, the runway is cleared you're go to land."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk4"

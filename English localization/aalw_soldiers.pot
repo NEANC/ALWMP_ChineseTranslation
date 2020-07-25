@@ -12,6 +12,26 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 
+msgctxt "desc/human/aalw_units/gov_sol/t2_01"
+msgid "National Army Soldier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/gov_sol/t2_02"
+msgid "National Army Soldier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/gov_sol/t2_03"
+msgid "National Army Soldier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/gov_sol/t2_04"
+msgid "National Army Soldier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/gov_sol/t2_05"
+msgid "National Army Soldier"
+msgstr ""
+
 msgctxt "desc/entity/pd_car"
 msgid "Police Car"
 msgstr ""

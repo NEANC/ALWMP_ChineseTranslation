@@ -21,7 +21,7 @@ msgid "U.S. Assault on Secret GRM Fortress."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/name"
-msgid "*NEW* Lakebed Showdown"
+msgid "Lakebed Showdown"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/name_big"
@@ -142,6 +142,22 @@ msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/seal_talk"
 msgid "Seals armed and ready, give us a target!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/special_a10_desc"
+msgid "Call in an A10 to provide close air support."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/special_a10_title"
+msgid "A10 Attack Run"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/special_a10_zone2"
+msgid "A10 close air support is now also available, they only have enough ammo for one sortie, use it wisely."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_05/special_a10_arriving"
+msgid "This is warthog one, weapons armed. I'm moving in for an attack run."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone2_talk2"

@@ -21,7 +21,7 @@ msgid "UAF Base Under Siege"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/name"
-msgid "*NEW* Last Stand"
+msgid "Last Stand"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/name_big"
@@ -61,7 +61,7 @@ msgid "You survived and were evacuated, good work!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/begin1"
-msgid "Command we can not hold on any longer! If we don't get evac now we won't be here to see it!"
+msgid "Command we can't hold on any longer! If we don't get an evac now we won't be here to see it!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_04/gameover_all_die_stryker"

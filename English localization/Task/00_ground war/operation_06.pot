@@ -21,7 +21,7 @@ msgid "Joint strike on a rebel occupied city."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/name"
-msgid "*NEW* Endgame"
+msgid "Endgame"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/name_big"
@@ -173,7 +173,7 @@ msgid "Requesting a squad of police to help our assault!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_hq_title"
-msgid "Capture enemy headquarters."
+msgid "Capture enemy headquarters (Hard)."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/as_title"
@@ -193,7 +193,7 @@ msgid "APC armed with a TOW ATGM launcher."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_hanger"
-msgid "Capture enemy hanger."
+msgid "Capture enemy hanger (Normal)."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/talk_end1"
@@ -201,7 +201,7 @@ msgid "Command thats the last objective! We've taken the position!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_armor_fort"
-msgid "Capture enemy armored fortification."
+msgid "Capture enemy armored fortification (Very Hard)."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/m60_talk1"
@@ -213,7 +213,7 @@ msgid "Next is the enemy HQ."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_offices"
-msgid "Capture enemy offices."
+msgid "Capture enemy offices (Easy)."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/win"
