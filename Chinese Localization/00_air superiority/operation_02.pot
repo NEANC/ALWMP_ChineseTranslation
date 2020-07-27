@@ -29,7 +29,7 @@ msgid "任务2"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/story"
-msgid "你将控制一辆M1A2艾布拉斯主战坦克与大量的美军攻打一个被高度强化的GRM基地。 极为接近后，GRM使用了核武器。几乎完全消灭了整个突击部队。 6小时后，一队美国海军海豹突击队被派去寻找幸存者，并尝试完成任务：控制GRM基地！"
+msgid "你将驾驶一辆M1A2艾布拉斯主战坦克与友军进攻一个被高度强化的GRM基地。 即将进入基地后，GRM使用了‘核武器’。几乎消灭了整个部队。 6小时后，一队海豹突击队被派去寻找幸存者，并尝试：控制GRM基地！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/outro_completed"
@@ -45,7 +45,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/aa_destroyed"
-msgid "我们消灭了所有防空炮，我们需要空中支援！"
+msgid "敌方防空炮全灭，重复敌方防空炮全灭，我们需要空中支援！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/ambush!"
@@ -53,7 +53,7 @@ msgid "敌人！瞄准那些卡车！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/apaches_approching_again"
-msgid "AH-64阿帕奇武装直升机正在赶来掩护你的行动"
+msgid "AH-64阿帕奇小组正在入场"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/begin"
@@ -61,19 +61,19 @@ msgid "我们距离GRM基地只有几公里了。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/begin2"
-msgid "指挥部，我们遭遇强力的敌军，请求空中支援！"
+msgid "指挥部，我们遭遇顽强的阻击，请求空中支援！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/begin3"
-msgid "指挥官，射击那个高射炮。"
+msgid "指挥官，消灭那些高射炮。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/command contact"
-msgid "指挥部你知道吗？我们夺取了GRM基地，需要增援。"
+msgid "指挥部你听到了吗？我们夺取了GRM基地，需要增援。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/command_copy"
-msgid "干得好。确认所有防空炮不再运作后，空中支援即将前往。"
+msgid "干得好。确认所有防空炮不再运作后，空中支援即将入场。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/defend_heli"
@@ -81,7 +81,7 @@ msgid "保护直升机停机坪，直至支援抵达！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/destroy_aa"
-msgid "把所有高射炮给解决后，支援才能抵达！"
+msgid "解决所有高射炮后，空军才能入场！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/destroy_aa_again"
@@ -137,7 +137,7 @@ msgid "收到，我们将派遣救援飞机，预计6分钟后到达，保持你
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/incoming bomber"
-msgid "有报告说有架GRM轰炸机带着核武器！趴下！"
+msgid "有报告说有架GRM战机带着‘核武器’！趴下！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/later"
@@ -149,7 +149,7 @@ msgid "收到，AH-64阿帕奇武装直升机和A-10雷电II攻击机在......"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/move up"
-msgid "我们必须进攻这个基地，这个基地在遭受了这么多的损失之后，很可能没有戒备。"
+msgid "我们必须进攻这个基地，这个基地在攻击结束后，很可能没有戒备。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/radio_static"
@@ -173,11 +173,11 @@ msgid "好像有东西干扰了我们的无线电。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/survived"
-msgid "你们已经成功地摧毁了GRM基地，并救出了剩余的幸存者！"
+msgid "你们已经成功地摧毁了GRM基地，并救出了所有幸存者！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/survivor_talking"
-msgid "GRM对我们的突击部队使用了核武器，我们只剩下这些人了。据了解，GRM主要基地在干扰我们的无线电。"
+msgid "GRM对我们部队使用了‘核武器’，我们只剩下这些人了。据了解，GRM主要基地在干扰我们的无线电。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/survivors"
@@ -189,7 +189,7 @@ msgid "GRM主要基地"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/take_out_enemy_aa"
-msgid "在这个区域有防空炮，我们已经有多架黑鹰坠落了。"
+msgid "在这个区域内有防空炮，我们已经有多架黑鹰坠落了。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/tank_destroyed"
@@ -198,4 +198,16 @@ msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/what happened"
 msgid "这里发生了什么？就剩下你们了吗？"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/enemy_timer"
+msgid "敌方进攻:"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/seal_failstate"
+msgid "海豹突击队阵亡！"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/boat_obj"
+msgid "去上游寻找幸存者！"
 msgstr ""

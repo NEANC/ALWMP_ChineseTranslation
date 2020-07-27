@@ -29,7 +29,7 @@ msgid "任务1"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/story"
-msgid "紧邻一条主要公路，美国检查站正守卫着一个绝密军事基地的边界。 离基地只有几公里的地方，一架黑鹰直升机被RPG击中并坠毁，幸存者必须坚持到另一架黑鹰将他们带回基地！"
+msgid "紧邻一条主要公路，美国检查站正守卫着一个绝密军事基地的边界。 离基地只有几公里的地方，一架黑鹰直升机被RPG击落，幸存者必须坚持到支援抵达！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/outro_completed"
@@ -53,11 +53,11 @@ msgid "运输完成:"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/heli_get_troops_desc"
-msgid "你得到了额外的军队。"
+msgid "你获得了更多的部队。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/blackhawk_troops_talk2"
-msgid "黑鹰正在返回基地，需要加油，然后再次出发！"
+msgid "黑鹰正在返回基地，补给后再出发。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/end1"
@@ -65,7 +65,7 @@ msgid "发现友军！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/ems_response"
-msgid "指挥部，当地的快速反应部队抵达到现场后会被卷入交战中，给他们所有单位发报！"
+msgid "指挥官，快速反应部队抵达到后会直接与敌方交火，叫他们做好准备！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/end3"
@@ -81,11 +81,11 @@ msgid "你失去了对基地的控制！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin9"
-msgid "指挥部，我们不会让你失望的！"
+msgid "指挥官，我们不会让你失望的！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/crash_failstate"
-msgid "所有坠落的黑鹰幸存者牺牲！"
+msgid "所有黑鹰坠落的幸存者牺牲！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/heli_attack_title"
@@ -109,7 +109,7 @@ msgid "你需要保护基地，直到增援到达。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin2"
-msgid "我们在直升机坠落的地方发现了一些信息。"
+msgid "我们在直升机坠落的地方发现了一些信号。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin3"
@@ -121,7 +121,7 @@ msgid "收到，准许着陆。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/heli_refuel"
-msgid "黑鹰需要补给，预计30秒。"
+msgid "黑鹰正在补给，预计30秒。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin13"
@@ -133,11 +133,11 @@ msgid "这里无法再坚持下去了，我们需要撤退！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/ems_response2"
-msgid "了解，已通知地方政府避开该地区。"
+msgid "了解，已通知地方政府组织平民避开该地区。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin6"
-msgid "我们正在为黑鹰补给，完成后，你的任务是保护幸存者并重新回到这里。我们要准备应对来自GRM的攻击！"
+msgid "我们正在为黑鹰补给，完成后去营救我们的人。还有GRM要来了快做好准备！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/attack_start_timer"
@@ -177,11 +177,11 @@ msgid "基地被入侵！把敌人从基地里赶出去！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin8"
-msgid "正在补给，预计2分钟。准备好在黑鹰着陆后进入黑鹰。我们没有太多时间，敌方随时都有可能发动进攻！"
+msgid "稍等，预计2分钟后抵达。在黑鹰抵达前坚持住！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/debug1"
-msgid "护送队"
+msgid "护卫队"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/blackhawk_troops_talk1"
@@ -189,11 +189,11 @@ msgid "我们飞到最近的基地去寻找增援，预计60秒！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin12"
-msgid "所有的幸存者都在机上，起飞返回基地。"
+msgid "所有的人都上来了，起飞，起飞，让我们回家！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/civ_watch_fire"
-msgid "注意！那里有平民陷入了困境！"
+msgid "注意！区域内有平民！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin15"

@@ -12,6 +12,62 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 
+msgctxt "desc/weapon/m2hb_v1_fastload"
+msgid "M2HB 机枪"
+msgstr ""
+
+msgctxt "desc/ammo/mk40"
+msgid "70mm MK 4 火箭弹"
+msgstr ""
+
+msgctxt "desc/weapon/m134_x2"
+msgid "M134 米尼岗机枪"
+msgstr ""
+
+msgctxt "desc/weapon/70mm_mk40_x14"
+msgid "70mm MK40 FFAR 火箭弹"
+msgstr ""
+
+msgctxt "desc/entity/uh-1h_gunship"
+msgid "UH-1H 休伊"
+msgstr ""
+
+msgctxt "desc/entity/uh-1h_mg"
+msgid "UH-1H 机枪"
+msgstr ""
+
+msgctxt "desc/entity/uh-1h_light"
+msgid "UH-1H Light"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_mg"
+msgid "FMTV战术车"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_mg_gunner"
+msgid "FMTV战术车"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_mg_base"
+msgid "FMTV战术车"
+msgstr ""
+
+msgctxt "desc/entity/lav25a2_water"
+msgid "LAV-25A2 装甲车"
+msgstr ""
+
+msgctxt "desc/entity/btr-90_water"
+msgid "BTR-90 装甲车"
+msgstr ""
+
+msgctxt "desc/entity/brdm_water"
+msgid "BRDM-2M 装甲车"
+msgstr ""
+
+msgctxt "desc/entity/brdm_konkurs_water"
+msgid "BRDM-2M 装甲车"
+msgstr ""
+
 msgctxt "desc/weapon/120_cover_155"
 msgid "155mm M284自行榴弹炮"
 msgstr ""
@@ -21,19 +77,23 @@ msgid "M134D 机枪"
 msgstr ""
 
 msgctxt "desc/weapon/70mm_hydra_x38_mod"
-msgid "70mm M151海蛇怪 火箭弹"
+msgid "70mm M151 海蛇怪"
 msgstr ""
 
 msgctxt "desc/weapon/178mm_hellfire_x8_mod"
-msgid "178mm AGM-114地狱火 反坦克导弹"
+msgid "178mm AGM-114 地狱火"
 msgstr ""
 
 msgctxt "desc/weapon/mod_120mm_m256a1"
-msgid "120mm M256A1火炮"
+msgid "120mm M256A1型火炮"
 msgstr ""
 
 msgctxt "desc/weapon/120mm_m256a1_sep"
-msgid "120mm M256A1火炮"
+msgid "120mm M256A1型火炮"
+msgstr ""
+
+msgctxt "desc/weapon/a10_gun"
+msgid "GAU-8 30mm机炮"
 msgstr ""
 
 msgctxt "desc/ammo/a10_bullet"
@@ -41,7 +101,7 @@ msgid "GAU-8/A 30mm机炮"
 msgstr ""
 
 msgctxt "desc/stuff/a10_bullet"
-msgid "30mm穿甲弹"
+msgid "30mm 穿甲弹"
 msgstr ""
 
 msgctxt "desc/ammo/a10_atgm_missile"
@@ -49,7 +109,7 @@ msgid "AGM-65 小牛空地导弹"
 msgstr ""
 
 msgctxt "desc/stuff/a10_atgm_missile"
-msgid "反坦克导弹"
+msgid "ATGM 反坦克导弹"
 msgstr ""
 
 msgctxt "desc/ammo/su25k_bullet"
@@ -57,7 +117,7 @@ msgid "GSh-30-2 30mm机炮"
 msgstr ""
 
 msgctxt "desc/stuff/su25k_bullet"
-msgid "30mm穿甲弹"
+msgid "30mm 穿甲弹"
 msgstr ""
 
 msgctxt "desc/ammo/su25k_atgm_missile"
@@ -65,11 +125,15 @@ msgid "KH-23M 克里牛空地导弹"
 msgstr ""
 
 msgctxt "desc/stuff/su25k_atgm_missile"
-msgid "反坦克导弹"
+msgid "ATGM 反坦克导弹"
 msgstr ""
 
 msgctxt "desc/entity/m1a2_abrams_tusk2"
-msgid "M1A2主战坦克SEP TUSK 2"
+msgid "M1A2 SEP TUSK 2型主战坦克"
+msgstr ""
+
+msgctxt "desc/entity/m1a2c"
+msgid "M1A2C型主战坦克"
 msgstr ""
 
 msgctxt "desc/human/special/channel9_news"
@@ -80,12 +144,20 @@ msgctxt "desc/human/special/joint_hq"
 msgid "联盟总部"
 msgstr ""
 
+msgctxt "desc/human/special/aalw_ger_player"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/aalw_pilot_player"
+msgid "Player"
+msgstr ""
+
 msgctxt "desc/entity/ah-64_apache_heavy_mod"
-msgid "AH-64重型阿帕奇直升机"
+msgid "AH-64重型阿帕奇"
 msgstr ""
 
 msgctxt "desc/entity/ah-64_apache_mod"
-msgid "AH-64阿帕奇直升机"
+msgid "AH-64阿帕奇"
 msgstr ""
 
 msgctxt "desc/human/special/us_r_trainer"
@@ -100,8 +172,32 @@ msgctxt "desc/human/special/russian_general"
 msgid "俄罗斯将军"
 msgstr ""
 
+msgctxt "desc/human/special/opfor_hq"
+msgid "运营总监/Operations Director"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_drone_op"
+msgid "无人机操作员"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_informant1"
+msgid "告密者"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_informant2"
+msgid "告密者"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_player_spetz"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_spetz_pilot"
+msgid "Spetsnaz 驾驶员"
+msgstr ""
+
 msgctxt "desc/entity/m109_paladin_mod"
-msgid "M109A6 帕拉丁 自行榴弹炮"
+msgid "M109A6自行榴弹炮"
 msgstr ""
 
 msgctxt "desc/entity/ch-47_chinook"
@@ -110,4 +206,19 @@ msgstr ""
 
 msgctxt "desc/entity/ch-47_chinook_mg"
 msgid "CH-47D重型支努干"
+msgstr ""
+msgctxt "desc/entity/humvee_unarmed"
+msgid "LAC"
+msgstr ""
+
+msgctxt "desc/entity/gov_hmv_unarmed"
+msgid "政府型LAC"
+msgstr ""
+
+msgctxt "desc/entity/a10-warthog_combat"
+msgid "A-10雷电II"
+msgstr ""
+
+msgctxt "desc/entity/a10-warthog_base"
+msgid "A-10雷电II"
 msgstr ""
