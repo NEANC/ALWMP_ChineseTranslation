@@ -1,0 +1,62 @@
+[h1] Air Land Warfare Mission Pack of Chinese Localization [/h1]
+[b] 空地作战任务包的中文本地化 -> 本MOD是[url=steamcommunity.com/sharedfiles/filedetails/?id=1433544352]Air & Land Warfare Mission Pack Mission[/url]的汉化包[/b]
+
+
+[h2] 已汉化任务表 [/h2]
+[h3]空中优势 - 美国军事行动 [/h3]
+[olist]
+[*]漫漫长夜
+[*]进攻伤害
+[*]断箭行动
+[*]巡逻队被伏击
+[*]湖床决战
+[*]铅雨
+[/olist]
+[h3] 地面战争-UAF陆军战役 [/h3]
+[olist]
+[*]城市围攻
+[*]山谷防御
+[*]孤注一掷
+[*]背水一战
+[*]暴风雪
+[*]终局
+[/olist]
+[h3] 联合作战 - 联合特遣部队 [/h3]
+[olist]
+[*]战略撤退
+[*]地狱火飓风
+[*]被遗忘的堡垒
+[*]以火审判
+[/olist]
+[h3] 力量对抗 - 俄罗斯军事行动 [/h3]
+[olist]
+[*]突破
+[*]沉沦之城
+[/olist]
+
+
+[h2] 协力与发布：[/h2]
+[url=steamcommunity.com/profiles/76561198088693501]Johnson Chen[/url]
+贴吧：/p/5946354928
+[url=github.com/NEANC/Air-Land-Warfare-Mission-Pack-of-Chinese-Localization]Github仓库界面[/url]
+
+[h2] 注意[/h2]
+需要协助，因为我没有太多的时间来完善这个翻译（
+
+[h2] 校对 [/h2]
+[list]
+[*]第一次粗略校对
+排版修正与小幅度文本修正
+[*]第二次校对
+文本修正与小排版修正
+[/list]
+
+[h2] 如何使用 [/h2]
+[h3] 游戏内激活 [/h3]
+[code]本MOD置于母MOD的后面进行激活（该顺序不能打乱）=> 激活母MOD，后激活本MOD -> 应用	[/code]
+[h3] 游戏外覆盖文件激活 [/h3]
+[code] 将"[u] X:\Steam\steamapps\workshop\content\302670\1561437348\localizations\ [/u]"下的[b]文件覆盖[/b]到
+"[u] X:\Steam\steamapps\workshop\content\302670\1433544352\localizations\ [/u]"中	[/code]
+
+[h2] 许可证：[/h2]
+[url=github.com/NEANC/Air-Land-Warfare-Mission-Pack-of-Chinese-Localization/blob/master/LICENSE.md]MIT License[/url]
