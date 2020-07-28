@@ -69,7 +69,7 @@ msgid "那会告诉他们我们来了，指挥官，不要炸毁西弹药库！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/begin1"
-msgid "指挥官，进攻前哨！"
+msgid "行动，占领前哨！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/east_ammo_timer"
@@ -97,7 +97,7 @@ msgid "从弹药库获取AT反坦克炮。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/keep_alive2_obj"
-msgid "至少让1位Spetznaz 操作员活着。"
+msgid "至少让1位Spetznaz组员活着。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/clear_obj_talk2"
@@ -109,7 +109,7 @@ msgid "BTR-90为你提供掩护，祝您好运！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/informant_talk"
-msgid "指挥部，我们照顾好了线人，他不会再造成任何问题。"
+msgid "指挥部，我们“照顾”好了线人，他不会再造成任何问题。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/p1_paradrop"
@@ -169,7 +169,7 @@ msgid "干得好，intel发现线人和敌军高层在船上，解决他们！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/p1_obj_complete2"
-msgid "准时，我们的部队无法突破基地防御。来帮助他们！"
+msgid "干得好，我们的部队无法突破基地防御。来帮助他们！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/begin3"
@@ -205,7 +205,7 @@ msgid "使用AT反坦克炮消灭敌人的LAV装甲车。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/keep_alive_obj"
-msgid "至少使2个Spetznaz 操作员存活。"
+msgid "至少使2个Spetznaz组员存活。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/p1_fail"
@@ -221,7 +221,7 @@ msgid "尽快将所有部队带到码头！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/p3_fail"
-msgid "你很多士兵阵亡了，这是一次失败的任务！"
+msgid "你的士兵阵亡了，这是一次失败的任务！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/p4_fail"
@@ -257,7 +257,7 @@ msgid "留下他们！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/talk_part2_3"
-msgid "我寻找更好的视线。"
+msgid "我在寻找更好的视线。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_02/east_house_exploded1"
