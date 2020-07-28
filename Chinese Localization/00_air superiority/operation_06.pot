@@ -29,7 +29,7 @@ msgid "任务6"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/story"
-msgid "GRM急切地想抓住他们剩下的东西。出于对俄罗斯可能加入GRM阵营的担忧，美国陆军发动了攻击，试图消灭任何剩余的GRM部队。你将操作着A-10攻击机，为地面部队提供空中支援，让我们的部队安全回家！"
+msgid "GRM急切地想抓住他们剩下的东西。  但出于对俄罗斯可能加入GRM阵营的担忧，美国陆军发动了攻击，消灭剩余的GRM部队。  你将操作着A-10攻击机，为地面部队提供空中支援，让我们的部队安全回家！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/outro_completed"
@@ -145,7 +145,7 @@ msgid "已占领第二防线。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/m3_cap_talk"
-msgid "另一个防御工事被盟军占领！"
+msgid "另一个防御工事被友军占领！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/e2_cap_talk"
@@ -153,7 +153,7 @@ msgid "油田安全了，我们的部队正在消灭敌方残部！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk3"
-msgid "疣猪1号，跑道畅通，着陆许可。"
+msgid "疣猪1号，跑道畅通，允许着陆。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/end_victory_talk4"
@@ -161,5 +161,5 @@ msgid "干得好，疣猪1号，没有你的支持，地面部队不可能做到
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/victory_desc"
-msgid "多亏了你的空中支援，这次攻击取得了巨大的成功。 收拾好，准备行动！雷达发现有俄罗斯飞机正在接近基地！"
+msgid "多亏了你的空中支援，这次攻击取得了巨大的成功。 雷达发现有俄罗斯飞机正在接近基地！休息一下，准备行动！"
 msgstr ""

@@ -12,6 +12,26 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 
+msgctxt "desc/human/aalw_units/gov_sol/t2_01"
+msgid "国民革命军士兵"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/gov_sol/t2_02"
+msgid "国民革命军士兵"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/gov_sol/t2_03"
+msgid "国民革命军士兵"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/gov_sol/t2_04"
+msgid "国民革命军士兵"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/gov_sol/t2_05"
+msgid "国民革命军士兵"
+msgstr ""
+
 msgctxt "desc/entity/pd_car"
 msgid "警车"
 msgstr ""
@@ -65,7 +85,7 @@ msgid "联合国军医"
 msgstr ""
 
 msgctxt "desc/human/aalw_units/un/un_soldier_sq"
-msgid "联合国陆军班长"
+msgid "联合国班长"
 msgstr ""
 
 msgctxt "desc/human/aalw_units/recruits/ger_r1"

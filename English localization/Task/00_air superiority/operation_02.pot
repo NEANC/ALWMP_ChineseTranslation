@@ -29,7 +29,7 @@ msgid "Operation 2"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/story"
-msgid "You take control of a M1A2 Abrams in a massive us assault on a heavily fortified GRM base. After getting extremely close, the GRM attack with a last resort experimental nuclear weapon. Completly eliminating almost the entire assault force. 6 hours later a team of US navy seals is sent in to locate any survivors and finish what the assault started, taking out the main base!"
+msgid "You take control of a M1A2 Abrams in a massive us assault on a heavily fortified GRM base. After getting extremely close, the GRM attack with a last resort experimental weapon. Completly eliminating almost the entire assault force. 6 hours later a team of US navy seals is sent in to locate any survivors and finish what the assault started, taking out the main base!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/outro_completed"
@@ -89,7 +89,7 @@ msgid "Destroy all AA in the GRM base to allow exfill."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/destroy_jamming"
-msgid "Damage the bases power and jamming tower to contact command!"
+msgid "Damage the bases jamming tower to contact command!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/destroyed_the_aa_again"
@@ -133,7 +133,7 @@ msgid "Here they come! Hold your ground!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/hold_base"
-msgid "Copy that, We are sending in a evac it will be there in 6 minutes, hold you position until it arrives!"
+msgid "Copy that, We are sending in an evac it will be there in 6 minutes, hold you position until it arrives!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/incoming bomber"
@@ -165,7 +165,7 @@ msgid "Command come in! Did not copy last message!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/seal_intro"
-msgid "We lost contact with the strike force 4 hours ago. Now we have lost contact with command. This isnt looking good."
+msgid "We lost contact with the strike force 4 hours ago. Now we've lost contact with command. This isnt looking good."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/signal_jammed"
@@ -177,7 +177,7 @@ msgid "You have succesfully taken out the grm base and rescued the remaining sur
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/survivor_talking"
-msgid "The grm used some kind of massive explosive on our strike force, we're all thats left. From what we know, the GRM are jamming our radio signal from their base ahead."
+msgid "The grm used some kind of massive explosive on our strike force, and we're all thats left. From what we know the GRM are jamming our radio signal from their base ahead."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/survivors"
@@ -198,4 +198,16 @@ msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_02/what happened"
 msgid "What happened here? Are you all thats left?"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/enemy_timer"
+msgid "Enemy attacks in:"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/seal_failstate"
+msgid "All your Seals were killed!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_02/boat_obj"
+msgid "Go upriver and find the survivors!"
 msgstr ""

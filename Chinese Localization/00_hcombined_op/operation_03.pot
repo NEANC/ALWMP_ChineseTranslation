@@ -45,7 +45,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tow_title"
-msgid "“鼬鼠”1A1陶式导弹反坦克车"
+msgid "鼬鼠1A1反坦克车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_marder_desc"
@@ -305,15 +305,15 @@ msgid "KSK特种部队"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tank_talk"
-msgid "豹2A5，前来觐见！"
+msgid "2A5豹式主战坦克，前来觐见！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tank_title"
-msgid "豹2A5"
+msgid "2A5豹式主战坦克"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_tank_desc"
-msgid "一辆做好战斗战斗的豹2A5主战坦克，装备重型装甲以及120毫米主炮，让一切挡在它前面的东西都螳臂当车。"
+msgid "一辆做好战斗战斗的2A5豹式主战坦克，装备重型装甲以及120毫米主炮，让一切挡在它前面的东西都螳臂当车。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/end4"

@@ -65,7 +65,7 @@ msgid "Incoming friendly convoy!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/ems_response"
-msgid "Command local ems are responding to the scene they'll get caught in the crossfire, Tell them to call of all responding units!"
+msgid "Command local ems are responding to the scene they'll get caught in the crossfire, Tell them to call off all responding units!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/end3"
@@ -113,11 +113,11 @@ msgid "Lets get some info on where the downed helicopter crashed."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin3"
-msgid "Alright convoy leader your cleared to enter the base."
+msgid "Alright convoy leader you're cleared to enter the base."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin14"
-msgid "Copy that, your cleared to land."
+msgid "Copy that, you're cleared to land."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/heli_refuel"
@@ -169,7 +169,7 @@ msgid "The blackhawk is refueled and ready for your command!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin5"
-msgid "Your just in time, one of our Blackhawks was hit with an RPG just north of here!"
+msgid "You're just in time, one of our Blackhawks was hit with an RPG just north of here!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/enemys_in_base"

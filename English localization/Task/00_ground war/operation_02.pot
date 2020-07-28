@@ -161,7 +161,7 @@ msgid "We're lucky to be alive, they just kept on coming. Now lets get out of he
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_ending_talk5"
-msgid "Glad to see your still in one piece squad leader. Ready to get out of here?"
+msgid "Glad to see you're still in one piece squad leader. Ready to get out of here?"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk1"
@@ -209,7 +209,7 @@ msgid "Hold the line until help arrives!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk1"
-msgid "Copy that more troops are being dispached via APC eta 15 seconds."
+msgid "Copy that more troops are being dispatched via APC eta 15 seconds."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/heavy_reinforcement3"
@@ -281,7 +281,7 @@ msgid "They... They killed the squad leader! We can't win this on our own, We su
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/begin_3"
-msgid "Recon shows your completely surrounded it may take some time to break through their lines, hang in there!"
+msgid "Recon shows you're completely surrounded it may take some time to break through their lines, hang in there!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/sc_talk1"
@@ -385,7 +385,7 @@ msgid "Incoming BMP!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/artillery_talk1"
-msgid "Requesting artillery fire at grid 492.0 targets marked, danger close!"
+msgid "Requesting artillery fire at grid location 34.80, 62.15 targets marked, danger close!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/artillery_desc"
@@ -393,7 +393,7 @@ msgid "U.S. M109 artillery pieces support your defense with a danger close artil
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk2"
-msgid "We're taking to many casualties we need more men!"
+msgid "We're taking too many casualties we need more men!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_convoy2"
@@ -482,4 +482,12 @@ msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ranger_talk4"
 msgid "Just tell us where you need us!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/final_push_obj"
+msgid "Hold back the enemys final push!"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_win"
+msgid "Thats the last of them, great work! Now pack up and lets get out of here!"
 msgstr ""

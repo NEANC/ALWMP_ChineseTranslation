@@ -1,0 +1,269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (sunken city test)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_opfor/operation_02/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/place"
+msgid "Informant Elimination"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/name"
+msgid "Sunken City"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/name_big"
+msgid "Operation 2"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/story"
+msgid "A high profile Russian military defector has been located in a heavily fortified base. The base is built on a flooded city meaning only amphibious vehicles can be used to support you. Take the nearby outpost and secure a helicopter to help the main assault on the base."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p3_begin3"
+msgid "We've also detected the enemy has two ammo depots on the east and west of the base. Planting C4 in or near them should be enough to destroy them!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/reach_heli_obj"
+msgid "Complete all objectives to capture the UAF helicopter."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/talk_part2_5"
+msgid "Missile lock detected, deploying flares!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/intro3"
+msgid "Once we clear this outpost we can use that Mi-35 to soften up the main base."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/ammo_west_obj"
+msgid "Place C4 in the enemy's west office ammo depot."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/west_office_exploded1"
+msgid "That'll show them! Command they won't be using the west office ammo depot anytime soon."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/begin1"
+msgid "Copy that command, moving in to assault outpost!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/east_ammo_timer"
+msgid "Time until the east ammo depot explodes:"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/end_talk1"
+msgid "Incoming US reinforcements! They'll be here in two minutes get out of there!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/east_house_exploded2"
+msgid "Copy that, Great work!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/pull_back_office"
+msgid "Okay the charges are set for 15 seconds, get everyone to a safe distance! (Blue Markers)"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/informant_talk2"
+msgid "Understood, lets just hope he didn't get the chance to reveal anything important."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/get_ammo_obj"
+msgid "Obtain an AT weapon from the ammo depot."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/keep_alive2_obj"
+msgid "Keep atleast 1 Spetznaz Operator alive."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/clear_obj_talk2"
+msgid "Copy that, good work!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/begin2"
+msgid "BTR-90 providing cover fire for the landing, Good luck!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/informant_talk"
+msgid "Command we took care of the informant, he won't be causing anymore problems."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p1_paradrop"
+msgid "You've got an enemy CH-47 incoming, expect a paratrooper dropoff!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p1_obj_complete3"
+msgid "Copy that command."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/win"
+msgid "You eliminated the enemy informant and destroyed the ammo depots. The coalition will take a while to recover from this loss, Well done!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p3_paradrop"
+msgid "That CH-47 is coming back with more paratroopers, get ready!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/heli_gunner_obj"
+msgid "Eliminate as many enemies as possible before UAF aircraft arrive!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/ammo_east_obj"
+msgid "Place C4 in the east house ammo depot."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p3_begin1"
+msgid "Times up, enemy missiles incoming! Dropping flares!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/west_ammo_timer"
+msgid "Time until the west ammo depot explodes:"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/end_talk3"
+msgid "You don't have to ask us twice, we're moving to you now!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/west_office_exploded2"
+msgid "Excellent, keep it up!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/end_talk2"
+msgid "We've commandeered an enemy boat, hurry up and get on!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/talk_part2_1"
+msgid "Copy that command, the enemy won't know what hit them!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p2_transition2"
+msgid "We are also detecting two UAF aircraft heading to your position. Do as much damage as you can before they arrive!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p3_begin2"
+msgid "Good work, intel suggests the informant is on the ship with a few coalition leaders, Eliminate him."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p1_obj_complete2"
+msgid "Just in time, our troops can't break the bases defenses. Get up there and support them!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/begin3"
+msgid "Heavy enemy fire incoming, get to cover!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/talk_part2_4"
+msgid "The enemy jets are closing fast, pulling evasive maneuvers!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/end_timer"
+msgid "Get to the dock before US reinforcements arrive!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p2_fail"
+msgid "Your helicopter was destroyed before you could cause enough damage!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/intro2"
+msgid "This outpost is your first target, eliminate the enemy soldiers and the LAV-25. We don't have any AT on hand so you will have to steal some from the enemy."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/clear_obj_talk1"
+msgid "Command the platforms have been cleared of enemy infantry."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/clear_platform_obj"
+msgid "Clear the platforms of all enemys."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/kill_lav_obj"
+msgid "Eliminate the enemy LAV using captured equipment."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/keep_alive_obj"
+msgid "Keep atleast 2 Spetznaz Operators alive."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p1_fail"
+msgid "You lost to many soldiers, this mission is a failure!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p3_informant_obj"
+msgid "Eliminate the informant!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/escape_obj"
+msgid "Get all your troops to the dock asap!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p3_fail"
+msgid "You lost to many soldiers, this mission is a failure!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p4_fail"
+msgid "You failed to get all your soilders to the boat in time!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/intro1"
+msgid "We've tracked a high profile defector to this grid location. Intel suggests he is holding in an enemy stronghold."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/at_obj_talk"
+msgid "Perfect, with those AT launchers we can finally eliminate that LAV-25!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p1_obj_complete1"
+msgid "Command all objectives are completed, preparing to board the helicopter."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p3_begin4"
+msgid "Understood, we've landed and are moving in to eliminate all objectives!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/lav_obj_talk"
+msgid "LAV-25 eliminated, the enemy won't stand a chance without their armor!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/p2_transition1"
+msgid "The enemy is heavily dug in with multiple AA emplacements. Your helicopter is resistant to small arms fire but large caliber weapons will damage it."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/talk_part2_2"
+msgid "Keep them pinned down!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/talk_part2_3"
+msgid "I'm pulling around for better line of sight."
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/east_house_exploded1"
+msgid "Boom! Command the east house ammo depot has been eliminated!"
+msgstr ""
+
+msgctxt "mission/single/00_opfor/operation_02/end_talk4"
+msgid "Everyones on board, gun it and lets get out of here!"
+msgstr ""

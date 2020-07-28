@@ -137,7 +137,7 @@ msgid "You pushed back the Russians and took the outpost, Well done!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/intro9"
-msgid "The enemy is dug in and knows your coming, expect heavy resistance and don't let your guard down!"
+msgid "The enemy is dug in and knows you're coming, expect heavy resistance and don't let your guard down!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_03/veh_car_title"

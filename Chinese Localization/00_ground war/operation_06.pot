@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/place"
-msgid "联合打击叛军占领的城市。"
+msgid "联军进攻叛军所占领的城市。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/name"
@@ -29,7 +29,7 @@ msgid "任务6"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/story"
-msgid "一列满载着美国和UAF部队的装甲列车冲破叛军的防线，抵达其总部。 与当地政府合作，占据四个位置。所有平民都被疏散，所以你可以做任何事情！"
+msgid "一列满载着美国和UAF部队的装甲列车冲破叛军防线，抵达其总部。 与当地政府合作，占领关键位置。  所有平民都已疏散，所以你可以做任何事情！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/outro_completed"
@@ -189,7 +189,7 @@ msgid "最后是敌人装甲仓库。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/army_tow_hint"
-msgid "APC装备了TOW和ATGM发射器."
+msgid "APC装备了TOW和ATGM发射器。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_06/capture_hanger"

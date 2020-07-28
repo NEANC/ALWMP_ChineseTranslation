@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/place"
-msgid "UAF部队正在试图重新联系友军。"
+msgid "死里逃生的UAF部队正在试图联系友军。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/name"
@@ -61,7 +61,7 @@ msgid "农场安全。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/evac_talk2"
-msgid "快，我们没有太多时间了！敌人的重型坦克上来了！"
+msgid "快，我们没有太多时间了！敌军坦克上来了！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk2"
@@ -101,7 +101,7 @@ msgid "队长快进来！队长快进来....该死，他走了。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk6"
-msgid "我们已经搞定了黑鹰，让你在5分钟内离开。"
+msgid "黑鹰预计5分钟后抵达。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/cap3_talk2"
@@ -121,7 +121,7 @@ msgid "队长牺牲了，所有剩下的友军投降并被处决。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/base_intro_talk1"
-msgid "RPG采取躲避行动，坚持住！"
+msgid "RPG！规避，规避！稳住！稳住！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk2"
@@ -129,7 +129,7 @@ msgid "着火了！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk3"
-msgid "我们的旋翼被击中了，我们要坠毁了！"
+msgid "求救！求救！我们被击中了！我们正在向下坠落！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/defend3"
@@ -137,7 +137,7 @@ msgid "撤离基地，将所有幸存部队转移到火车站！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/begin1"
-msgid "侦察显示在你的前方有大量的敌人活动。建议您下车，步行护送。"
+msgid "情报显示在你的前方有大量的敌人活动。建议下车，步行移动。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/stryker_die_talk"
@@ -157,7 +157,7 @@ msgid "收到, 我们得守住这个位置，直到黑鹰的到来！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/evac_talk1"
-msgid "这是火车！把我们剩下的人都带到那个车站去！"
+msgid "火车！把我们剩下的人都带到那个车站去！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/loose_train_destroyed"
@@ -201,7 +201,7 @@ msgid "别抱太大希望，敌人正在重新集结，他们会带着更强大�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk4"
-msgid "我们刚刚失去了一个黑鹰，需要撤离！我们在这个地区有部队吗?我们会被屠杀的！"
+msgid "我们刚刚失去了一架黑鹰，需要撤离！我们在这个地区有部队吗?我们会被屠杀的！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk6"
@@ -229,7 +229,7 @@ msgid "让友军的装甲车继续工作。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/heli_talk5"
-msgid "收到, 幸运的是，一支特种部队的队员乘10分钟后的火车经过基地。我们也有一对战机在你的位置附近，但他们只有4次攻击的弹药。"
+msgid "收到，10分钟后有一支特种部队乘火车经过。也有一组战机在你的位置附近，但他们只能提供4次空中支援。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/win"
@@ -237,7 +237,7 @@ msgid "你清理了这片区域，保护了基地，然后安全撤离了！干�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/rocketpod_title"
-msgid "火箭发射器"
+msgid "空袭"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/begin3"
@@ -265,5 +265,5 @@ msgid "马上离开战区，干得好，先生们。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_05/rocketpod_desc"
-msgid "友军战机用火箭弹轰炸了指定地点。"
+msgid "友军战机轰炸了指定地点。"
 msgstr ""

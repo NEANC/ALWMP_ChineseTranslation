@@ -149,7 +149,7 @@ msgid "This is convoy leader, providing support for ground units."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/convoy_arrive3"
-msgid "Good to see your alive commander, I hope we didn't get here to late."
+msgid "Good to see you're alive commander, I hope we didn't get here to late."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_03/convoy_arrive4"

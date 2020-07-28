@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgctxt "mission/single/00_ground war/operation_01/date"
-msgid "在不久的将来..."
+msgid "在不久的将来......"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/place"
@@ -29,7 +29,7 @@ msgid "任务1"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/story"
-msgid "经过数周的激战，UAF部队已经将叛军最高司令部逼入绝境。他们只剩下一支精锐部队。 你的任务是护送携带情报的飞行员返回总部！这个情报对UAF赢得战争至关重要！"
+msgid "经过数周的激战，UAF部队已经将叛军逼入绝境。他们只剩下一支精锐部队。 你的任务是护送携带情报的飞行员返回总部！这个情报对UAF赢得战争至关重要！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/outro_completed"
@@ -53,7 +53,7 @@ msgid "飞行员阵亡，我们现在不能乘坐直升机了!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/begin1"
-msgid "我们需要将飞行员护送到直升机上。他带着重要的情报!"
+msgid "我们需要将飞行员护送到直升机上。他带着情报!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/end1"
@@ -77,11 +77,11 @@ msgid "叛军不会坐视不管，你需要突破他们的防线！不惜一切�
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/win"
-msgid "你获得了直升机！"
+msgid "你控制了直升机！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/almost there"
-msgid "我们快到了，让飞行员安全起飞！"
+msgid "我们快到了，让飞行员安全返回基地！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_01/end2"

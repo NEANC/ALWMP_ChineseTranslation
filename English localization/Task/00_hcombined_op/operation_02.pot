@@ -181,7 +181,7 @@ msgid "Hold the convoy, theres an enemy ambush across the river."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin10"
-msgid "The ambush has been eliminated your clear to advance!"
+msgid "The ambush has been eliminated you're clear to advance!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin11"
@@ -221,7 +221,7 @@ msgid "Artillery reporting in, ready to switch between indirect and direct fire 
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin14"
-msgid "Glad your in one piece, the convoy will take it from here. Eagle one heading back to base."
+msgid "Glad you're in one piece, the convoy will take it from here. Eagle one heading back to base."
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/defense2"

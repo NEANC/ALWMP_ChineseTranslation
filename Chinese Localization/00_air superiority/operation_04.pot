@@ -29,7 +29,7 @@ msgid "任务4"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/story"
-msgid "美军部队遭到了GRM伏击，造成5人伤亡，一辆悍马被毁。 由于GRM开始对剩余的美军发动全面进攻，该地区周围的空中力量被紧急调动。 你将控制一小队的海军陆战队来保证地面安全。"
+msgid "美军巡逻队遭到了GRM伏击，造成5人伤亡，一辆悍马被毁。 由于GRM开始对剩余的美军发动全面进攻，该地区周围的空中力量被紧急调动。 你将指挥一小队海军陆战队来保证地面安全。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/outro_completed"
@@ -77,7 +77,7 @@ msgid "我们的援军终于来了！不要放松，把他们赶回去！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/player units"
-msgid "我们正在将一小队海军陆战队队员置于你的控制之下，明智地使用他们。"
+msgid "我们在将一小队海军陆战队队员交给你指挥。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/attack heli"
@@ -97,7 +97,7 @@ msgid "在不久的将来..."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/apache"
-msgid "AH-64 阿帕奇武装直升机正在返回基地补给。"
+msgid "AH-64阿帕奇正在返回基地补给。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/place"
@@ -113,11 +113,11 @@ msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/a-102"
-msgid "好几架A-10就在你的上空。他们没有了反坦克导弹，正在进行扫射。低头!"
+msgid "数架A-10就在你的周围进行扫射。低头!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/command response"
-msgid "收到，三架黑鹰直升机，预计到达时间为60秒。"
+msgid "收到，黑鹰直升机小组，预计到达时间为60秒。"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/incoming grm"
@@ -133,5 +133,5 @@ msgid "注意敌方坦克！"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_04/friendly location"
-msgid "指挥官，部署红色烟雾来表示我们是友军！"
+msgid "指挥官，部署红色烟雾来表示我们的位置！"
 msgstr ""

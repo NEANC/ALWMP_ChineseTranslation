@@ -21,7 +21,7 @@ msgid "UAF Marine landing near vital Rebel railway."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/name"
-msgid "*NEW* High Stakes"
+msgid "High Stakes"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/name_big"
@@ -109,7 +109,7 @@ msgid "Secure the beach so we can bring in reinforcements!"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/begin"
-msgid "Thanks to intel our brave soldiers aquired we know this railway is crutial for the enemy to aquire more tanks."
+msgid "Thanks to intel our brave soldiers aquired we know this railway is crucial for the enemy to aquire more tanks."
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_03/end3"
