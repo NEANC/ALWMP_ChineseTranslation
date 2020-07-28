@@ -29,7 +29,7 @@ msgid "任务4"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/story"
-msgid "在给俄国人造成重大损失之后，联军正在招募新兵来加强部队。新兵们在前线附近的训练基地中接受训练。  敌人认为可以通过对这个训练基地的突袭来瓦解联军的强化计划。  在训楼基地遭袭击后，新兵们被迫提前加入战斗......"
+msgid "在给俄国人造成重大损失之后，联军正在招募新兵来加强部队。 新兵们在前线附近的训练基地中接受训练。  敌人认为可以通过对这个训练基地的突袭来瓦解联军的强化计划。  在训楼基地遭袭击后，新兵们被迫提前加入战斗......"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/outro_completed"
@@ -189,7 +189,7 @@ msgid "雷达显示敌人的Mi-35正在前往你的位置！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/counter_bradley_title"
-msgid "M2布拉德利"
+msgid "M2布拉德利步兵战车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/choice_uaf_desc"
@@ -229,7 +229,7 @@ msgid "增援部队到达："
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/matv_talk"
-msgid "M-ATV正在前往遇到区域。"
+msgid " M-ATV防地雷车正在前往区域。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/counter_cut2"
@@ -277,7 +277,7 @@ msgid "我们必须摧毁他们的坦克！ 这会迫使敌人重新集结，给
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/counter_dingo_title"
-msgid "Dingo GMW"
+msgid "野狗装甲车带榴弹发射器"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/debug1"
@@ -297,7 +297,7 @@ msgid "基地的左侧防线正在被突破，请增派部队，否则任务失�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/begin1.5"
-msgid "一个帐篷将分配给你们了，并且准备好了你们的装备。"
+msgid "一个帐篷将分配给你们了，准备好你们的装备。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/loose2_left"
@@ -377,7 +377,7 @@ msgid "新兵将配备瞄准镜突击步枪和狙击步枪。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/counter_dingo_desc"
-msgid "装备着榴弹发射器的Dingo。"
+msgid "装备着榴弹发射器的野狗装甲车。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/obj_village_title"
@@ -385,11 +385,11 @@ msgid "消灭村庄中的所有敌人。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/counter_hmv_tow_title"
-msgid "TOW 悍马"
+msgid "悍马带陶氏反坦克导弹"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/counter_matv_desc"
-msgid "装有M2HB重型机枪的M-ATV。"
+msgid " M-ATV防地雷车。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/counter_boxer_title"
@@ -505,15 +505,15 @@ msgid "我们现在有额外的布拉德雷在该地区，根据需要呼叫他�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/dingo_talk"
-msgid "Dingo装甲车进入区域。"
+msgid "野狗装甲车进入区域。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/tow_talk"
-msgid "TOW 悍马进入区域，我们已经准备好反坦克作战！"
+msgid "悍马携带陶氏反坦克导弹进入区域，我们已经准备好反坦克作战！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/bradley_talk"
-msgid "M2布拉德利装甲运兵车到达预定位置。"
+msgid "M2布拉德利步兵战车到达预定位置。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_04/begin10.5"

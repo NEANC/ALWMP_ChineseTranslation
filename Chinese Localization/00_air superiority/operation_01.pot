@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgctxt "mission/single/00_air superiority/operation_01/date"
-msgid "在不久的将来..."
+msgid "在不久的将来......"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/place"

@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/place"
-msgid "UAF部队执行任务后返回。"
+msgid "UAF部队执行任务后返回基地。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/name"
@@ -29,7 +29,7 @@ msgid "任务2"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/story"
-msgid "在一次对叛军的成功突袭后，获得的情报会让UAF在冲突中占据优势。叛军伏击并包围了返回的部队。 两辆悍马被简易爆炸装置摧毁，其余部队被迫坚守阵地，等待增援。 指挥官在爆炸中牺牲了，现在由班长来指挥，在等待增援部队！"
+msgid "在对叛军的成功突袭后，获得的情报会让UAF在冲突中占据优势。叛军伏击并包围了返回的部队。 两辆悍马被简易爆炸装置摧毁，其余部队被迫坚守阵地，等待增援。 指挥官在爆炸中牺牲了，现在由班长来指挥，在此驻守直到增援抵达！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/outro_completed"
@@ -57,7 +57,7 @@ msgid "指挥所有火力点"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/sc_talk2"
-msgid "收到，队长，坚持住！"
+msgid "收到，班长，坚持住！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ending_choice_text"
@@ -97,7 +97,7 @@ msgid "增援部队，掩护他们！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/e_usa_desc"
-msgid "美国直升机抵达到达，所有士兵，撤退！"
+msgid "友军直升机抵达，所有人，我们回家！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ac130_talk3"
@@ -169,7 +169,7 @@ msgid "发现目标，11点钟方向，穿甲弹。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_ending_talk7"
-msgid "敌军被压制，放下游骑兵！"
+msgid "火力压制！游骑兵，行动！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/timer_text"
@@ -261,7 +261,7 @@ msgid "指挥剩余部队！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ba_talk1"
-msgid "请求空中支援，以激光标记为目标。这是一个危险近接空中支援任务！重复危险接近！"
+msgid "请求空中支援，以激光标记为目标。危险近距空中支援！重复，危险近距空中支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ed_title"
@@ -277,7 +277,7 @@ msgid "暴风即将来临，快低头！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/failstate_talk"
-msgid "他们......他们杀了队长！我们无法依靠自己赢得胜利，我们投降！"
+msgid "他们......他们杀了班长！我们无法依靠自己赢得胜利，我们投降！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/begin_3"
@@ -305,11 +305,11 @@ msgid "请附近的LACS，提供火力支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ranger_talk1"
-msgid "我们现在真的需要那些游骑兵！"
+msgid "我们现在真的需要支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/mc_title"
-msgid "枪的位置控制。"
+msgid "炮位控制。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ba_desc"
@@ -321,11 +321,11 @@ msgid "AC130"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/player_alive"
-msgid "不惜一切代价让队长活着！"
+msgid "不惜一切代价让班长活着！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/heavy_reinforcement"
-msgid "空袭和美国炮兵现在可以呼叫了！把敌人钉牢！"
+msgid "现在可以呼叫空中支援和炮兵支援！把敌人钉牢！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/begin_4"
@@ -341,7 +341,7 @@ msgid "增援未抵达，结束"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ba_talk2"
-msgid "收到，火箭弹支援，准备隐蔽！"
+msgid "收到，火炮来袭，注意隐蔽！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ac130_desc"
@@ -357,7 +357,7 @@ msgid "UAF车队抵达:"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_convoy4"
-msgid "很高兴见到你车队队长，怎么花了这么长时间？"
+msgid "长官，很高兴见到你！路上怎么了？"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/begin_0"
@@ -385,11 +385,11 @@ msgid "发现BMP！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/artillery_talk1"
-msgid "请求炮兵火力覆盖，目标492.0，危险近接支援接近！"
+msgid "请求炮兵火力覆盖，目标492.0，危险距离！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/artillery_desc"
-msgid "美国M109火炮正在提供危险近接支援！"
+msgid "美国M109火炮正在提供危险近距支援！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk2"
@@ -409,7 +409,7 @@ msgid "AC130现在在第二次环绕飞行！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/heavy_reinforcement2"
-msgid "一架美国AC130现在你的头上！呼叫它，他们就会把六公里范围内的所有敌军给消灭！"
+msgid "一架美国AC130现在你的头上！呼叫它，他们会消灭范围内的所有敌军！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/uaf_cutscene_talk2"
@@ -433,7 +433,7 @@ msgid "走吧！把车开进防御工事！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/apc_dropoff_talk4"
-msgid "增援已抵达，队长，告诉我们哪里需要我们！"
+msgid "增援已抵达，长官，告诉我们哪里需要我们！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/noshow_timer"
@@ -445,7 +445,7 @@ msgid "指挥部，通知被困小队坚持住，我们快到了！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk4"
-msgid "队长，刚收到消息，美国部队已经突破了敌人的阵地，几乎到了你的位置！加油，坚持住！"
+msgid "队长，刚收到消息，美国部队已经突破了敌人的阵地，即将抵达你所在位置！加油，坚持住！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/us_cutscene_talk5"
@@ -457,7 +457,7 @@ msgid "您在袭击中幸存，并受到美国部队的保护。"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/noshow_talk3"
-msgid "我们不能再派地面车辆来帮你了。我们有一些游骑兵在待命。叫他们来帮忙！"
+msgid "我们不能再派地面车辆来帮你了。但我们有一些游骑兵在待命，可以叫他们来帮忙！"
 msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/noshow_cutscene_talk3"
@@ -482,4 +482,12 @@ msgstr ""
 
 msgctxt "mission/single/00_ground war/operation_02/ranger_talk4"
 msgid "告诉我们你需要我们在哪里！"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/final_push_obj"
+msgid "压制他们！这应该是最后的进攻了！"
+msgstr ""
+
+msgctxt "mission/single/00_ground war/operation_02/noshow_win"
+msgid "那是最后的敌军了，干得好！现在收拾一下，让我们回家！"
 msgstr ""

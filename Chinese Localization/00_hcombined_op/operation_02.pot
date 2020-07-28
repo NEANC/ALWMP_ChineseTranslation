@@ -29,7 +29,7 @@ msgid "任务2"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/story"
-msgid "在战略撤退后，联军设置了一条防线来阻止敌人的进攻。在此过程中，侦察队被困在敌区。 指挥部将派出一支部队和阿帕奇小组，深入敌后，解救受困的侦察队。"
+msgid "在战略撤退后，联军设置了一条防线来阻止敌人的进攻。在此过程中，侦察队被困在敌区。 指挥部将派出一支部队和阿帕奇小组，深入敌后，解救受困小组。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/outro_completed"
@@ -129,7 +129,7 @@ msgid "将它们固定住，不要停火！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/failstate_rescue_dead"
-msgid "No!!侦察队全军覆没了！"
+msgid "不!!侦察队全军覆没了！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/begin18"
@@ -269,5 +269,5 @@ msgid "火力掩护，不要让敌人突破防线！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_02/end3"
-msgid "各单位设置一个围墙，敌人就不会走这条路！"
+msgid "我们组成一道城墙，让敌人知道这条路不是他们该来的地方！"
 msgstr ""

@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgctxt "mission/single/00_hcombined_op/operation_01/date"
-msgid "近未来的某天......"
+msgid "在不久的将来......"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/place"
@@ -29,7 +29,7 @@ msgid "任务1"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/story"
-msgid "在和俄军交战过程中，美军经历几次重大战败后被迫向正在推进战线的德军靠拢并后撤。 你负责指挥殿后的部队，你是美军和俄军之间最后一条防线，必须不惜一切代价存活到德军大部队的到来！"
+msgid "在和俄军交战过程中，美军经历几次重大战败后被迫向正在推进战线的德军靠拢并后撤。 你负责指挥殿后的部队，你是美军和俄军之间最后一条防线，必须不惜一切代价存活到增援抵达！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/outro_completed"
@@ -45,7 +45,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/bradley_desc"
-msgid "这个步战车装备了陶氏反坦克导弹和25毫米机炮。"
+msgid "步兵战车装备了陶氏反坦克导弹和25毫米机炮。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/veh_boxer_title"
@@ -57,7 +57,7 @@ msgid "发现目标，开火！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin2"
-msgid "德国也加入了战争当中， 自冷战以来德国与俄国之间的紧张程度上升到了一个前所未有的程度。"
+msgid "德国也加入了战争当中， 这是自冷战以来德国与俄国之间的关系首次上升到了一个前所未有的程度。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/carpet_bomb_title"
@@ -85,7 +85,7 @@ msgid "装备着MG3轻机枪以及基础轻型护甲，此单位能有效对付�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/tiger_talk"
-msgid "系统检测完毕，重型老虎随时可以提供空中火力支援。"
+msgid "系统检测完毕，虎式重型武装直升机随时可以提供空中火力支援。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/timer1"
@@ -93,19 +93,19 @@ msgid "德军主力部队到达剩余时间："
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/heli_tiger"
-msgid "重型老虎"
+msgid "虎式重型武装直升机"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end3"
-msgid "掩护幸存的部队，这个检查点绝不能被攻破！"
+msgid "掩护友军部队，这个检查点绝不能被攻破！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end1"
-msgid "侦察到敌军接近！ 空袭开始，危险近距离支援！"
+msgid "侦察到敌军接近！ 空袭开始，危险近距支援！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/begin1"
-msgid "...这场战役被誉为美国史上最重大的军事灾难之一， 成千上万的伤兵被紧急撤出，美军面临全战线重大战略撤离的地步。"
+msgid "...这场战役被誉为美国史上最重大的军事灾难之一， 成千上万的士兵被紧急撤出，美军面临全战线重大战略撤离的地步。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_mg_title"
@@ -181,11 +181,11 @@ msgid "M2布莱德利步兵战车"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/defensive_line_broken"
-msgid "阵地失守！ 呼叫支援守住防线，否则任务失败！"
+msgid "阵地失守！ 呼叫支援守住防线，否则任务即将失败！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/fail_message"
-msgid "由于防线无一士兵存活，俄军夺下了检查点并摧毁了美军撤离部队。"
+msgid "由于防线坠落，俄军夺下了检查点并消减了美军部队。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/tiger_desc"
@@ -205,7 +205,7 @@ msgid "一只能进行远程反步兵狙击的小队。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/wiesel_desc"
-msgid "低姿态车身并装备着陶氏反坦制导导弹，能极度舒适得完成远程反坦克作战。"
+msgid "低姿态车身并装备着陶氏反坦克导弹，能极度舒适地完成远程反坦克作战。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/boxer_desc"
@@ -221,7 +221,7 @@ msgid "明白指挥官，我们会死守战线到最后一兵一卒！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end4"
-msgid "干得好士兵！ 得利于你的功劳，我们的部队安全了！"
+msgid "干得好！ 得利于你们的努力，友军部队安全了！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/end5"
@@ -249,11 +249,11 @@ msgid "步兵报到，你的战壕在哪？"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/inf_heavy_talk"
-msgid "重装兵，按D部署！"
+msgid "重型步兵，随时待命！"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/sniper_talk"
-msgid "狙击手报到，“ 我们都是神枪手, 一发子弹消灭一个敌人~”"
+msgid "狙击手报到"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/bradley_talk"
@@ -261,7 +261,7 @@ msgid "M2布莱德利步兵战车，已做好战斗准备!"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/dingo_talk"
-msgid "野犬装甲车准备好掩护我方撤退！指个路，我们这就走。"
+msgid "野犬装甲车，准备就绪！指个路，我们这就走。"
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/boxer_talk"
@@ -269,5 +269,5 @@ msgid "拳师犬步兵装甲车已到场，我们的40毫米榴弹够他们步�
 msgstr ""
 
 msgctxt "mission/single/00_hcombined_op/operation_01/win"
-msgid "防御阵线在你的指挥下抵挡住了一波又一波的进攻，干得好士兵。"
+msgid "防御阵线在你的指挥下抵挡住了一波又一波的进攻，干得好。"
 msgstr ""

@@ -193,7 +193,7 @@ msgid "Player"
 msgstr ""
 
 msgctxt "desc/human/special/opfor_spetz_pilot"
-msgid "Spetsnaz 驾驶员"
+msgid "Spetsnaz 操作员"
 msgstr ""
 
 msgctxt "desc/entity/m109_paladin_mod"

@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgctxt "mission/single/00_opfor/operation_01/date"
-msgid "在不久的将来..."
+msgid "在不久的将来......"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/place"
@@ -29,15 +29,15 @@ msgid "任务1"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/story"
-msgid "我们一名将军被俘了。他被关押在美军基地里。现在你将指挥特遣部队去把他捞出来！"
+msgid "我们一名将军被俘了。他被关押在美军基地里。  现在你将指挥部队去把他捞出来！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/outro_completed"
-msgid "任务完成!"
+msgid "任务完成！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/outro_failed"
-msgid "任务失败!"
+msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/outro_start"
@@ -229,7 +229,7 @@ msgid "收到，总部放心吧，他们没有机会！"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/end2"
-msgid "收到，我们会派遣Spetznaz部队去执行营救任务。"
+msgid "收到，我们会派遣阿尔法小组去执行营救任务。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin7"
@@ -261,5 +261,5 @@ msgid "你没有部队了，任务失败。"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/gaz_hmg_talk"
-msgid "检查完毕，准备战斗!"
+msgid "检查完毕，准备行动!"
 msgstr ""

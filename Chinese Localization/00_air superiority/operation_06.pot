@@ -161,5 +161,5 @@ msgid "干得好，疣猪1号，没有你的支持，地面部队不可能做到
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_06/victory_desc"
-msgid "多亏了你的空中支援，这次攻击取得了巨大的成功。 收拾好，准备行动！雷达发现有俄罗斯飞机正在接近基地！"
+msgid "多亏了你的空中支援，这次攻击取得了巨大的成功。 雷达发现有俄罗斯飞机正在接近基地！休息一下，准备行动！"
 msgstr ""
