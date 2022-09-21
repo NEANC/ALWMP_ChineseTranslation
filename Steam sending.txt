@@ -60,5 +60,6 @@
 [code] 将"[u] X:\Steam\steamapps\workshop\content\302670\1561437348\localizations\ [/u]"下的[b]文件覆盖[/b]到
 "[u] X:\Steam\steamapps\workshop\content\302670\1433544352\localizations\ [/u]"中	[/code]
 
-[h2] 许可证：[/h2]
+[h2] License [/h2]
 [url=github.com/NEANC/Air-Land-Warfare-Mission-Pack-of-Chinese-Localization/blob/master/LICENSE.md]MIT License[/url]
+Copyright (c) 2018
