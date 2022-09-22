@@ -17,6 +17,6 @@ Source English localization By.[hikip922](https://steamcommunity.com/id/hikip922
 [工坊发布页](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=1561437348)
 
 # License
-[![CC-BY-ND-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nd.svg)](https://creativecommons.org/licenses/by-nd/4.0/legalcode)  
+[![CC-BY-ND-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg)](https://creativecommons.org/licenses/by-nd/4.0/legalcode)  
 MIT License  
 Copyright (c) 2018  
