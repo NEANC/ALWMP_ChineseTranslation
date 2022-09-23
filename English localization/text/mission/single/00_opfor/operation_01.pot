@@ -141,7 +141,7 @@ msgid "Great work everyone, get the General back to safety and regroup at HQ."
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/defeat_frf_desc"
-msgid "Defeat the US fast response force."
+msgid "Defeat the US quick reaction force."
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/r_inf2_title"
@@ -173,7 +173,7 @@ msgid "Copy that, lets go people you heard him!"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/mid1"
-msgid "Command we've secured the town, the outposts, and eliminated the fast response force."
+msgid "Command we've secured the town, the outposts, and eliminated the quick reaction force."
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin9"
@@ -185,7 +185,7 @@ msgid "A lightly armored car with a mounted HMG."
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/frf_defeated"
-msgid "Thats the last of the Fast Response Force, Keep up the pressure!"
+msgid "Thats the last of the Quick Reaction Force, Keep up the pressure!"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/r_brdm_mg_desc"
@@ -233,7 +233,7 @@ msgid "Copy that Major, hold position we're sending in a Spetznaz team to secure
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/begin7"
-msgid "Major, be aware the enemy is scrambling a fast response force to counter your assault, eliminate it!"
+msgid "Major, be aware the enemy is scrambling a quick reaction force to counter your assault, eliminate it!"
 msgstr ""
 
 msgctxt "mission/single/00_opfor/operation_01/end4"

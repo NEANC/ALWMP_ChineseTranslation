@@ -1,0 +1,345 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (aalw)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+;Vehicles
+
+msgctxt "desc/entity/t-72m"
+msgid "T-72M"
+msgstr ""
+
+msgctxt "desc/entity/stryker_m1128_heavy"
+msgid "M1128 Stryker MGS Heavy"
+msgstr ""
+
+msgctxt "desc/entity/matv_transport"
+msgid "MATV"
+msgstr ""
+
+msgctxt "desc/entity/matv_turret_m2hb"
+msgid "MATV M2HB"
+msgstr ""
+
+msgctxt "desc/entity/matv_turret_m240"
+msgid "MATV M240"
+msgstr ""
+
+msgctxt "desc/entity/matv_turret_minigun"
+msgid "MATV Minigun"
+msgstr ""
+
+msgctxt "desc/entity/matv_turret_mk19"
+msgid "MATV MK19"
+msgstr ""
+
+msgctxt "desc/entity/bm-21_grad"
+msgid "BM-21 Grad"
+msgstr ""
+
+msgctxt "desc/entity/uh-1h_gunship"
+msgid "UH-1H Gunship"
+msgstr ""
+
+msgctxt "desc/entity/uh-1h_mg"
+msgid "UH-1H MG"
+msgstr ""
+
+msgctxt "desc/entity/uh-1h_light"
+msgid "UH-1H Light"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_mg"
+msgid "FMTV M2HB"
+msgstr ""
+
+msgctxt "desc/entity/m114"
+msgid "M114A1"
+msgstr ""
+
+msgctxt "desc/entity/un_acv15"
+msgid "UN ACV-15"
+msgstr ""
+
+msgctxt "desc/entity/un_acv15_ifv"
+msgid "UN ACV-15_IFV"
+msgstr ""
+
+msgctxt "desc/entity/un_ural"
+msgid "UN Ural"
+msgstr ""
+
+msgctxt "desc/entity/un_ural_ammo"
+msgid "UN Ural Ammo"
+msgstr ""
+
+msgctxt "desc/entity/un_ural_supplies"
+msgid "UN Ural Supplies"
+msgstr ""
+
+msgctxt "desc/entity/un_acv15_tow"
+msgid "UN ACV-15_TOW"
+msgstr ""
+
+msgctxt "desc/entity/un_uh-1h"
+msgid "UN UH-1H"
+msgstr ""
+
+msgctxt "desc/entity/un_humvee_ags"
+msgid "UN LAC AGS"
+msgstr ""
+
+msgctxt "desc/entity/humvee_no_shield"
+msgid "LAC M2HB"
+msgstr ""
+
+msgctxt "desc/entity/un_humvee_unarmed"
+msgid "UN LAC"
+msgstr ""
+
+msgctxt "desc/entity/un_humvee_hmg"
+msgid "UN LAC HMG"
+msgstr ""
+
+msgctxt "desc/entity/un_humvee_lmg"
+msgid "UN LAC LMG"
+msgstr ""
+
+msgctxt "desc/entity/humvee_minigun"
+msgid "LAC Minigun"
+msgstr ""
+
+msgctxt "desc/entity/pd_car"
+msgid "Police Car"
+msgstr ""
+
+msgctxt "desc/entity/pd_car_lights"
+msgid "Police Car"
+msgstr ""
+
+msgctxt "desc/entity/police_truck"
+msgid "Police Truck"
+msgstr ""
+
+msgctxt "desc/entity/police_truck_lmg"
+msgid "Police Truck LMG"
+msgstr ""
+
+msgctxt "desc/entity/police_truck_hmg"
+msgid "Police Truck HMG"
+msgstr ""
+
+msgctxt "desc/entity/swat_van"
+msgid "SWAT Van"
+msgstr ""
+
+msgctxt "desc/entity/ambulance_lights"
+msgid "Ambulance"
+msgstr ""
+
+msgctxt "desc/entity/swat_matv_m240"
+msgid "SWAT M240"
+msgstr ""
+
+msgctxt "desc/entity/swat_matv_m2hb"
+msgid "SWAT M2HB"
+msgstr ""
+
+msgctxt "desc/entity/swat_matv_mk19"
+msgid "SWAT MK19"
+msgstr ""
+
+msgctxt "desc/entity/un_leopard2"
+msgid "UN Leopard 2"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_mg_gunner"
+msgid "FMTV M2HB"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_mg_base"
+msgid "FMTV M2HB"
+msgstr ""
+
+msgctxt "desc/entity/lav25a2_water"
+msgid "LAV-25A2"
+msgstr ""
+
+msgctxt "desc/entity/btr-90_water"
+msgid "BTR-90"
+msgstr ""
+
+msgctxt "desc/entity/brdm_water"
+msgid "BRDM-2M"
+msgstr ""
+
+msgctxt "desc/entity/brdm_konkurs_water"
+msgid "BRDM-2M Konkurs"
+msgstr ""
+
+msgctxt "desc/entity/m1a2_abrams_tusk2"
+msgid "M1A2 Abrams SEP TUSK 2"
+msgstr ""
+
+msgctxt "desc/entity/m1a2c"
+msgid "M1A2C Abrams"
+msgstr ""
+
+msgctxt "desc/entity/ah-64_apache_heavy_mod"
+msgid "AH-64 Apache Heavy"
+msgstr ""
+
+msgctxt "desc/entity/ah-64_apache_mod"
+msgid "AH-64 Apache"
+msgstr ""
+
+msgctxt "desc/entity/m109_paladin_mod"
+msgid "M109A6 Paladin"
+msgstr ""
+
+msgctxt "desc/entity/ch-47_chinook"
+msgid "CH-47D Chinook"
+msgstr ""
+
+msgctxt "desc/entity/ch-47_chinook_mg"
+msgid "CH-47D Chinook Heavy"
+msgstr ""
+
+msgctxt "desc/entity/humvee_unarmed"
+msgid "LAC"
+msgstr ""
+
+msgctxt "desc/entity/humvee_shield_m240"
+msgid "LAC M240"
+msgstr ""
+
+msgctxt "desc/entity/humvee_shield_m2hb"
+msgid "LAC M2HB"
+msgstr ""
+
+msgctxt "desc/entity/gov_hmv_unarmed"
+msgid "Government LAC"
+msgstr ""
+
+msgctxt "desc/entity/gov_hmv_mag"
+msgid "Government LAC MAG"
+msgstr ""
+
+msgctxt "desc/entity/gov_hmv_m2hb"
+msgid "Government LAC M2HB"
+msgstr ""
+
+msgctxt "desc/entity/a10-warthog_combat"
+msgid "A-10 Thunderbolt II"
+msgstr ""
+
+msgctxt "desc/entity/a10-warthog_base"
+msgid "A-10 Thunderbolt II"
+msgstr ""
+
+;Weapons/Ammo
+
+msgctxt "desc/weapon/122mm_2b5"
+msgid "122mm 2B5"
+msgstr ""
+
+msgctxt "desc/ammo/122mm_9m22u_2"
+msgid "122mm 9M22U FRAG-HE"
+msgstr ""
+
+msgctxt "desc/weapon/m2hb_v1_fastload"
+msgid "M2HB"
+msgstr ""
+
+msgctxt "desc/ammo/mk40"
+msgid "70mm MK 4"
+msgstr ""
+
+msgctxt "desc/weapon/m134_x2"
+msgid "M134 Minigun"
+msgstr ""
+
+msgctxt "desc/ammo/javelin_missile"
+msgid "Javelin Missile"
+msgstr ""
+
+msgctxt "desc/weapon/javelin"
+msgid "FGM-148 Javelin"
+msgstr ""
+
+msgctxt "desc/weapon/155mm_m114"
+msgid "155mm M114"
+msgstr ""
+
+msgctxt "desc/weapon/70mm_mk40_x14"
+msgid "70mm MK40 FFAR"
+msgstr ""
+
+msgctxt "desc/weapon/120_cover_155"
+msgid "155mm M284"
+msgstr ""
+
+msgctxt "desc/weapon/m134d_mod"
+msgid "M134D Minigun"
+msgstr ""
+
+msgctxt "desc/weapon/70mm_hydra_x38_mod"
+msgid "70mm M151 Hydra"
+msgstr ""
+
+msgctxt "desc/weapon/178mm_hellfire_x8_mod"
+msgid "178mm AGM-114 Hellfire"
+msgstr ""
+
+msgctxt "desc/weapon/mod_120mm_m256a1"
+msgid "120mm M256A1"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_m256a1_sep"
+msgid "120mm M256A1"
+msgstr ""
+
+msgctxt "desc/weapon/a10_gun"
+msgid "GAU-8 Avenger"
+msgstr ""
+
+msgctxt "desc/ammo/a10_bullet"
+msgid "GAU-8 Avenger"
+msgstr ""
+
+msgctxt "desc/stuff/a10_bullet"
+msgid "30mm AP"
+msgstr ""
+
+msgctxt "desc/ammo/a10_atgm_missile"
+msgid "AGM-65 Maverick"
+msgstr ""
+
+msgctxt "desc/stuff/a10_atgm_missile"
+msgid "ATGM"
+msgstr ""
+
+msgctxt "desc/ammo/su25k_bullet"
+msgid "GSh-30-2"
+msgstr ""
+
+msgctxt "desc/stuff/su25k_bullet"
+msgid "30mm AP"
+msgstr ""
+
+msgctxt "desc/ammo/su25k_atgm_missile"
+msgid "KH-23M"
+msgstr ""
+
+msgctxt "desc/stuff/su25k_atgm_missile"
+msgid "ATGM"
+msgstr ""

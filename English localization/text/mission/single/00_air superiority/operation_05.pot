@@ -137,7 +137,7 @@ msgid "M2 Bradley equiped with a bushmaster autocannon and a TOW anti tank ATGM,
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/m1a2_desc"
-msgid "An M1A2 Abrams equiped with a 120mm smoothbore cannon, and heavy composite armor capable of taking a beating from anything you can throw at it!"
+msgid "An M1A2C Abrams equiped with a 120mm smoothbore cannon, and heavy composite armor capable of taking a beating from anything you can throw at it!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/seal_talk"
@@ -177,7 +177,7 @@ msgid "A Humvee equiped with a TOW ATGM launcher."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/zone4_talk2"
-msgid "Understood good work, rerouting friendly M1A2s to support the final seige."
+msgid "Understood good work, rerouting new friendly M1A2Cs to support the final seige."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/squad2_title"
@@ -225,7 +225,7 @@ msgid "Regular Infantry"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/m1a2_abrams_title"
-msgid "M1A2 Abrams with Rangers"
+msgid "M1A2C Abrams with Rangers"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_05/rescue_talk"

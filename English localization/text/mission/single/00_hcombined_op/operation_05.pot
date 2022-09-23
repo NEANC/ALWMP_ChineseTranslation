@@ -1,0 +1,301 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (operation_05)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_hcombined_op/operation_05/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/place"
+msgid "Coalition Convoy Ambush"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/name"
+msgid "Embassy Raid"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/name_big"
+msgid "Operation 5"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/story"
+msgid "A Coalition convoy is ambushed by rebel forces. The surviving troops must fight their way to a local German embassy under siege, in order to be evacuated to safety."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin1"
+msgid "Incoming hostiles, all sides!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin10"
+msgid "Command, we've been ambushed at grid location 45.67, 85.34. We have two humvees down and need support!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin11"
+msgid "Understood, theres a German Embassy just south of your position. It's under fire and being evacuated, try to make your way there."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin12"
+msgid "Copy that, engineer plant some charges on that barricade! We're going south through the alley."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin13"
+msgid "Planting charges, this will take a few minutes keep me covered!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin14"
+msgid "Alright, everyone take up defensive positions around the checkpoint!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin15"
+msgid "Local government forces have UH-1H gunships in the area, direct their fire as needed."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin2"
+msgid "Tank incoming!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin3"
+msgid "The lead car is down, take the side road!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin4"
+msgid "Keep that gun firing!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin5"
+msgid "We just lost another humvee!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin6"
+msgid "There's a Police checkpoint up ahead, lets give them some support!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin7"
+msgid "Alright everyone out, we'll aproach the checkpoint on foot."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin8"
+msgid "GO GO GO! Get to cover Marines!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/begin9"
+msgid "Watch your fire, they're friendly!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/c_cut1"
+msgid "Charges planted, Fire in the hole!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/c_cut2"
+msgid "The T-72s back!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/c_cut3"
+msgid "Run for the alley, GO GO GO!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/c_cut4"
+msgid "Moving the FMTV infront of the opening, hopefully it hold them."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/c_cut5"
+msgid "Lets get to the embassy before we have to find out."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/c_uh1_talk1"
+msgid "Location locked in, moving in for attack run!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/c_uh1_title"
+msgid "UH-1H Strafing Run"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/checkpoint_failstate"
+msgid "All allied units have been eliminated!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/chinook_sighting"
+msgid "That chinooks our ride, we better hurry!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/d_checkpoint_title"
+msgid "Defend the engineer until the explosives are planted!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_begin1"
+msgid "This should be the last of the civilians."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_begin2"
+msgid "Wait hold the helicopter, we need a lift back to base!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_begin3"
+msgid "Sorry the helicopters full, you'll have to wait for the next pickup."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_begin4"
+msgid "Copy that, squad setup a perimeter!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_begin5"
+msgid "Be advised, recon shows a large enemy force approching the embassy ETA 3 minutes."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_begin6"
+msgid "UH-1H rearmed and ready to provide more fire support, just give us a location!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_halfway"
+msgid "We just dropped the civilians off at the base. Keep holding out just a little longer!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_start"
+msgid "Here they come, hold your ground!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_timer_main"
+msgid "Evac arrives in:"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_timer_prep"
+msgid "Prepare to defend:"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/e_uh1_talk1"
+msgid "Copy that, moving to attack the targets. Keep your heads down!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/em_failstate"
+msgid "All allied troops in the embassy have been eliminated!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/engineer_halfway"
+msgid "Half the charges are planted, hold on just a little longer!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/escape_title"
+msgid "Escape the Ambush!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac1"
+msgid "Hurry up and get in, we'll cover you!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac2"
+msgid "Everyone's on, Rangers mount up we're leaving!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac3"
+msgid "All survivors onboard, chinook taking off and heading back to base."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac4"
+msgid "Good work, we've relocated a drone to the area. Lets give the enemy a little parting gift."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac5"
+msgid "Targets locked, firing hellfires!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac6"
+msgid "Missiles fired, heading back to base."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac_0_1"
+msgid "Copy that, preparing to board."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac_0_5"
+msgid "We're bringing in the chinook for one final pickup, make sure you get everyone onboard!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac_fail_talk"
+msgid "We lost the Chinook, that was our only way out!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac_failstate"
+msgid "The Chinook was destroyed!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/evac_title"
+msgid "Get all remaining soldiers inside the CH-47!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/fuel_truck"
+msgid "Theres a fuel truck making a run at the front gate! Don't let it get close!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/hold_e_title"
+msgid "Defend the helipad until extraction."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/intro_p2_failstate"
+msgid "All your marines died before reaching the checkpoint!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/l_checkpoint_timer"
+msgid "Protect the Engineer for:"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/mid1"
+msgid "We're almost there, just a few more enemys."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/mid2"
+msgid "This is our chance, we have a path to the embassy!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/mid_failstate"
+msgid "All your units died before reaching the embassy, the chinook left without you."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/p_embassy_title"
+msgid "Prepare to defend the Embassy!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/r_checkpoint_title"
+msgid "Reach the police checkpoint."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/r_embassy_title"
+msgid "Make your way to the German embassy."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/reinforce4"
+msgid "We're sending in a few extra National Army Soldiers to help you defend."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/reinforce8"
+msgid "We're sending in a squad of National Army Soldiers to help you defend."
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/uh1_abandon"
+msgid "Our UH-1H has received heavy damage, we're heading back to base. Good luck!"
+msgstr ""
+
+msgctxt "mission/single/00_hcombined_op/operation_05/win"
+msgid "You ran the gauntlet and were evacuated to safety! Great work!"
+msgstr ""

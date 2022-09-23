@@ -1,0 +1,189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (single/00_air superiority/operation_07)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/00_air superiority/operation_07/date"
+msgid "Sometime in the near future..."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/place"
+msgid "Coalition reminants attempt informant rescue."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/name"
+msgid "Aftermath"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/name_big"
+msgid "Operation 7"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/story"
+msgid "Worried about growing US infuince after eliminating most of the GRM. Russia decided to launch a first strike against US military and Coalition forces. A small group of Coalition forces attempts to rescue Russian Informants with critical info on the next Russian attacks. These informants must be captured alive, but to get to them you will have to navigate into one of the blast sites. Good luck!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/airstrike_done"
+msgid "Warthog One out of ammo and leaving the combat zone, good luck!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/airstrike_timer"
+msgid "A10 Gunrun in:"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/airstrike_warning"
+msgid "We've have friendly A10 performing an airstrike on the intersection, stay clear!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/airstrike_warning2"
+msgid "Warthog One strafing the target now."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/backup1"
+msgid "good work so far, we've got a few extra troops headed your way. I'm putting them under your command."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/backup2"
+msgid "Copy that, we need all the help we can get!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/end1"
+msgid "Red smoke spotted, moving in for evac."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/end2"
+msgid "Get on the choppers! Go Go Go!."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/end2_5"
+msgid "We have touchdown at Alpha base with VIP cargo, great work!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/end3"
+msgid "Great work, thanks to this info we know the location of the Russian attack. Get some rest, World War 3 has just begun."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/enemy_reinforce1"
+msgid "Enemy reinforcements incoming!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/fail_part1"
+msgid "Team leader respond, anyone please respond... We've lost them all, call off the assualt."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/helis1"
+msgid "Gunship One transmiting in the blind, we are moving into a holding pattern above the informants. Once they are secure deploy red smoke for an evac."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/intro1"
+msgid "Two hours ago our forces were devestated by Russian Bombers."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/intro2"
+msgid "Even so our mission still stands, we need to secure the evac of our informants. This was the last order from command before comms cut out."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/intro3"
+msgid "To do this we need to regroup with the survivors of the blast and make a final push towards the Informants."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/intro4"
+msgid "Most police checkpoints have been overrun by advancing Russian forces. Retaking this territory will not be easy."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/intro5"
+msgid "You will have to make do with some vehicles we pulled from storage. We're throwing everything we have left into this, lets hope its enough. Good Luck!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/intro6"
+msgid "Copy that, lets go marines!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/keep_alive_obj"
+msgid "Don't lose all your units, resources are stretched thin."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/lose"
+msgid "You failed to reach the survivors, all informants were executed."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/obj1"
+msgid "We've made contact with the survivors, preparing for the final assault now!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/obj1_2"
+msgid "Good work, this will be an infantry only assault. You will be taking command of our surviving special forces."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/obj1_3"
+msgid "Remember we need those informants, they could have info on future Russian plans."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/obj1_4"
+msgid "Clear the Russian Spec Ops guarding the area and free the POWs. Then we'll deploy red smoke for a helicopter evac."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/obj1_5"
+msgid "Understood moving in now."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/part2_flyby1"
+msgid "Broadcasting in the blind to ground units in combat, area is to hot. Clear out the remaining enemys and throw red smoke, Our radio reciever got fried by the blast."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/part2_flyby2"
+msgid "Thats our ride out of here, lets clear the area and call an evac!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/pow1_rescued"
+msgid "We secured the first of two POW holding areas."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/pow1_rescued2"
+msgid "Good work now get the other!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/pow_all1"
+msgid "All POWs secured, deploying red smoke!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/reach_pow_obj"
+msgid "Rescue the russian informants and survivors."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/reach_survivors_obj"
+msgid "Regroup with the survivors of the blast."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/uaf_tank1"
+msgid "UAF survivors salvaged an M1A1M and will use it to support your advance."
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/uaf_tank2"
+msgid "Copy That!"
+msgstr ""
+
+msgctxt "mission/single/00_air superiority/operation_07/win_message"
+msgid "Russian informants have been evacuated, Great work! According to this information Russian troops will move to encircle our retreating forces. We have German reinforcements incoming, lets hope they make it in time."
+msgstr ""

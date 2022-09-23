@@ -1,0 +1,369 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (aalw_police)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+
+
+msgctxt "mp/army/cjef"
+msgid "UN Task Force"
+msgstr ""
+
+;Main Squads
+
+msgctxt "desc/squad/squad1(cjef)"
+msgid "Peacekeepers"
+msgstr ""
+
+msgctxt "desc/squad/squad1b_cjef"
+msgid "Peacekeepers (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad2(cjef)"
+msgid "Fusilier Assault"
+msgstr ""
+
+msgctxt "desc/squad/squad2b_cjef"
+msgid "Fusilier Assault (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad3(cjef)"
+msgid "Fusilier Defense"
+msgstr ""
+
+msgctxt "desc/squad/squad3b_cjef"
+msgid "Fusilier Defense (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad4(cjef)"
+msgid "Foreign Legion"
+msgstr ""
+
+msgctxt "desc/squad/squad4b_cjef"
+msgid "Foreign Legion (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad5(cjef)"
+msgid "Commandos Marine Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad5b_cjef"
+msgid "Commandos Marine Squad (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad6(cjef)"
+msgid "SAS Commandos"
+msgstr ""
+
+msgctxt "desc/squad/squad6b_cjef"
+msgid "SAS Commandos (Motorized)"
+msgstr ""
+
+msgctxt "desc/entity/airstrike_bomb_cjef"
+msgid "Bomb Airstrike"
+msgstr ""
+
+;Secondary Squads
+
+msgctxt "desc/squad/squad12(cjef)"
+msgid "Tank Crew Team"
+msgstr ""
+
+msgctxt "desc/squad/squad11(cjef)"
+msgid "Engineer Team"
+msgstr ""
+
+msgctxt "desc/squad/squad7(cjef)"
+msgid "Support Team"
+msgstr ""
+
+msgctxt "desc/squad/squad8(cjef)"
+msgid "Fire Team"
+msgstr ""
+
+msgctxt "desc/squad/squad9(cjef)"
+msgid "AT Team"
+msgstr ""
+
+msgctxt "desc/squad/squad10(cjef)"
+msgid "Sniper Team"
+msgstr ""
+
+msgctxt "desc/squad/squad13(cjef)"
+msgid "Police Unit"
+msgstr ""
+
+msgctxt "desc/squad/squad14(cjef)"
+msgid "Marksman Team"
+msgstr ""
+
+msgctxt "desc/squad/squad15(cjef)"
+msgid "Javelin Team"
+msgstr ""
+
+msgctxt "desc/squad/squad16(cjef)"
+msgid "Assault Storm"
+msgstr ""
+
+msgctxt "desc/squad/squad17(cjef)"
+msgid "Assault Recon"
+msgstr ""
+
+msgctxt "desc/squad/squad18(cjef)"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/squad/squad19(cjef)"
+msgid "Scout"
+msgstr ""
+
+msgctxt "desc/squad/squad20(cjef)"
+msgid "Marksman"
+msgstr ""
+
+msgctxt "desc/squad/squad21(cjef)"
+msgid "Shotgunner"
+msgstr ""
+
+msgctxt "desc/squad/squad22(cjef)"
+msgid "SpecOp"
+msgstr ""
+
+msgctxt "desc/squad/squad23(cjef)"
+msgid "Heavy Assault"
+msgstr ""
+
+msgctxt "desc/squad/squad24(cjef)"
+msgid "Sniper"
+msgstr ""
+
+;Units
+
+msgctxt "desc/human/mp/cjef/t1_01"
+msgid "UN Peacekeeper"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1_02"
+msgid "UN Peacekeeper"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1_03"
+msgid "UN Peacekeeper"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1_sq"
+msgid "UN Peacekeeper Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1b_01"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1b_02"
+msgid "SWAT Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1b_03"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1b_04"
+msgid "National Police Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1b_05"
+msgid "National Police Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1b_06"
+msgid "National Police Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t1b_sq"
+msgid "Swat Commander"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t2_01"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t2_02"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t2_03"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t2_04"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t2_05"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t2_06"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t2_07"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t2_medic"
+msgid "British Fusilier Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t2_sq"
+msgid "British Fusilier Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t3_01"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t3_02"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t3_03"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t3_04"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t3_medic"
+msgid "Legionnaire Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t3_sq"
+msgid "Legionnaire Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t4_01"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t4_02"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t4_03"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t4_04"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t4_sq"
+msgid "French Commandos Marine Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t5_01"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t5_02"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t5_03"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t5_04"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/t5_sq"
+msgid "British SAS Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tg_main"
+msgid "SWAT Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/th_assault"
+msgid "French Assault Storm"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/th_assault2"
+msgid "British Assault Recon"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/th_heavy_assault"
+msgid "British Heavy Assault"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/th_marksman"
+msgid "UN Marksman"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/th_mg"
+msgid "French Machine Gunner"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/th_scout"
+msgid "UN Scout"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/th_shotgunner"
+msgid "British Shotgunner"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/th_sniper"
+msgid "UN Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/th_specop"
+msgid "British SpecOP"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tx_at_01"
+msgid "Legionnaire AT"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tx_at_02"
+msgid "Javelin AT"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tx_sniper_01"
+msgid "British Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tx_sniper_02"
+msgid "British Sniper Support"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tx_engineer_01"
+msgid "Task Force Engineer"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tx_pilot_01"
+msgid "Task Force Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tx_pilot_02"
+msgid "Task Force Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tx_tankman_01"
+msgid "Task Force Tankman"
+msgstr ""
+
+msgctxt "desc/human/mp/cjef/tx_tankman_02"
+msgid "Task Force Tankman"
+msgstr ""

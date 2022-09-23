@@ -193,7 +193,7 @@ msgid "All survivors are onboard, taking off and heading back to base."
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/civ_watch_fire"
-msgid "Careful theres civilans caught in the crossfire!"
+msgid "The enemy is firing on civilians!"
 msgstr ""
 
 msgctxt "mission/single/00_air superiority/operation_01/begin15"

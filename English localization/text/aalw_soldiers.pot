@@ -12,6 +12,86 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 
+msgctxt "desc/human/special/us_acting_commander"
+msgid "Coalition Acting Commander"
+msgstr ""
+
+msgctxt "desc/human/special/marine_player"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/channel9_news"
+msgid "Breaking News"
+msgstr ""
+
+msgctxt "desc/human/special/joint_hq"
+msgid "Coalition HQ"
+msgstr ""
+
+msgctxt "desc/human/special/aalw_ger_player"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/aalw_pilot_player"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/diplomat_brit"
+msgid "British Diplomat"
+msgstr ""
+
+msgctxt "desc/human/special/diplomat_fra"
+msgid "French Diplomat"
+msgstr ""
+
+msgctxt "desc/human/special/diplomat_ger"
+msgid "German Diplomat"
+msgstr ""
+
+msgctxt "desc/human/special/diplomat_rus"
+msgid "Russian Diplomat"
+msgstr ""
+
+msgctxt "desc/human/special/diplomat_usa"
+msgid "US Diplomat"
+msgstr ""
+
+msgctxt "desc/human/special/us_r_trainer"
+msgid "US Recruit Trainer"
+msgstr ""
+
+msgctxt "desc/human/special/ger_r_trainer"
+msgid "German Recruit Trainer"
+msgstr ""
+
+msgctxt "desc/human/special/russian_general"
+msgid "Russian General"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_hq"
+msgid "Operations Director"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_drone_op"
+msgid "Drone Operator"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_informant1"
+msgid "Informant"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_informant2"
+msgid "Informant"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_player_spetz"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/opfor_spetz_pilot"
+msgid "Spetsnaz Pilot"
+msgstr ""
+
 msgctxt "desc/human/aalw_units/gov_sol/t2_01"
 msgid "National Army Soldier"
 msgstr ""
@@ -32,28 +112,8 @@ msgctxt "desc/human/aalw_units/gov_sol/t2_05"
 msgid "National Army Soldier"
 msgstr ""
 
-msgctxt "desc/entity/pd_car"
-msgid "Police Car"
-msgstr ""
-
-msgctxt "desc/entity/pd_car_lights"
-msgid "Police Car"
-msgstr ""
-
-msgctxt "desc/entity/swat_van"
-msgid "SWAT Van"
-msgstr ""
-
-msgctxt "desc/entity/swat_matv_m240"
-msgid "SWAT M240"
-msgstr ""
-
-msgctxt "desc/entity/swat_matv_m2hb"
-msgid "SWAT M2HB"
-msgstr ""
-
-msgctxt "desc/entity/swat_matv_mk19"
-msgid "SWAT MK19"
+msgctxt "desc/human/aalw_units/police/national_police"
+msgid "National Police Officer"
 msgstr ""
 
 msgctxt "desc/human/aalw_units/police/police_officer"

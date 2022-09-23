@@ -1,0 +1,415 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (rwf)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+;French Vehicles
+
+msgctxt "desc/entity/tiger_french_heavy"
+msgid "Tiger Heavy"
+msgstr ""
+
+msgctxt "desc/entity/tiger_french"
+msgid "Tiger"
+msgstr ""
+
+msgctxt "desc/entity/nh90_french"
+msgid "NH-90"
+msgstr ""
+
+msgctxt "desc/entity/nh90_french_mg"
+msgid "NH-90 MG"
+msgstr ""
+
+msgctxt "desc/entity/ch-47_british"
+msgid "CH-47D Chinook"
+msgstr ""
+
+msgctxt "desc/entity/amx56_leclerc"
+msgid "AMX Leclerc"
+msgstr ""
+
+msgctxt "desc/entity/vab_ammo"
+msgid "VAB Ammo"
+msgstr ""
+
+msgctxt "desc/entity/vbl_m2hb"
+msgid "VBL M2HB"
+msgstr ""
+
+msgctxt "desc/entity/vbl_nf1"
+msgid "VBL LMG"
+msgstr ""
+
+msgctxt "desc/entity/vbl_gmw"
+msgid "VBL GMW"
+msgstr ""
+
+msgctxt "desc/entity/vbl_milan"
+msgid "VBL Milan"
+msgstr ""
+
+msgctxt "desc/entity/vab"
+msgid "VAB"
+msgstr ""
+
+msgctxt "desc/entity/vab_mg"
+msgid "VAB M2HB"
+msgstr ""
+
+msgctxt "desc/entity/vbci_ifv"
+msgid "VBCI IFV"
+msgstr ""
+
+msgctxt "desc/entity/amx10"
+msgid "AMX-10 RC"
+msgstr ""
+
+;British Vehicles
+
+msgctxt "desc/entity/fv107"
+msgid "FV107"
+msgstr ""
+
+msgctxt "desc/entity/fv432_med"
+msgid "FV432 Medevac"
+msgstr ""
+
+msgctxt "desc/entity/fv432_unarmed"
+msgid "FV432"
+msgstr ""
+
+msgctxt "desc/entity/ah-64_british_heavy"
+msgid "AH-64 Apache"
+msgstr ""
+
+msgctxt "desc/entity/ch-47_british"
+msgid "CH-47D Chinook"
+msgstr ""
+
+msgctxt "desc/entity/land_rover"
+msgid "Landrover M2HB"
+msgstr ""
+
+msgctxt "desc/entity/land_rover_sas"
+msgid "Landrover SAS M2HB"
+msgstr ""
+
+msgctxt "desc/entity/land_rover_sas_lmg"
+msgid "Landrover SAS LMG"
+msgstr ""
+
+msgctxt "desc/entity/land_rover_milan"
+msgid "Landrover SAS Milan"
+msgstr ""
+
+msgctxt "desc/entity/fv432_bulldog"
+msgid "FV432 Bulldog M2HB"
+msgstr ""
+
+msgctxt "desc/entity/fv432"
+msgid "FV432 M2HB"
+msgstr ""
+
+msgctxt "desc/entity/challenger2"
+msgid "Challenger 2"
+msgstr ""
+
+msgctxt "desc/entity/fv510"
+msgid "FV510 Warrior"
+msgstr ""
+
+msgctxt "desc/entity/warrior"
+msgid "FV510 Warrior"
+msgstr ""
+
+;French Infantry
+
+msgctxt "desc/human/aalw_units/rwf_french/t3_01"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t3_02"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t3_03"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t3_04"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t3_05"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t3_06"
+msgid "Legionnaire"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t3_medic"
+msgid "Legionnaire Medic"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t3_sq"
+msgid "Legionnaire Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t4_01"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t4_02"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t4_03"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t4_04"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t4_05"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t4_06"
+msgid "French Commandos Marine"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/t4_sq"
+msgid "French Commandos Marine Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/tx_at_01"
+msgid "Legionnaire AT"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/tx_engineer_01"
+msgid "Legionnaire Engineer"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/tx_pilot_01"
+msgid "French Pilot"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/tx_pilot_02"
+msgid "French Pilot"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_french/tx_tankman_01"
+msgid "French Tankman"
+msgstr ""
+
+;British Infantry
+
+msgctxt "desc/human/aalw_units/rwf_british/t2_01"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t2_02"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t2_03"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t2_04"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t2_05"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t2_06"
+msgid "British Fusilier"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t2_medic"
+msgid "British Fusilier Medic"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t2_sq"
+msgid "British Fusilier Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t5_01"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t5_02"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t5_03"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t5_04"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t5_05"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t5_06"
+msgid "British SAS"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/t5_sq"
+msgid "British SAS Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/tx_at_01"
+msgid "British Fusilier AT"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/tx_engineer_01"
+msgid "British Fusilier Engineer"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/tx_pilot_01"
+msgid "British Pilot"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/tx_pilot_02"
+msgid "British Pilot"
+msgstr ""
+
+msgctxt "desc/human/aalw_units/rwf_british/tx_tankman_01"
+msgid "British Tankman"
+msgstr ""
+
+;Weapons
+
+msgctxt "desc/weapon/105mm_f2_meca_l47"
+msgid "105mm L/47"
+msgstr ""
+
+msgctxt "desc/weapon/nf1"
+msgid "NF1"
+msgstr ""
+
+msgctxt "desc/weapon/hk417_snip"
+msgid "HK417"
+msgstr ""
+
+msgctxt "desc/weapon/l86_susat"
+msgid "L86 LMG"
+msgstr ""
+
+msgctxt "desc/weapon/l119a2_a"
+msgid "L119a2"
+msgstr ""
+
+msgctxt "desc/weapon/l119a2_h"
+msgid "L119a2"
+msgstr ""
+
+msgctxt "desc/weapon/m320"
+msgid "M320"
+msgstr ""
+
+msgctxt "desc/weapon/famas_f1"
+msgid "FAMAS F1"
+msgstr ""
+
+msgctxt "desc/weapon/famas_f1_aimpoint"
+msgid "FAMAS F1"
+msgstr ""
+
+msgctxt "desc/weapon/hk416_aimpoint"
+msgid "HK416"
+msgstr ""
+
+msgctxt "desc/weapon/hk416_aimpoint_2"
+msgid "HK416"
+msgstr ""
+
+msgctxt "desc/weapon/hk416"
+msgid "HK416"
+msgstr ""
+
+msgctxt "desc/weapon/hk416_extended_stock"
+msgid "HK416"
+msgstr ""
+
+msgctxt "desc/weapon/famas_f1_opt"
+msgid "FAMAS F1"
+msgstr ""
+
+msgctxt "desc/weapon/glock19"
+msgid "Glock 19"
+msgstr ""
+
+msgctxt "desc/weapon/l85a2"
+msgid "L85A2"
+msgstr ""
+
+msgctxt "desc/weapon/l85a2_acog"
+msgid "L85A2"
+msgstr ""
+
+msgctxt "desc/weapon/l85a2_susat"
+msgid "L85A2"
+msgstr ""
+
+msgctxt "desc/weapon/l22a2_susat"
+msgid "L22A2"
+msgstr ""
+
+msgctxt "desc/weapon/l110a1"
+msgid "L110A1"
+msgstr ""
+
+msgctxt "desc/weapon/l110a1_susat"
+msgid "L110A1"
+msgstr ""
+
+msgctxt "desc/weapon/minimi_v1"
+msgid "FN Minimi"
+msgstr ""
+
+msgctxt "desc/weapon/minimi_v2"
+msgid "FN Minimi"
+msgstr ""
+
+msgctxt "desc/weapon/l94a1"
+msgid "L94A1"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_f1"
+msgid "120mm GIAT CN120"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_l30a1"
+msgid "120mm Tk L30"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_m693_f2"
+msgid "20mm M693 F2"
+msgstr ""
+
+msgctxt "desc/weapon/25mm_m811"
+msgid "25mm M811"
+msgstr ""
+
+msgctxt "desc/weapon/30mm_l21a1"
+msgid "30mm L21A1"
+msgstr ""
