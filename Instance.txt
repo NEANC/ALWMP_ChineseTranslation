@@ -1,0 +1,63 @@
+[code]This is a mission pack containing 20 handcrafted missions in 4 intense campaigns! A US Military campaign "Air Superiority", the UAF Army campaign "Ground War", a Coalition campaign "Combined Operations", and a Russian Military campaign "Opposing Force". This mission pack contains all 20 missions I have made, and a UN Task Force multiplayer faction! I will also be extending these campaigns with more missions in the future.[/code]
+
+[h1]The Missions included are as follows [/h1]
+[hr][/hr]
+
+[h2]Air Superiority - US Military Campaign [/h2]
+[hr][/hr]
+[list]
+[*]"A Long Night" - Save the survivors of a downed blackhawk and defend a US checkpoint.
+[*]"Assault Disaster" - A major US assault is destroyed by an experimental weapon. Save the survivors and finish the job.
+[*]"Broken Arrow" - You are shot down in a GRM occupied area, Make use of local air units and survive for rescue.
+[*]"Convoy Ambush" - A US convoy is ambushed on a patrol, Defend the convoy until reinforcements arrive.
+[*]"Lakebed Showdown" - UAF inteligence gave us the location of a GRM fortress, lets show them what we've got!
+[*]"Lead Rain" - Take flight in an A-10 Warthog and tear through the enemy lines to support your troops!
+[*]"Aftermath" - Russia has entered the war and we've lost contact with command. Rescue our informants to give us a chance to turn this around!
+[/list]
+
+[h2]Ground War - UAF Army Campaign [/h2]
+[hr][/hr]
+[list]
+[*]"City Siege" - Fight block to block to get a friendly pilot into a Rebel helicopter containing important information.
+[*]"Valley Defense" - Your convoy is attacked, With nowhere to go you defend your position in hopes of reinforcements.
+[*]"High Stakes" - You discover an important railway station, conduct a naval landing and destroy the station!
+[*]"Last Stand" - After a surprise attack on a UAF base, only 7 soldiers remain, man the M2 Browning on top of the last humvee and hold out until evac!
+[*]"Blizzard of Fire" - Stranded after evacuating a base, the UAF survivors push through enemy positions and arrive at a US Firebase under siege waiting for an evac that might never arrive.
+[*]"Endgame" - Capture a heavily defended enemy city with the help of local authorities. As you progress better reinforcements will arrive.
+[/list]
+
+[h2]Combined Operations - Coalition Task Force [/h2]
+[hr][/hr]
+[list]
+[*]"Evacuation" - After suffering major losses to the Russians, U.S. forces are forced to retreat. Their rear guard must hold off the Russians long enough for the German army to arrive and secure the area.
+[*]"Hellfire Hurricane" - Coalition forces must push through enemy lines using an Apache, then repel a large enemy counter attack.
+[*]"Forgotten Fortress" - Man the minigun on a Blackhawk and clear the staging area for your assault, then eliminate all Russian positions!
+[*]"Trial by Fire" - A Coalition training base is attacked, after heavy losses defend the base and mount a counter attack!
+[*]"Embassy Raid" - After your convoy is attacked, you must fight your way to the nearby German Embassy and hold out until evacuation.
+[/list]
+
+[h2]Opposing Force - Russian Military [/h2]
+[hr][/hr]
+[list]
+[*]"Breakthrough" - Coalition forces have captured a Russian General, command a VDV task force and get him out safely!
+[*]"Sunken City" - A Russian defector is giving the coalition important information in a flooded city, Eliminate him!
+[/list]
+- More to come in the future. A lot of effort and time went into these missions, I hope you enjoy playing them as much as I did making them!
+
+[h2]- Localizations [/h2]
+[hr][/hr]
+[url=steamcommunity.com/sharedfiles/filedetails/?id=1561437348]ÖÐÎÄ·­Òë (Chinese Translation)[/url]
+
+[h2]- Special Thanks to these Youtubers for playing the missions! [/h2]
+[hr][/hr]
+[url=youtube.com/playlist?list=PLia5GcgstS94NYRjOBkrhXnH-NkprA7G2][b]Raptor[/b][/url]
+[url=youtube.com/playlist?list=PLia5GcgstS96xixvI6c5qtg74jyxLjMpM][b]ZeroHeros8[/b][/url]
+[url=youtube.com/playlist?list=PLia5GcgstS979Tyn26zrRgiDZgNFZ_4S0][b]The Shermanator[/b][/url]
+[url=youtube.com/playlist?list=PLia5GcgstS96jiURv9UCNUQaob-In10Bl][b]Ex Military Gaming[/b][/url]
+
+[h2]- Model Credits [/h2]
+[hr][/hr]
+[b]The list of credits for models in this mod is in this discussion forum:[/b]
+https://steamcommunity.com/workshop/filedetails/discussion/1433544352/2942494909167769585/
+[code][b]Important Note: [/b]
+If you or someone you know created any of the models in this mod and are not credited please leave a comment informing me, some models in the mod are taken from the mods I credited in the discussion forum, but I cannot verify their original source. If a model is credited wrong or belongs to someone else, please leave a comment below informing me. So I can properly credit or remove the model in question, Thanks.[/code]
