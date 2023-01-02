@@ -1,13 +1,13 @@
 ﻿[h1] Air Land Warfare Mission Pack of Chinese Translation [/h1]
-[b] 空地作战任务包的中文翻译包 -> 本MOD是[url=steamcommunity.com/sharedfiles/filedetails/?id=1433544352]Air & Land Warfare Mission Pack Mission[/url]的汉化包 [/b]
+[b] 空地作战任务包的汉化包 -> 本MOD是[url=steamcommunity.com/sharedfiles/filedetails/?id=1433544352]Air & Land Warfare Mission Pack Mission[/url]的汉化包 [/b]
 [hr][/hr]
 
 [h2] 已汉化任务表 [/h2]
 [hr][/hr]
 [h3]空中优势 - 美国军事行动 [/h3]
 [olist]
-[*]漫漫长夜
-[*]失败的进攻
+[*]漫漫长夜[精校]
+[*]失败的进攻[精校]
 [*]断箭行动
 [*]巡逻队被伏击
 [*]湖床决战
@@ -52,16 +52,13 @@
 
 [h2] 发布 [/h2]
 [hr][/hr]
-[url=steamcommunity.com/profiles/76561198088693501]Johnson Chen[/url]
-[url=steamcommunity.com/profiles/76561198174688159/]小马[/url]
-[url=paratranz.cn/projects/1101]Paratranz项目页[/url]
 [url=github.com/NEANC/ALWMP_ChineseTranslation]Github仓库页[/url]
 
 [h2] 鸣谢 [/h2]
 [hr][/hr]
 [code]
 [url=steamcommunity.com/profiles/76561198088693501]Johnson Chen[/url]
-[url=steamcommunity.com/profiles/76561198174688159/]烛夜（小马）[/url]
+[url=steamcommunity.com/profiles/76561198174688159/]烛夜[/url]
 [b]排名不分前后[/b]
 [/code]
 
